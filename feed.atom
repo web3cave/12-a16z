@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T03:36:49.833Z</id>
+    <id>urn:2022-04-01T04:11:10.759Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-01T03:36:49.833Z</updated>
+    <updated>2022-04-01T04:11:10.759Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,17 +69,6 @@ The post AlphaFold, GPT-3 and How to Augment Intelligence with AI (Pt. 2) appear
 The post AlphaFold, GPT-3 and How to Augment Intelligence with AI appeared first on Future.]]></summary>
         <author>
             <name>Niko Grupen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Decade of Deep Learning: How the AI Startup Experience Has Evolved]]></title>
-        <id>https://future.a16z.com/?p=4611</id>
-        <link href="https://future.a16z.com/a-decade-of-deep-learning-ai-startup/"/>
-        <updated>2022-03-02T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The artificial intelligence field has evolved dramatically since the deep learning revolution kicked off in 2012, and Richard Socher has been around for all of it. He earned his PhD from Stanford working on NLP (natural language processing) before co-founding an AI startup called MetaMind in 2013. He then spent several years leading the AI... Read More
-The post A Decade of Deep Learning: How the AI Startup Experience Has Evolved appeared first on Future.]]></summary>
-        <author>
-            <name>Richard Socher and Derrick Harris</name>
         </author>
     </entry>
 </feed>
