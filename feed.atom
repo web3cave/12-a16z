@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T04:07:36.786Z</id>
+    <id>urn:2022-04-06T05:06:13.847Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T04:07:36.786Z</updated>
+    <updated>2022-04-06T05:06:13.847Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -67,17 +67,6 @@ The post Info Diet: Modern Fertility CEO Afton Vechery appeared first on Future.
         <updated>2022-03-08T16:00:07.000Z</updated>
         <summary type="html"><![CDATA[As we saw in Part 1, it’s possible to get started on a number of important problems by building augmentation infrastructure around the strengths of an artificial intelligence model. Does the model generate text? Build around text. Can it accurately predict 3D structures? Build around 3D structures. But taking an artificial intelligence system completely at... Read More
 The post AlphaFold, GPT-3 and How to Augment Intelligence with AI (Pt. 2) appeared first on Future.]]></summary>
-        <author>
-            <name>Niko Grupen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaFold, GPT-3 and How to Augment Intelligence with AI]]></title>
-        <id>https://future.a16z.com/?p=4641</id>
-        <link href="https://future.a16z.com/alphafold-gpt-3-and-how-to-augment-intelligence-with-ai/"/>
-        <updated>2022-03-07T16:45:42.000Z</updated>
-        <summary type="html"><![CDATA[This is the first post in a two-part series. Read Part 2 here. Around the same time that Alan Turing was shaping his theories of machine intelligence in Manchester, another future giant of the computing world, Douglas Engelbart, was developing an alternative computing paradigm over 5,000 miles away in the Bay Area.  Engelbart believed that... Read More
-The post AlphaFold, GPT-3 and How to Augment Intelligence with AI appeared first on Future.]]></summary>
         <author>
             <name>Niko Grupen</name>
         </author>
