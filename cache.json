@@ -6,12 +6,22 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5098",
+          "author": "Miles Jennings",
+          "description": "The promise of decentralization has been heavily discussed and debated, from why it matters to the bigger question of who will control the software that powers the internet. These questions are critical, because as we have seen, when control is held in the hands of a very few, encroachments on personal freedom, choice, and privacy... Read More\nThe post Decentralization for Web3 Builders: Principles, Models, How appeared first on Future.",
+          "link": "https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/",
+          "publishedOn": "2022-04-07T16:15:53.000Z",
+          "wordCount": 7261,
+          "title": "Decentralization for Web3 Builders: Principles, Models, How",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/web2centralizationvsweb3decentralization_milesjennings_a16zcrypto.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5068",
           "author": "Jenny Wang and Michael Chiang",
           "description": "Web3 has infiltrated mainstream culture, from Paris Hilton showcasing her NFTs on the Tonight Show to ConstitutionDAO attempting to buy one of the last remaining copies of the Constitution. Joining web3, however, is still a complex and confusing process geared toward early adopters. There’s a whole cohort of digitally native people — let’s call them... Read More\nThe post Can ‘Community Composability’ Help Web2 Users Make the Jump to Web3? appeared first on Future.",
           "link": "https://future.a16z.com/can-community-composability-help-web2-users-make-the-jump-to-web3/",
           "publishedOn": "2022-04-04T17:02:08.000Z",
-          "wordCount": 2025,
+          "wordCount": 2021,
           "title": "Can ‘Community Composability’ Help Web2 Users Make the Jump to Web3?",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/V7_GenericTopic_Crypto.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "This is an edited and abridged version of a post that originally ran on the Anduril blog. It would be difficult to find a more prophetic blog post in the history of technology commentary than Marc Andreessen’s 2011 “Why Software is Eating the World.” Over the past decade, software companies have driven the lion’s share... Read More\nThe post How Data Rights Stifle Innovation in the DoD (and How to Fix Them) appeared first on Future.",
           "link": "https://future.a16z.com/data-rights-stifle-innovation-in-the-dod/",
           "publishedOn": "2022-03-18T14:00:31.000Z",
-          "wordCount": 3563,
+          "wordCount": 3565,
           "title": "How Data Rights Stifle Innovation in the DoD (and How to Fix Them)",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/03/V3_GenericTopic_Infrastructure-1.png"
         },

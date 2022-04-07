@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T16:08:05.362Z</id>
+    <id>urn:2022-04-07T17:09:59.420Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T16:08:05.362Z</updated>
+    <updated>2022-04-07T17:09:59.420Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Decentralization for Web3 Builders: Principles, Models, How]]></title>
+        <id>https://future.a16z.com/?p=5098</id>
+        <link href="https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/"/>
+        <updated>2022-04-07T16:15:53.000Z</updated>
+        <summary type="html"><![CDATA[The promise of decentralization has been heavily discussed and debated, from why it matters to the bigger question of who will control the software that powers the internet. These questions are critical, because as we have seen, when control is held in the hands of a very few, encroachments on personal freedom, choice, and privacy... Read More
+The post Decentralization for Web3 Builders: Principles, Models, How appeared first on Future.]]></summary>
+        <author>
+            <name>Miles Jennings</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can ‘Community Composability’ Help Web2 Users Make the Jump to Web3?]]></title>
         <id>https://future.a16z.com/?p=5068</id>
