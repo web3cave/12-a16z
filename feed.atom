@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T06:08:57.352Z</id>
+    <id>urn:2022-04-10T07:07:04.628Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-10T06:08:57.352Z</updated>
+    <updated>2022-04-10T07:07:04.628Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,17 +69,6 @@ The post How Data Rights Stifle Innovation in the DoD (and How to Fix Them) appe
 The post The Key to Enterprise Sales Is Understanding Enterprises appeared first on Future.]]></summary>
         <author>
             <name>Gary Hoberman and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Info Diet: Modern Fertility CEO Afton Vechery]]></title>
-        <id>https://future.a16z.com/?p=4805</id>
-        <link href="https://future.a16z.com/what-modern-fertility-founder-afton-vechery-reads/"/>
-        <updated>2022-03-11T18:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling everything they read, follow, listen to, and watch in order to stay ahead of what’s next. This time: Afton Vechery, co-founder and CEO of the reproductive... Read More
-The post Info Diet: Modern Fertility CEO Afton Vechery appeared first on Future.]]></summary>
-        <author>
-            <name>Afton Vechery</name>
         </author>
     </entry>
 </feed>
