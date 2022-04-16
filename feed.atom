@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T00:31:04.716Z</id>
+    <id>urn:2022-04-16T02:17:14.313Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-16T00:31:04.716Z</updated>
+    <updated>2022-04-16T02:17:14.313Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -80,17 +80,6 @@ The post Data50: The World’s Top Data Startups appeared first on Future.]]></s
 The post How Data Rights Stifle Innovation in the DoD (and How to Fix Them) appeared first on Future.]]></summary>
         <author>
             <name>Babak Siavoshy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Key to Enterprise Sales Is Understanding Enterprises]]></title>
-        <id>https://future.a16z.com/?p=4839</id>
-        <link href="https://future.a16z.com/the-key-to-enterprise-sales/"/>
-        <updated>2022-03-17T14:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Unqork founder and CEO Gary Hoberman took an unusual path to entrepreneurship, spending decades writing code and managing massive budgets on Wall Street (his prior role was executive vice president and global CIO for MetLife) before starting his own company. By his estimation, it was the best thing he could have done to set him... Read More
-The post The Key to Enterprise Sales Is Understanding Enterprises appeared first on Future.]]></summary>
-        <author>
-            <name>Gary Hoberman and Derrick Harris</name>
         </author>
     </entry>
 </feed>
