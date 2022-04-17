@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T00:33:32.123Z</id>
+    <id>urn:2022-04-17T02:23:55.986Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-17T00:33:32.123Z</updated>
+    <updated>2022-04-17T02:23:55.986Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,17 +69,6 @@ The post Can ‘Community Composability’ Help Web2 Users Make the Jump to Web3
 The post Data50: The World’s Top Data Startups appeared first on Future.]]></summary>
         <author>
             <name>Jennifer Li, Sarah Wang and Jamie Sullivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Data Rights Stifle Innovation in the DoD (and How to Fix Them)]]></title>
-        <id>https://future.a16z.com/?p=4853</id>
-        <link href="https://future.a16z.com/data-rights-stifle-innovation-in-the-dod/"/>
-        <updated>2022-03-18T14:00:31.000Z</updated>
-        <summary type="html"><![CDATA[This is an edited and abridged version of a post that originally ran on the Anduril blog. It would be difficult to find a more prophetic blog post in the history of technology commentary than Marc Andreessen’s 2011 “Why Software is Eating the World.” Over the past decade, software companies have driven the lion’s share... Read More
-The post How Data Rights Stifle Innovation in the DoD (and How to Fix Them) appeared first on Future.]]></summary>
-        <author>
-            <name>Babak Siavoshy</name>
         </author>
     </entry>
 </feed>
