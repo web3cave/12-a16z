@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T15:06:08.389Z</id>
+    <id>urn:2022-04-18T16:08:25.127Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-18T15:06:08.389Z</updated>
+    <updated>2022-04-18T16:08:25.127Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://future.a16z.com/?p=5369</id>
         <link href="https://future.a16z.com/managing-your-mental-health-while-running-a-startup/"/>
         <updated>2022-04-18T14:00:09.000Z</updated>
-        <summary type="html"><![CDATA[This is an excerpt from Zero to IPO: Over $1 Trillion of Actionable Advice from the World’s Most Successful Entrepreneurs by Frederic Kerrest, pp. 164-171, (McGraw Hill, April 2022). Kerrest co-founded Okta – an enterprise identity management company – in 2009 and currently serves as its executive vice president and chief operating officer. I’ve heard a lot... Read More
+        <summary type="html"><![CDATA[This is an excerpt from Zero to IPO: Over $1 Trillion of Actionable Advice from the World’s Most Successful Entrepreneurs by Frederic Kerrest, pp. 164-171, (McGraw Hill, April 2022). Kerrest co-founded Okta – an enterprise identity management company – in 2009 and currently serves as its executive vice chairperson and chief operating officer. I’ve heard a lot... Read More
 The post Managing Your Mental Health While Running a Startup appeared first on Future.]]></summary>
         <author>
             <name>Frederic Kerrest</name>
