@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T00:34:02.137Z</id>
+    <id>urn:2022-04-21T02:53:10.366Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-21T00:34:02.137Z</updated>
+    <updated>2022-04-21T02:53:10.366Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://future.a16z.com/?p=5669</id>
         <link href="https://future.a16z.com/a-guide-to-decentralized-biotech/"/>
         <updated>2022-04-21T00:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Traditionally, American biotech has been a highly centralized industry. Most companies have been clustered in a handful of cities and operated using teams of in-house scientists. When biotech first gained its footing in the 1980s, there were good reasons for its centralized structure, including geographic proximity to the universities supplying talent and IP. But recent... Read More
+        <summary type="html"><![CDATA[American biotech has traditionally been a centralized industry, with most companies clustered in a handful of cities and operating with teams of in-house scientists. When biotech first gained its footing in the 1980s, there were good reasons for its centralized structure, including geographic proximity to the universities supplying talent and intellectual property. But recent changes... Read More
 The post A Guide to Decentralized Biotech appeared first on Future.]]></summary>
         <author>
             <name>Jocelynn Pearl</name>
