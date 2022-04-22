@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T00:35:58.371Z</id>
+    <id>urn:2022-04-22T03:02:31.076Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T00:35:58.371Z</updated>
+    <updated>2022-04-22T03:02:31.076Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -80,17 +80,6 @@ The post Decentralization for Web3 Builders: Principles, Models, How appeared fi
 The post Can ‘Community Composability’ Help Web2 Users Make the Jump to Web3? appeared first on Future.]]></summary>
         <author>
             <name>Jenny Wang and Michael Chiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data50: The World’s Top Data Startups]]></title>
-        <id>https://future.a16z.com/?p=4859</id>
-        <link href="https://future.a16z.com/data50/"/>
-        <updated>2022-03-23T13:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Over a decade after the idea of “big data” was first born, data continues to be one of the most important and furiously growing innovation drivers across both large enterprises and new startups. From providing pulse checks that are foundational to business operations to intelligently automating daily tasks through machine learning, data has become the... Read More
-The post Data50: The World’s Top Data Startups appeared first on Future.]]></summary>
-        <author>
-            <name>Jennifer Li, Sarah Wang and Jamie Sullivan</name>
         </author>
     </entry>
 </feed>
