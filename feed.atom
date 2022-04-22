@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T13:27:29.345Z</id>
+    <id>urn:2022-04-22T14:06:57.066Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T13:27:29.345Z</updated>
+    <updated>2022-04-22T14:06:57.066Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Will It Scale? Applying Data, Science, and Economics to the Art of Ideas]]></title>
+        <id>https://future.a16z.com/?p=5386</id>
+        <link href="https://future.a16z.com/data-science-and-economics-art-of-ideas/"/>
+        <updated>2022-04-22T14:00:48.000Z</updated>
+        <summary type="html"><![CDATA[John List is chief economist at Walmart (a title he previously held at both Lyft and Uber) and a professor of economics at the University of Chicago. He recently published a book titled The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. In this interview, List discusses some of the book’s... Read More
+The post Will It Scale? Applying Data, Science, and Economics to the Art of Ideas appeared first on Future.]]></summary>
+        <author>
+            <name>John List and Derrick Harris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Guide to Decentralized Biotech]]></title>
         <id>https://future.a16z.com/?p=5669</id>
