@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T21:04:24.512Z</id>
+    <id>urn:2022-04-28T22:06:39.536Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-28T21:04:24.512Z</updated>
+    <updated>2022-04-28T22:06:39.536Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Leaky Bucket or Layer Cake? Why You Can’t Ignore GMV Retention]]></title>
+        <title type="html"><![CDATA[The Marketplace Retention Metric Most Ignore]]></title>
         <id>https://future.a16z.com/?p=5703</id>
         <link href="https://future.a16z.com/gmv-retention-marketplace-metric/"/>
         <updated>2022-04-28T15:46:50.000Z</updated>
         <summary type="html"><![CDATA[Imagine you’re running a marketplace startup — let’s call it ACo — that allows consumers to sell spare items they have around the house. You notice after a few months that only 25% of your new sellers are coming back each month, but they’re selling just as much as they did in that first month.... Read More
-The post Leaky Bucket or Layer Cake? Why You Can’t Ignore GMV Retention appeared first on Future.]]></summary>
+The post The Marketplace Retention Metric Most Ignore appeared first on Future.]]></summary>
         <author>
             <name>Olivia Moore</name>
         </author>
