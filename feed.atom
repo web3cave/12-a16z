@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T14:05:20.796Z</id>
+    <id>urn:2022-04-29T15:06:57.777Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-29T14:05:20.796Z</updated>
+    <updated>2022-04-29T15:06:57.777Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Info Diet: Kajabi President Sean Kim]]></title>
+        <id>https://future.a16z.com/?p=5705</id>
+        <link href="https://future.a16z.com/info-diet-sean-kim/"/>
+        <updated>2022-04-29T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling everything they read, follow, listen to, and watch in order to stay ahead of the curve. This time: Sean Kim, president and chief product officer at... Read More
+The post Info Diet: Kajabi President Sean Kim appeared first on Future.]]></summary>
+        <author>
+            <name>Sean Kim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Marketplace Retention Metric Most Ignore]]></title>
         <id>https://future.a16z.com/?p=5703</id>
