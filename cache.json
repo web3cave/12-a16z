@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5771",
+          "author": "Amber Atherton",
+          "description": "Increasingly, building a successful startup involves not only building a product that people can’t get enough of, but also building an engaged, loyal community around that product. Today, most founders are acutely aware of the value of community. In CMX’s 2021 Community Industry Report, 86% of respondents (community managers from 508 different companies) said community... Read More\nThe post To Start Building a Community, Master These Two Concepts appeared first on Future.",
+          "link": "https://future.a16z.com/to-start-building-a-community-master-these-two-concepts/",
+          "publishedOn": "2022-05-03T16:11:59.000Z",
+          "wordCount": 1789,
+          "title": "To Start Building a Community, Master These Two Concepts",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/CommunityEngagementFunnelExplainer-Facebook-1.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5729",
           "author": "Sari Azout",
           "description": "This is an edited version of a post that originally ran here. For most queries, Google search is pretty underwhelming these days. Google is great at answering questions with an objective answer, like “# of billionaires in the world” or “What is the population of Iceland?” It’s pretty bad at answering questions that require judgment... Read More\nThe post The Future of Search Is Boutique appeared first on Future.",
@@ -81,29 +91,19 @@
           "description": "Everyone’s familiar with the concept of a go-to-market (GTM) plan, but in the world of bottom-up adoption and product-led growth, a go-to-community (GTC) plan is equally as important.  As the name suggests, go-to-community is the process of operationalizing and optimizing your community-building efforts to align them with business outcomes. Growing a healthy community can create... Read More\nThe post How to Drive Business Growth By Fostering Your Community appeared first on Future.",
           "link": "https://future.a16z.com/drive-business-growth-by-fostering-community-gtc/",
           "publishedOn": "2022-04-12T14:00:00.000Z",
-          "wordCount": 3200,
+          "wordCount": 3198,
           "title": "How to Drive Business Growth By Fostering Your Community",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/Orbit-GTC-Alignment-FB.jpg"
         },
         {
           "id": "https://future.a16z.com/?p=5163",
           "author": "Connie Chan",
-          "description": "When it comes to ecommerce, last year in China often means this year (or next) in the U.S. Numerous online shopping trends have swept China before landing stateside one or two years later. This is happening now with super apps (e.g., WeChat and Doordash), meaning platforms that customers initially use for one purpose (like ordering food... Read More\nThe post Why China’s Version of Email Marketing Is So Effective appeared first on Future.",
+          "description": "When it comes to ecommerce, last year in China often means this year (or next) in the U.S. Numerous online shopping trends have swept China before landing stateside one or two years later. This is happening now with super apps (e.g., WeChat and Doordash), meaning platforms that customers initially use for one purpose (like food delivery)... Read More\nThe post Why China’s Version of Email Marketing Is So Effective appeared first on Future.",
           "link": "https://future.a16z.com/private-traffic-is-chinas-version-of-email-marketing/",
           "publishedOn": "2022-04-08T18:45:19.000Z",
-          "wordCount": 2113,
+          "wordCount": 2109,
           "title": "Why China’s Version of Email Marketing Is So Effective",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/601-Future-of-Ecommerce-Facebook.png"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5098",
-          "author": "Miles Jennings",
-          "description": "The promise of decentralization has been heavily discussed and debated, from why it matters to the bigger question of who will control the software that powers the internet. These questions are critical, because as we have seen, when control is held in the hands of a very few, encroachments on personal freedom, choice, and privacy... Read More\nThe post Decentralization for Web3 Builders: Principles, Models, How appeared first on Future.",
-          "link": "https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/",
-          "publishedOn": "2022-04-07T16:15:53.000Z",
-          "wordCount": 7275,
-          "title": "Decentralization for Web3 Builders: Principles, Models, How",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/ss-web3decentralization_milesjennings_a16zcrypto-scaled.jpg"
         }
       ]
     }

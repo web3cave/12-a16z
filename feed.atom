@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T16:10:00.611Z</id>
+    <id>urn:2022-05-03T17:18:48.636Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-03T16:10:00.611Z</updated>
+    <updated>2022-05-03T17:18:48.636Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[To Start Building a Community, Master These Two Concepts]]></title>
+        <id>https://future.a16z.com/?p=5771</id>
+        <link href="https://future.a16z.com/to-start-building-a-community-master-these-two-concepts/"/>
+        <updated>2022-05-03T16:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Increasingly, building a successful startup involves not only building a product that people can’t get enough of, but also building an engaged, loyal community around that product. Today, most founders are acutely aware of the value of community. In CMX’s 2021 Community Industry Report, 86% of respondents (community managers from 508 different companies) said community... Read More
+The post To Start Building a Community, Master These Two Concepts appeared first on Future.]]></summary>
+        <author>
+            <name>Amber Atherton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Search Is Boutique]]></title>
         <id>https://future.a16z.com/?p=5729</id>
@@ -98,21 +109,10 @@ The post How to Drive Business Growth By Fostering Your Community appeared first
         <id>https://future.a16z.com/?p=5163</id>
         <link href="https://future.a16z.com/private-traffic-is-chinas-version-of-email-marketing/"/>
         <updated>2022-04-08T18:45:19.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to ecommerce, last year in China often means this year (or next) in the U.S. Numerous online shopping trends have swept China before landing stateside one or two years later. This is happening now with super apps (e.g., WeChat and Doordash), meaning platforms that customers initially use for one purpose (like ordering food... Read More
+        <summary type="html"><![CDATA[When it comes to ecommerce, last year in China often means this year (or next) in the U.S. Numerous online shopping trends have swept China before landing stateside one or two years later. This is happening now with super apps (e.g., WeChat and Doordash), meaning platforms that customers initially use for one purpose (like food delivery)... Read More
 The post Why China’s Version of Email Marketing Is So Effective appeared first on Future.]]></summary>
         <author>
             <name>Connie Chan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralization for Web3 Builders: Principles, Models, How]]></title>
-        <id>https://future.a16z.com/?p=5098</id>
-        <link href="https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/"/>
-        <updated>2022-04-07T16:15:53.000Z</updated>
-        <summary type="html"><![CDATA[The promise of decentralization has been heavily discussed and debated, from why it matters to the bigger question of who will control the software that powers the internet. These questions are critical, because as we have seen, when control is held in the hands of a very few, encroachments on personal freedom, choice, and privacy... Read More
-The post Decentralization for Web3 Builders: Principles, Models, How appeared first on Future.]]></summary>
-        <author>
-            <name>Miles Jennings</name>
         </author>
     </entry>
 </feed>
