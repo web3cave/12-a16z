@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5802",
+          "author": "Chris Power, Katherine Boyle, Marc Andreessen and Packy McCormick",
+          "description": "These are edited highlights from a recent Clubhouse discussion among Hadrian founder and CEO Chris Power, a16z partners Katherine Boyle and Marc Andreessen, and Not Boring newsletter author Packy McCormick. The dialogue here is part of a broader discussion that touches on a number of issues related to launching a modern manufacturing business, including software... Read More\nThe post Why the Time Is Right to Disrupt Defense and Aerospace appeared first on Future.",
+          "link": "https://future.a16z.com/why-the-time-is-right-to-disrupt-defense-and-aerospace/",
+          "publishedOn": "2022-05-04T14:00:14.000Z",
+          "wordCount": 4630,
+          "title": "Why the Time Is Right to Disrupt Defense and Aerospace",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/V4_GenericTopic_Infrastructure.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5771",
           "author": "Amber Atherton",
           "description": "Increasingly, building a successful startup involves not only building a product that people can’t get enough of, but also building an engaged, loyal community around that product. Today, most founders are acutely aware of the value of community. In CMX’s 2021 Community Industry Report, 86% of respondents (community managers from 508 different companies) said community... Read More\nThe post To Start Building a Community, Master These Two Concepts appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3198,
           "title": "How to Drive Business Growth By Fostering Your Community",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/Orbit-GTC-Alignment-FB.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5163",
-          "author": "Connie Chan",
-          "description": "When it comes to ecommerce, last year in China often means this year (or next) in the U.S. Numerous online shopping trends have swept China before landing stateside one or two years later. This is happening now with super apps (e.g., WeChat and Doordash), meaning platforms that customers initially use for one purpose (like food delivery)... Read More\nThe post Why China’s Version of Email Marketing Is So Effective appeared first on Future.",
-          "link": "https://future.a16z.com/private-traffic-is-chinas-version-of-email-marketing/",
-          "publishedOn": "2022-04-08T18:45:19.000Z",
-          "wordCount": 2109,
-          "title": "Why China’s Version of Email Marketing Is So Effective",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/601-Future-of-Ecommerce-Facebook.png"
         }
       ]
     }

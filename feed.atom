@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T13:29:45.983Z</id>
+    <id>urn:2022-05-04T14:06:10.631Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-04T13:29:45.983Z</updated>
+    <updated>2022-05-04T14:06:10.631Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why the Time Is Right to Disrupt Defense and Aerospace]]></title>
+        <id>https://future.a16z.com/?p=5802</id>
+        <link href="https://future.a16z.com/why-the-time-is-right-to-disrupt-defense-and-aerospace/"/>
+        <updated>2022-05-04T14:00:14.000Z</updated>
+        <summary type="html"><![CDATA[These are edited highlights from a recent Clubhouse discussion among Hadrian founder and CEO Chris Power, a16z partners Katherine Boyle and Marc Andreessen, and Not Boring newsletter author Packy McCormick. The dialogue here is part of a broader discussion that touches on a number of issues related to launching a modern manufacturing business, including software... Read More
+The post Why the Time Is Right to Disrupt Defense and Aerospace appeared first on Future.]]></summary>
+        <author>
+            <name>Chris Power, Katherine Boyle, Marc Andreessen and Packy McCormick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To Start Building a Community, Master These Two Concepts]]></title>
         <id>https://future.a16z.com/?p=5771</id>
@@ -102,17 +113,6 @@ The post The Marketplace 100: 2022 appeared first on Future.]]></summary>
 The post How to Drive Business Growth By Fostering Your Community appeared first on Future.]]></summary>
         <author>
             <name>Patrick Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why China’s Version of Email Marketing Is So Effective]]></title>
-        <id>https://future.a16z.com/?p=5163</id>
-        <link href="https://future.a16z.com/private-traffic-is-chinas-version-of-email-marketing/"/>
-        <updated>2022-04-08T18:45:19.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to ecommerce, last year in China often means this year (or next) in the U.S. Numerous online shopping trends have swept China before landing stateside one or two years later. This is happening now with super apps (e.g., WeChat and Doordash), meaning platforms that customers initially use for one purpose (like food delivery)... Read More
-The post Why China’s Version of Email Marketing Is So Effective appeared first on Future.]]></summary>
-        <author>
-            <name>Connie Chan</name>
         </author>
     </entry>
 </feed>
