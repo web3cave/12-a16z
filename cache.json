@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5821",
+          "author": "Liz Harkavy, Eddy Lazzarin and Arianna Simpson",
+          "description": "There has been a lot of buzz about “the metaverse” since its coinage the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta.  Is this just a bit of opaque marketing-speak? What is a metaverse exactly? How does one define the... Read More\nThe post 7 Essential Ingredients of a Metaverse appeared first on Future.",
+          "link": "https://future.a16z.com/7-essential-ingredients-of-a-metaverse/",
+          "publishedOn": "2022-05-06T17:31:15.000Z",
+          "wordCount": 2791,
+          "title": "7 Essential Ingredients of a Metaverse",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Metaverse-framework-Yoast_Facebook.jpeg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5802",
           "author": "Chris Power, Katherine Boyle, Marc Andreessen and Packy McCormick",
           "description": "These are edited highlights from a recent Clubhouse discussion among Hadrian founder and CEO Chris Power, a16z partners Katherine Boyle and Marc Andreessen, and Not Boring newsletter author Packy McCormick. The dialogue here is part of a broader discussion that touches on a number of issues related to launching a modern manufacturing business, including software... Read More\nThe post Why the Time Is Right to Disrupt Defense and Aerospace appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 4954,
           "title": "The Marketplace 100: 2022",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/M100-Social-Share-Twitter.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5202",
-          "author": "Patrick Woods",
-          "description": "Everyone’s familiar with the concept of a go-to-market (GTM) plan, but in the world of bottom-up adoption and product-led growth, a go-to-community (GTC) plan is equally as important.  As the name suggests, go-to-community is the process of operationalizing and optimizing your community-building efforts to align them with business outcomes. Growing a healthy community can create... Read More\nThe post How to Drive Business Growth By Fostering Your Community appeared first on Future.",
-          "link": "https://future.a16z.com/drive-business-growth-by-fostering-community-gtc/",
-          "publishedOn": "2022-04-12T14:00:00.000Z",
-          "wordCount": 3198,
-          "title": "How to Drive Business Growth By Fostering Your Community",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/Orbit-GTC-Alignment-FB.jpg"
         }
       ]
     }
