@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T00:31:50.726Z</id>
+    <id>urn:2022-05-07T02:24:17.140Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-07T00:31:50.726Z</updated>
+    <updated>2022-05-07T02:24:17.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://future.a16z.com/?p=5821</id>
         <link href="https://future.a16z.com/7-essential-ingredients-of-a-metaverse/"/>
         <updated>2022-05-06T17:31:15.000Z</updated>
-        <summary type="html"><![CDATA[There has been a lot of buzz about “the metaverse” since its coinage the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta.  Is this just a bit of opaque marketing-speak? What is a metaverse exactly? How does one define the... Read More
+        <summary type="html"><![CDATA[There has been a lot of buzz about “the metaverse” since its coinage in the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta.  Is this just a bit of opaque marketing-speak? What is a metaverse exactly? How does one define... Read More
 The post 7 Essential Ingredients of a Metaverse appeared first on Future.]]></summary>
         <author>
             <name>Liz Harkavy, Eddy Lazzarin and Arianna Simpson</name>
