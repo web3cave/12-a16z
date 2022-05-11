@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T13:31:29.968Z</id>
+    <id>urn:2022-05-11T14:06:25.785Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-11T13:31:29.968Z</updated>
+    <updated>2022-05-11T14:06:25.785Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make Talent Scouts Work for You]]></title>
+        <id>https://future.a16z.com/?p=5855</id>
+        <link href="https://future.a16z.com/how-to-make-talent-scouts-work-for-you/"/>
+        <updated>2022-05-11T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, coauthor of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More
+The post How to Make Talent Scouts Work for You appeared first on Future.]]></summary>
+        <author>
+            <name>Tyler Cowen and Daniel Gross</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MongoDB CTO On Working with Cloud Providers and Working in Southeast Asia]]></title>
         <id>https://future.a16z.com/?p=5845</id>
@@ -102,17 +113,6 @@ The post Will It Scale? Applying Data, Science, and Economics to the Art of Idea
 The post A Guide to Decentralized Biotech appeared first on Future.]]></summary>
         <author>
             <name>Jocelynn Pearl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Your Mental Health While Running a Startup]]></title>
-        <id>https://future.a16z.com/?p=5369</id>
-        <link href="https://future.a16z.com/managing-your-mental-health-while-running-a-startup/"/>
-        <updated>2022-04-18T14:00:09.000Z</updated>
-        <summary type="html"><![CDATA[This is an excerpt from Zero to IPO: Over $1 Trillion of Actionable Advice from the World’s Most Successful Entrepreneurs by Frederic Kerrest, pp. 164-171, (McGraw Hill, April 2022). Kerrest co-founded Okta – an enterprise identity management company – in 2009 and currently serves as its executive vice chairperson and chief operating officer. I’ve heard a lot... Read More
-The post Managing Your Mental Health While Running a Startup appeared first on Future.]]></summary>
-        <author>
-            <name>Frederic Kerrest</name>
         </author>
     </entry>
 </feed>
