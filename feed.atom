@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T19:06:28.804Z</id>
+    <id>urn:2022-05-11T20:08:00.520Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-11T19:06:28.804Z</updated>
+    <updated>2022-05-11T20:08:00.520Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -17,12 +17,12 @@ The post How to Make Talent Scouts Work for You appeared first on Future.]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MongoDB CTO On Working with Cloud Providers and Working in Southeast Asia]]></title>
+        <title type="html"><![CDATA[MongoDB CTO on (no)SQL, Superapps, and Southeast Asia]]></title>
         <id>https://future.a16z.com/?p=5845</id>
         <link href="https://future.a16z.com/mongodb-cto-cloud-providers-southeast-asia/"/>
         <updated>2022-05-10T14:00:55.000Z</updated>
         <summary type="html"><![CDATA[MongoDB CTO Mark Porter has been on all sides of the technology industry. He was most recently CTO of core technology and transport at Grab, a super-app serving Southeast Asia, and prior to that held leadership roles at Amazon Web Services and Oracle, among other places. In this interview, he shares his views on the... Read More
-The post MongoDB CTO On Working with Cloud Providers and Working in Southeast Asia appeared first on Future.]]></summary>
+The post MongoDB CTO on (no)SQL, Superapps, and Southeast Asia appeared first on Future.]]></summary>
         <author>
             <name>Mark Porter and Derrick Harris</name>
         </author>
