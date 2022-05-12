@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5868",
+          "author": "Rajiv Ayyangar",
+          "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More\nThe post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.",
+          "link": "https://future.a16z.com/info-diet-tandem-ceo-rajiv-ayyangar/",
+          "publishedOn": "2022-05-12T19:03:55.000Z",
+          "wordCount": 1563,
+          "title": "Info Diet: Tandem CEO Rajiv Ayyangar",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/677-Info-Diet-Rajiv-Ayyangar-FB-FINAL.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5855",
           "author": "Tyler Cowen and Daniel Gross",
           "description": "This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, co-author of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More\nThe post How to Make Talent Scouts Work for You appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3722,
           "title": "Will It Scale? Applying Data, Science, and Economics to the Art of Ideas",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/00629-John-List-QA-Social-Facebook.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5669",
-          "author": "Jocelynn Pearl",
-          "description": "American biotech has traditionally been a centralized industry, with most companies clustered in a handful of cities and operating with teams of in-house scientists. When biotech first gained its footing in the 1980s, there were good reasons for its centralized structure, including geographic proximity to the universities supplying talent and intellectual property. But recent changes... Read More\nThe post A Guide to Decentralized Biotech appeared first on Future.",
-          "link": "https://future.a16z.com/a-guide-to-decentralized-biotech/",
-          "publishedOn": "2022-04-21T00:16:51.000Z",
-          "wordCount": 2817,
-          "title": "A Guide to Decentralized Biotech",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/DecentralizedBiotechExplainer-Linkedin.jpg"
         }
       ]
     }

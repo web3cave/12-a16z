@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T19:03:23.428Z</id>
+    <id>urn:2022-05-12T20:08:04.524Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-12T19:03:23.428Z</updated>
+    <updated>2022-05-12T20:08:04.524Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Info Diet: Tandem CEO Rajiv Ayyangar]]></title>
+        <id>https://future.a16z.com/?p=5868</id>
+        <link href="https://future.a16z.com/info-diet-tandem-ceo-rajiv-ayyangar/"/>
+        <updated>2022-05-12T19:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More
+The post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.]]></summary>
+        <author>
+            <name>Rajiv Ayyangar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make Talent Scouts Work for You]]></title>
         <id>https://future.a16z.com/?p=5855</id>
@@ -102,17 +113,6 @@ The post The Marketplace Retention Metric Most Ignore appeared first on Future.]
 The post Will It Scale? Applying Data, Science, and Economics to the Art of Ideas appeared first on Future.]]></summary>
         <author>
             <name>John List and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide to Decentralized Biotech]]></title>
-        <id>https://future.a16z.com/?p=5669</id>
-        <link href="https://future.a16z.com/a-guide-to-decentralized-biotech/"/>
-        <updated>2022-04-21T00:16:51.000Z</updated>
-        <summary type="html"><![CDATA[American biotech has traditionally been a centralized industry, with most companies clustered in a handful of cities and operating with teams of in-house scientists. When biotech first gained its footing in the 1980s, there were good reasons for its centralized structure, including geographic proximity to the universities supplying talent and intellectual property. But recent changes... Read More
-The post A Guide to Decentralized Biotech appeared first on Future.]]></summary>
-        <author>
-            <name>Jocelynn Pearl</name>
         </author>
     </entry>
 </feed>
