@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T14:12:03.808Z</id>
+    <id>urn:2022-05-13T15:07:04.026Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T14:12:03.808Z</updated>
+    <updated>2022-05-13T15:07:04.026Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Framework for Navigating Down Markets]]></title>
+        <id>https://future.a16z.com/?p=5891</id>
+        <link href="https://future.a16z.com/framework-valuation-navigating-down-markets/"/>
+        <updated>2022-05-13T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More
+The post A Framework for Navigating Down Markets appeared first on Future.]]></summary>
+        <author>
+            <name>Justin Kahl and David George</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Info Diet: Tandem CEO Rajiv Ayyangar]]></title>
         <id>https://future.a16z.com/?p=5868</id>
@@ -102,17 +113,6 @@ The post Info Diet: Kajabi President Sean Kim appeared first on Future.]]></summ
 The post The Marketplace Retention Metric Most Ignore appeared first on Future.]]></summary>
         <author>
             <name>Olivia Moore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will It Scale? Applying Data, Science, and Economics to the Art of Ideas]]></title>
-        <id>https://future.a16z.com/?p=5386</id>
-        <link href="https://future.a16z.com/data-science-and-economics-art-of-ideas/"/>
-        <updated>2022-04-22T14:00:48.000Z</updated>
-        <summary type="html"><![CDATA[John List is chief economist at Walmart (a title he previously held at both Lyft and Uber) and a professor of economics at the University of Chicago. He recently published a book titled The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. In this interview, List discusses some of the book’s... Read More
-The post Will It Scale? Applying Data, Science, and Economics to the Art of Ideas appeared first on Future.]]></summary>
-        <author>
-            <name>John List and Derrick Harris</name>
         </author>
     </entry>
 </feed>

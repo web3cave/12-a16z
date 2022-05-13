@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5891",
+          "author": "Justin Kahl and David George",
+          "description": "The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More\nThe post A Framework for Navigating Down Markets appeared first on Future.",
+          "link": "https://future.a16z.com/framework-valuation-navigating-down-markets/",
+          "publishedOn": "2022-05-13T15:00:29.000Z",
+          "wordCount": 2109,
+          "title": "A Framework for Navigating Down Markets",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/MarketISWas_Yoast_Facebook.jpeg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5868",
           "author": "Rajiv Ayyangar",
           "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More\nThe post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 2424,
           "title": "The Marketplace Retention Metric Most Ignore",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/LeakyBucketRatio-Twitter-R2V1.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5386",
-          "author": "John List and Derrick Harris",
-          "description": "John List is chief economist at Walmart (a title he previously held at both Lyft and Uber) and a professor of economics at the University of Chicago. He recently published a book titled The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. In this interview, List discusses some of the book’s... Read More\nThe post Will It Scale? Applying Data, Science, and Economics to the Art of Ideas appeared first on Future.",
-          "link": "https://future.a16z.com/data-science-and-economics-art-of-ideas/",
-          "publishedOn": "2022-04-22T14:00:48.000Z",
-          "wordCount": 3722,
-          "title": "Will It Scale? Applying Data, Science, and Economics to the Art of Ideas",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/00629-John-List-QA-Social-Facebook.jpg"
         }
       ]
     }
