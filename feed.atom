@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-16T15:08:05.587Z</id>
+    <id>urn:2022-05-16T16:09:19.725Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-16T15:08:05.587Z</updated>
+    <updated>2022-05-16T16:09:19.725Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hopper CEO on Super-App Ambitions, Canceling Out Travel Anxiety, and Loving ‘Shopee Shake’]]></title>
+        <id>https://future.a16z.com/?p=5909</id>
+        <link href="https://future.a16z.com/hoppers-big-bet-all-travelers-worry-but-not-about-the-same-thing/"/>
+        <updated>2022-05-16T15:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Hopper, which predicts travel prices and helps people find low rates on flights, hotels, and rental cars, is most often described as a travel-booking app. It’s also classified as an online travel agency (or OTA), an umbrella term for companies that sell travel on the internet. That’s a meaningful distinction because a lot of brands... Read More
+The post Hopper CEO on Super-App Ambitions, Canceling Out Travel Anxiety, and Loving ‘Shopee Shake’ appeared first on Future.]]></summary>
+        <author>
+            <name>Frederic Lalonde and Theresa Fisher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Framework for Navigating Down Markets]]></title>
         <id>https://future.a16z.com/?p=5891</id>
@@ -102,17 +113,6 @@ The post The Future of Search Is Boutique appeared first on Future.]]></summary>
 The post Info Diet: Kajabi President Sean Kim appeared first on Future.]]></summary>
         <author>
             <name>Sean Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Marketplace Retention Metric Most Ignore]]></title>
-        <id>https://future.a16z.com/?p=5703</id>
-        <link href="https://future.a16z.com/gmv-retention-marketplace-metric/"/>
-        <updated>2022-04-28T15:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you’re running a marketplace startup — let’s call it ACo — that allows consumers to sell spare items they have around the house. You notice after a few months that only 25% of your new sellers are coming back each month, but they’re selling just as much as they did in that first month.... Read More
-The post The Marketplace Retention Metric Most Ignore appeared first on Future.]]></summary>
-        <author>
-            <name>Olivia Moore</name>
         </author>
     </entry>
 </feed>

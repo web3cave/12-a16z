@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5909",
+          "author": "Frederic Lalonde and Theresa Fisher",
+          "description": "Hopper, which predicts travel prices and helps people find low rates on flights, hotels, and rental cars, is most often described as a travel-booking app. It’s also classified as an online travel agency (or OTA), an umbrella term for companies that sell travel on the internet. That’s a meaningful distinction because a lot of brands... Read More\nThe post Hopper CEO on Super-App Ambitions, Canceling Out Travel Anxiety, and Loving ‘Shopee Shake’ appeared first on Future.",
+          "link": "https://future.a16z.com/hoppers-big-bet-all-travelers-worry-but-not-about-the-same-thing/",
+          "publishedOn": "2022-05-16T15:33:34.000Z",
+          "wordCount": 4335,
+          "title": "Hopper CEO on Super-App Ambitions, Canceling Out Travel Anxiety, and Loving ‘Shopee Shake’",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/687-QA-FredricLalonde-SocialShare-R1v1.jpeg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5891",
           "author": "Justin Kahl and David George",
           "description": "The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More\nThe post A Framework for Navigating Down Markets appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 1996,
           "title": "Info Diet: Kajabi President Sean Kim",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/Info-Diet-Sean-Kim-FB-FINAL.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5703",
-          "author": "Olivia Moore",
-          "description": "Imagine you’re running a marketplace startup — let’s call it ACo — that allows consumers to sell spare items they have around the house. You notice after a few months that only 25% of your new sellers are coming back each month, but they’re selling just as much as they did in that first month.... Read More\nThe post The Marketplace Retention Metric Most Ignore appeared first on Future.",
-          "link": "https://future.a16z.com/gmv-retention-marketplace-metric/",
-          "publishedOn": "2022-04-28T15:46:50.000Z",
-          "wordCount": 2425,
-          "title": "The Marketplace Retention Metric Most Ignore",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/LeakyBucketRatio-Twitter-R2V1.jpg"
         }
       ]
     }
