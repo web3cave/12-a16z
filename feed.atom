@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T14:09:57.675Z</id>
+    <id>urn:2022-05-18T15:07:17.444Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-18T14:09:57.675Z</updated>
+    <updated>2022-05-18T15:07:17.444Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Startup’s Guide to Launching College Ambassador Programs]]></title>
+        <id>https://future.a16z.com/?p=5974</id>
+        <link href="https://future.a16z.com/college-ambassador-program-how-to-for-startups/"/>
+        <updated>2022-05-18T15:00:49.000Z</updated>
+        <summary type="html"><![CDATA[For new consumer startups targeting young people, one of the most popular marketing strategies is an on-campus student ambassador program. Household names like Tinder, Bumble, and Red Bull leveraged these programs successfully in the early days (and still today) to grow their brands across the country, and today’s generation of startups continue to build on... Read More
+The post A Startup’s Guide to Launching College Ambassador Programs appeared first on Future.]]></summary>
+        <author>
+            <name>Jacob Westphal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hopper CEO on Super-App Ambitions and Becoming an Everything Startup]]></title>
         <id>https://future.a16z.com/?p=5909</id>
@@ -102,17 +113,6 @@ The post To Start Building a Community, Master These Two Concepts appeared first
 The post The Future of Search Is Boutique appeared first on Future.]]></summary>
         <author>
             <name>Sari Azout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Info Diet: Kajabi President Sean Kim]]></title>
-        <id>https://future.a16z.com/?p=5705</id>
-        <link href="https://future.a16z.com/info-diet-sean-kim/"/>
-        <updated>2022-04-29T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling everything they read, follow, listen to, and watch in order to stay ahead of the curve. This time: Sean Kim, president and chief product officer at... Read More
-The post Info Diet: Kajabi President Sean Kim appeared first on Future.]]></summary>
-        <author>
-            <name>Sean Kim</name>
         </author>
     </entry>
 </feed>
