@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T13:32:00.300Z</id>
+    <id>urn:2022-05-19T14:06:52.123Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-19T13:32:00.300Z</updated>
+    <updated>2022-05-19T14:06:52.123Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Negative Engineering and the Art of Failing Successfully]]></title>
+        <id>https://future.a16z.com/?p=5997</id>
+        <link href="https://future.a16z.com/negative-engineering-and-the-art-of-failing-successfully/"/>
+        <updated>2022-05-19T14:00:47.000Z</updated>
+        <summary type="html"><![CDATA[It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More
+The post Negative Engineering and the Art of Failing Successfully appeared first on Future.]]></summary>
+        <author>
+            <name>Jeremiah Lowin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Startup’s Guide to Launching College Ambassador Programs]]></title>
         <id>https://future.a16z.com/?p=5974</id>
@@ -102,17 +113,6 @@ The post Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing appeared 
 The post To Start Building a Community, Master These Two Concepts appeared first on Future.]]></summary>
         <author>
             <name>Amber Atherton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Search Is Boutique]]></title>
-        <id>https://future.a16z.com/?p=5729</id>
-        <link href="https://future.a16z.com/the-future-of-search-is-boutique/"/>
-        <updated>2022-05-02T14:00:29.000Z</updated>
-        <summary type="html"><![CDATA[This is an edited version of a post that originally ran here. For most queries, Google search is pretty underwhelming these days. Google is great at answering questions with an objective answer, like “# of billionaires in the world” or “What is the population of Iceland?” It’s pretty bad at answering questions that require judgment... Read More
-The post The Future of Search Is Boutique appeared first on Future.]]></summary>
-        <author>
-            <name>Sari Azout</name>
         </author>
     </entry>
 </feed>

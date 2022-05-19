@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=5997",
+          "author": "Jeremiah Lowin",
+          "description": "It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More\nThe post Negative Engineering and the Art of Failing Successfully appeared first on Future.",
+          "link": "https://future.a16z.com/negative-engineering-and-the-art-of-failing-successfully/",
+          "publishedOn": "2022-05-19T14:00:47.000Z",
+          "wordCount": 2634,
+          "title": "Negative Engineering and the Art of Failing Successfully",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Negative-Engineering_LinkedIn.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=5974",
           "author": "Jacob Westphal",
           "description": "For new consumer startups targeting young people, one of the most popular marketing strategies is an on-campus student ambassador program. Household names like Tinder, Bumble, and Red Bull leveraged these programs successfully in the early days (and still today) to grow their brands across the country, and today’s generation of startups continue to build on... Read More\nThe post A Startup’s Guide to Launching College Ambassador Programs appeared first on Future.",
@@ -81,7 +91,7 @@
           "description": "These are edited highlights from a recent Clubhouse discussion among Hadrian founder and CEO Chris Power, a16z partners Katherine Boyle and Marc Andreessen, and Not Boring newsletter author Packy McCormick. The dialogue here is part of a broader discussion that touches on a number of issues related to launching a modern manufacturing business, including software... Read More\nThe post Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing appeared first on Future.",
           "link": "https://future.a16z.com/why-the-time-is-right-to-disrupt-defense-and-aerospace/",
           "publishedOn": "2022-05-04T14:00:14.000Z",
-          "wordCount": 4627,
+          "wordCount": 4626,
           "title": "Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/V4_GenericTopic_Infrastructure.jpg"
         },
@@ -94,16 +104,6 @@
           "wordCount": 1788,
           "title": "To Start Building a Community, Master These Two Concepts",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/CommunityEngagementFunnelExplainer-Facebook-1.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5729",
-          "author": "Sari Azout",
-          "description": "This is an edited version of a post that originally ran here. For most queries, Google search is pretty underwhelming these days. Google is great at answering questions with an objective answer, like “# of billionaires in the world” or “What is the population of Iceland?” It’s pretty bad at answering questions that require judgment... Read More\nThe post The Future of Search Is Boutique appeared first on Future.",
-          "link": "https://future.a16z.com/the-future-of-search-is-boutique/",
-          "publishedOn": "2022-05-02T14:00:29.000Z",
-          "wordCount": 3101,
-          "title": "The Future of Search Is Boutique",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/BoutiqueSearch-Linkedin.jpg"
         }
       ]
     }
