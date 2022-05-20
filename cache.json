@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=6003",
+          "author": "Melissa Daimler",
+          "description": "This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More\nThe post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.",
+          "link": "https://future.a16z.com/practices-company-culture-design/",
+          "publishedOn": "2022-05-20T15:00:25.000Z",
+          "wordCount": 3187,
+          "title": "How to Design (and Redesign) the Practices of Company Culture",
+          "imageUrl": "https://future.a16z.com/wp-content/themes/future/assets/images/a16z-logo-card.png"
+        },
+        {
           "id": "https://future.a16z.com/?p=5997",
           "author": "Jeremiah Lowin",
           "description": "It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More\nThe post Negative Engineering and the Art of Failing Successfully appeared first on Future.",
@@ -61,7 +71,7 @@
           "description": "This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, co-author of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More\nThe post How to Make Talent Scouts Work for You appeared first on Future.",
           "link": "https://future.a16z.com/how-to-make-talent-scouts-work-for-you/",
           "publishedOn": "2022-05-11T14:00:44.000Z",
-          "wordCount": 2043,
+          "wordCount": 2046,
           "title": "How to Make Talent Scouts Work for You",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/TalentBookExcerpt-LinkedIn.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 4626,
           "title": "Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/V4_GenericTopic_Infrastructure.jpg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5771",
-          "author": "Amber Atherton",
-          "description": "Increasingly, building a successful startup involves not only building a product that people can’t get enough of, but also building an engaged, loyal community around that product. Today, most founders are acutely aware of the value of community. In CMX’s 2021 Community Industry Report, 86% of respondents (community managers from 508 different companies) said community... Read More\nThe post To Start Building a Community, Master These Two Concepts appeared first on Future.",
-          "link": "https://future.a16z.com/to-start-building-a-community-master-these-two-concepts/",
-          "publishedOn": "2022-05-03T16:11:59.000Z",
-          "wordCount": 1788,
-          "title": "To Start Building a Community, Master These Two Concepts",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/CommunityEngagementFunnelExplainer-Facebook-1.jpg"
         }
       ]
     }

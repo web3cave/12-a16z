@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T14:06:25.370Z</id>
+    <id>urn:2022-05-20T15:07:28.628Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-20T14:06:25.370Z</updated>
+    <updated>2022-05-20T15:07:28.628Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Design (and Redesign) the Practices of Company Culture]]></title>
+        <id>https://future.a16z.com/?p=6003</id>
+        <link href="https://future.a16z.com/practices-company-culture-design/"/>
+        <updated>2022-05-20T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More
+The post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.]]></summary>
+        <author>
+            <name>Melissa Daimler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Negative Engineering and the Art of Failing Successfully]]></title>
         <id>https://future.a16z.com/?p=5997</id>
@@ -102,17 +113,6 @@ The post 7 Essential Ingredients of a Metaverse appeared first on Future.]]></su
 The post Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing appeared first on Future.]]></summary>
         <author>
             <name>Chris Power, Katherine Boyle, Marc Andreessen and Packy McCormick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Start Building a Community, Master These Two Concepts]]></title>
-        <id>https://future.a16z.com/?p=5771</id>
-        <link href="https://future.a16z.com/to-start-building-a-community-master-these-two-concepts/"/>
-        <updated>2022-05-03T16:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Increasingly, building a successful startup involves not only building a product that people can’t get enough of, but also building an engaged, loyal community around that product. Today, most founders are acutely aware of the value of community. In CMX’s 2021 Community Industry Report, 86% of respondents (community managers from 508 different companies) said community... Read More
-The post To Start Building a Community, Master These Two Concepts appeared first on Future.]]></summary>
-        <author>
-            <name>Amber Atherton</name>
         </author>
     </entry>
 </feed>
