@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T20:07:35.048Z</id>
+    <id>urn:2022-05-20T21:07:00.502Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-20T20:07:35.048Z</updated>
+    <updated>2022-05-20T21:07:00.502Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -17,12 +17,12 @@ The post How to Design (and Redesign) the Practices of Company Culture appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Negative Engineering and the Art of Failing Successfully]]></title>
+        <title type="html"><![CDATA[What Is Negative Engineering?]]></title>
         <id>https://future.a16z.com/?p=5997</id>
         <link href="https://future.a16z.com/negative-engineering-and-the-art-of-failing-successfully/"/>
         <updated>2022-05-19T14:00:47.000Z</updated>
         <summary type="html"><![CDATA[It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More
-The post Negative Engineering and the Art of Failing Successfully appeared first on Future.]]></summary>
+The post What Is Negative Engineering? appeared first on Future.]]></summary>
         <author>
             <name>Jeremiah Lowin</name>
         </author>
