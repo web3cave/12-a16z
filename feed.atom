@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T13:30:38.016Z</id>
+    <id>urn:2022-05-24T14:07:34.487Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-24T13:30:38.016Z</updated>
+    <updated>2022-05-24T14:07:34.487Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Trust and Assessing Integrity as You Interview]]></title>
+        <id>https://future.a16z.com/?p=6029</id>
+        <link href="https://future.a16z.com/building-trust-and-assessing-integrity-as-you-interview/"/>
+        <updated>2022-05-24T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More
+The post Building Trust and Assessing Integrity as You Interview appeared first on Future.]]></summary>
+        <author>
+            <name>Jeff Stump</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Design (and Redesign) the Practices of Company Culture]]></title>
         <id>https://future.a16z.com/?p=6003</id>
@@ -102,17 +113,6 @@ The post MongoDB CTO: Why On-Prem Software Is Still Big Business appeared first 
 The post 7 Essential Ingredients of a Metaverse appeared first on Future.]]></summary>
         <author>
             <name>Liz Harkavy, Eddy Lazzarin and Arianna Simpson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing]]></title>
-        <id>https://future.a16z.com/?p=5802</id>
-        <link href="https://future.a16z.com/why-the-time-is-right-to-disrupt-defense-and-aerospace/"/>
-        <updated>2022-05-04T14:00:14.000Z</updated>
-        <summary type="html"><![CDATA[These are edited highlights from a recent Clubhouse discussion among Hadrian founder and CEO Chris Power, a16z partners Katherine Boyle and Marc Andreessen, and Not Boring newsletter author Packy McCormick. The dialogue here is part of a broader discussion that touches on a number of issues related to launching a modern manufacturing business, including software... Read More
-The post Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing appeared first on Future.]]></summary>
-        <author>
-            <name>Chris Power, Katherine Boyle, Marc Andreessen and Packy McCormick</name>
         </author>
     </entry>
 </feed>

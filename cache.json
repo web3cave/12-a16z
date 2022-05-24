@@ -6,12 +6,22 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=6029",
+          "author": "Jeff Stump",
+          "description": "Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More\nThe post Building Trust and Assessing Integrity as You Interview appeared first on Future.",
+          "link": "https://future.a16z.com/building-trust-and-assessing-integrity-as-you-interview/",
+          "publishedOn": "2022-05-24T14:00:33.000Z",
+          "wordCount": 2131,
+          "title": "Building Trust and Assessing Integrity as You Interview",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Hiring-for-Trust-FB-FINAL.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=6003",
           "author": "Melissa Daimler",
           "description": "This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More\nThe post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.",
           "link": "https://future.a16z.com/practices-company-culture-design/",
           "publishedOn": "2022-05-20T15:00:25.000Z",
-          "wordCount": 3187,
+          "wordCount": 3188,
           "title": "How to Design (and Redesign) the Practices of Company Culture",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/ReCulturing-Practices-Book-Excerpt-Twitter-FINAL.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, co-author of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More\nThe post How to Make Talent Scouts Work for You appeared first on Future.",
           "link": "https://future.a16z.com/how-to-make-talent-scouts-work-for-you/",
           "publishedOn": "2022-05-11T14:00:44.000Z",
-          "wordCount": 2046,
+          "wordCount": 2047,
           "title": "How to Make Talent Scouts Work for You",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/TalentBookExcerpt-LinkedIn.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 2798,
           "title": "7 Essential Ingredients of a Metaverse",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Metaverse-framework-Yoast_Facebook.jpeg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5802",
-          "author": "Chris Power, Katherine Boyle, Marc Andreessen and Packy McCormick",
-          "description": "These are edited highlights from a recent Clubhouse discussion among Hadrian founder and CEO Chris Power, a16z partners Katherine Boyle and Marc Andreessen, and Not Boring newsletter author Packy McCormick. The dialogue here is part of a broader discussion that touches on a number of issues related to launching a modern manufacturing business, including software... Read More\nThe post Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing appeared first on Future.",
-          "link": "https://future.a16z.com/why-the-time-is-right-to-disrupt-defense-and-aerospace/",
-          "publishedOn": "2022-05-04T14:00:14.000Z",
-          "wordCount": 4622,
-          "title": "Rockets, Jets, and Chips: How to Modernize U.S. Manufacturing",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/V4_GenericTopic_Infrastructure.jpg"
         }
       ]
     }
