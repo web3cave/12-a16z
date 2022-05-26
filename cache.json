@@ -1,4 +1,112 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Future",
+      "feedUrl": "https://future.a16z.com/feed",
+      "siteUrl": "https://future.a16z.com",
+      "articles": [
+        {
+          "id": "https://future.a16z.com/?p=6029",
+          "author": "Jeff Stump",
+          "description": "Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More\nThe post Building Trust and Assessing Integrity as You Interview appeared first on Future.",
+          "link": "https://future.a16z.com/building-trust-and-assessing-integrity-as-you-interview/",
+          "publishedOn": "2022-05-24T14:00:33.000Z",
+          "wordCount": 2131,
+          "title": "Building Trust and Assessing Integrity as You Interview",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Hiring-for-Trust-FB-FINAL.jpg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=6003",
+          "author": "Melissa Daimler",
+          "description": "This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More\nThe post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.",
+          "link": "https://future.a16z.com/practices-company-culture-design/",
+          "publishedOn": "2022-05-20T15:00:25.000Z",
+          "wordCount": 3188,
+          "title": "How to Design (and Redesign) the Practices of Company Culture",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/ReCulturing-Practices-Book-Excerpt-Twitter-FINAL.jpg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5997",
+          "author": "Jeremiah Lowin",
+          "description": "It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More\nThe post What Is Negative Engineering? appeared first on Future.",
+          "link": "https://future.a16z.com/negative-engineering-and-the-art-of-failing-successfully/",
+          "publishedOn": "2022-05-19T14:00:47.000Z",
+          "wordCount": 2626,
+          "title": "What Is Negative Engineering?",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Negative-Engineering_LinkedIn.jpg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5974",
+          "author": "Jacob Westphal",
+          "description": "For new consumer startups targeting young people, one of the most popular marketing strategies is an on-campus student ambassador program. Household names like Tinder, Bumble, and Red Bull leveraged these programs successfully in the early days (and still today) to grow their brands across the country, and today’s generation of startups continue to build on... Read More\nThe post A Startup’s Guide to Launching College Ambassador Programs appeared first on Future.",
+          "link": "https://future.a16z.com/college-ambassador-program-how-to-for-startups/",
+          "publishedOn": "2022-05-18T15:00:49.000Z",
+          "wordCount": 4451,
+          "title": "A Startup’s Guide to Launching College Ambassador Programs",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/How-to-Build-and-Run-a-Successful-College-Ambassador-Program-LinkedIn.png"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5909",
+          "author": "Frederic Lalonde and Theresa Fisher",
+          "description": "Hopper, which finds travelers low rates on flights, hotels, and rental cars, is most frequently described as a travel-booking app. It also qualifies as an online travel agency (or OTA), a term that applies to any company selling travel on the internet. OTA is a useful classification because numerous brands in the travel space, including... Read More\nThe post Hopper CEO on Super-App Ambitions and Becoming an Everything Startup appeared first on Future.",
+          "link": "https://future.a16z.com/hoppers-big-bet-all-travelers-worry-but-not-about-the-same-thing/",
+          "publishedOn": "2022-05-16T15:33:34.000Z",
+          "wordCount": 4187,
+          "title": "Hopper CEO on Super-App Ambitions and Becoming an Everything Startup",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/687-QA-FredricLalonde-SocialShare-R1v1.jpeg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5891",
+          "author": "Justin Kahl and David George",
+          "description": "The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More\nThe post A Framework for Navigating Down Markets appeared first on Future.",
+          "link": "https://future.a16z.com/framework-valuation-navigating-down-markets/",
+          "publishedOn": "2022-05-13T15:00:29.000Z",
+          "wordCount": 2110,
+          "title": "A Framework for Navigating Down Markets",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/MarketISWas_Yoast_Facebook.jpeg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5868",
+          "author": "Rajiv Ayyangar",
+          "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More\nThe post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.",
+          "link": "https://future.a16z.com/info-diet-tandem-ceo-rajiv-ayyangar/",
+          "publishedOn": "2022-05-12T19:03:55.000Z",
+          "wordCount": 1575,
+          "title": "Info Diet: Tandem CEO Rajiv Ayyangar",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/677-Info-Diet-Rajiv-Ayyangar-FB-FINAL.jpg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5855",
+          "author": "Tyler Cowen and Daniel Gross",
+          "description": "This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, co-author of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More\nThe post How to Make Talent Scouts Work for You appeared first on Future.",
+          "link": "https://future.a16z.com/how-to-make-talent-scouts-work-for-you/",
+          "publishedOn": "2022-05-11T14:00:44.000Z",
+          "wordCount": 2047,
+          "title": "How to Make Talent Scouts Work for You",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/TalentBookExcerpt-LinkedIn.png"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5845",
+          "author": "Mark Porter and Derrick Harris",
+          "description": "MongoDB CTO Mark Porter has been on all sides of the technology industry. He was most recently CTO of core technology and transport at Grab, a super-app serving Southeast Asia, and prior to that held leadership roles at Amazon Web Services and Oracle, among other places. In this interview, he shares his views on the... Read More\nThe post MongoDB CTO: Why On-Prem Software Is Still Big Business appeared first on Future.",
+          "link": "https://future.a16z.com/mongodb-cto-cloud-providers-southeast-asia/",
+          "publishedOn": "2022-05-10T14:00:55.000Z",
+          "wordCount": 3990,
+          "title": "MongoDB CTO: Why On-Prem Software Is Still Big Business",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Future-Mark-Porter-QA-LINKEDIN.jpeg"
+        },
+        {
+          "id": "https://future.a16z.com/?p=5821",
+          "author": "Liz Harkavy, Eddy Lazzarin and Arianna Simpson",
+          "description": "There has been a lot of buzz about “the metaverse” since its coinage in the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta.  Is this just a bit of opaque marketing-speak? What is a metaverse exactly? How does one define... Read More\nThe post 7 Essential Ingredients of a Metaverse appeared first on Future.",
+          "link": "https://future.a16z.com/7-essential-ingredients-of-a-metaverse/",
+          "publishedOn": "2022-05-06T17:31:15.000Z",
+          "wordCount": 2798,
+          "title": "7 Essential Ingredients of a Metaverse",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Metaverse-framework-Yoast_Facebook.jpeg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.14.4"
 }
