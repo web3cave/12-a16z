@@ -6,6 +6,16 @@
       "siteUrl": "https://future.a16z.com",
       "articles": [
         {
+          "id": "https://future.a16z.com/?p=6009",
+          "author": "Beena Ammanath",
+          "description": "This is an edited excerpt from Trustworthy AI: A Business Guide for Navigating Trust and Ethics in AI by Beena Ammanath (Wiley, March 2022). Ammanath is executive director of the Global Deloitte AI Institute and leads Trustworthy & Ethical Technology at Deloitte. She has held leadership positions in artificial intelligence and data science at multiple... Read More\nThe post 7 Techniques for Building Reliable AI Models appeared first on Future.",
+          "link": "https://future.a16z.com/7-techniques-for-building-reliable-ai-models/",
+          "publishedOn": "2022-05-27T14:00:44.000Z",
+          "wordCount": 2269,
+          "title": "7 Techniques for Building Reliable AI Models",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Trusty-AI-Book-Excerpt-FB.jpg"
+        },
+        {
           "id": "https://future.a16z.com/?p=6029",
           "author": "Jeff Stump",
           "description": "Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More\nThe post Building Trust and Assessing Integrity as You Interview appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3990,
           "title": "MongoDB CTO: Why On-Prem Software Is Still Big Business",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Future-Mark-Porter-QA-LINKEDIN.jpeg"
-        },
-        {
-          "id": "https://future.a16z.com/?p=5821",
-          "author": "Liz Harkavy, Eddy Lazzarin and Arianna Simpson",
-          "description": "There has been a lot of buzz about “the metaverse” since its coinage in the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta.  Is this just a bit of opaque marketing-speak? What is a metaverse exactly? How does one define... Read More\nThe post 7 Essential Ingredients of a Metaverse appeared first on Future.",
-          "link": "https://future.a16z.com/7-essential-ingredients-of-a-metaverse/",
-          "publishedOn": "2022-05-06T17:31:15.000Z",
-          "wordCount": 2798,
-          "title": "7 Essential Ingredients of a Metaverse",
-          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/Metaverse-framework-Yoast_Facebook.jpeg"
         }
       ]
     }

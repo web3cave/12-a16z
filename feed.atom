@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T14:05:55.950Z</id>
+    <id>urn:2022-05-27T15:07:05.461Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T14:05:55.950Z</updated>
+    <updated>2022-05-27T15:07:05.461Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Techniques for Building Reliable AI Models]]></title>
+        <id>https://future.a16z.com/?p=6009</id>
+        <link href="https://future.a16z.com/7-techniques-for-building-reliable-ai-models/"/>
+        <updated>2022-05-27T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[This is an edited excerpt from Trustworthy AI: A Business Guide for Navigating Trust and Ethics in AI by Beena Ammanath (Wiley, March 2022). Ammanath is executive director of the Global Deloitte AI Institute and leads Trustworthy & Ethical Technology at Deloitte. She has held leadership positions in artificial intelligence and data science at multiple... Read More
+The post 7 Techniques for Building Reliable AI Models appeared first on Future.]]></summary>
+        <author>
+            <name>Beena Ammanath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Trust and Assessing Integrity as You Interview]]></title>
         <id>https://future.a16z.com/?p=6029</id>
@@ -102,17 +113,6 @@ The post How to Make Talent Scouts Work for You appeared first on Future.]]></su
 The post MongoDB CTO: Why On-Prem Software Is Still Big Business appeared first on Future.]]></summary>
         <author>
             <name>Mark Porter and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Essential Ingredients of a Metaverse]]></title>
-        <id>https://future.a16z.com/?p=5821</id>
-        <link href="https://future.a16z.com/7-essential-ingredients-of-a-metaverse/"/>
-        <updated>2022-05-06T17:31:15.000Z</updated>
-        <summary type="html"><![CDATA[There has been a lot of buzz about “the metaverse” since its coinage in the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta.  Is this just a bit of opaque marketing-speak? What is a metaverse exactly? How does one define... Read More
-The post 7 Essential Ingredients of a Metaverse appeared first on Future.]]></summary>
-        <author>
-            <name>Liz Harkavy, Eddy Lazzarin and Arianna Simpson</name>
         </author>
     </entry>
 </feed>
