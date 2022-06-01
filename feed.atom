@@ -1,8 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T19:05:54.477Z</id>
+    <id>urn:2022-06-01T20:07:31.355Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-01T19:05:54.477Z</updated>
+    <updated>2022-06-01T20:07:31.355Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[7 Techniques for Building Reliable AI Models]]></title>
+        <id>https://future.a16z.com/?p=6009</id>
+        <link href="https://future.a16z.com/7-techniques-for-building-reliable-ai-models/"/>
+        <updated>2022-05-27T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[This is an edited excerpt from Trustworthy AI: A Business Guide for Navigating Trust and Ethics in AI by Beena Ammanath (Wiley, March 2022). Ammanath is executive director of the Global Deloitte AI Institute and leads Trustworthy & Ethical Technology at Deloitte. She has held leadership positions in artificial intelligence and data science at multiple... Read More
+The post 7 Techniques for Building Reliable AI Models appeared first on Future.]]></summary>
+        <author>
+            <name>Beena Ammanath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Trust and Assessing Integrity as You Interview]]></title>
+        <id>https://future.a16z.com/?p=6029</id>
+        <link href="https://future.a16z.com/building-trust-and-assessing-integrity-as-you-interview/"/>
+        <updated>2022-05-24T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More
+The post Building Trust and Assessing Integrity as You Interview appeared first on Future.]]></summary>
+        <author>
+            <name>Jeff Stump</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design (and Redesign) the Practices of Company Culture]]></title>
+        <id>https://future.a16z.com/?p=6003</id>
+        <link href="https://future.a16z.com/practices-company-culture-design/"/>
+        <updated>2022-05-20T15:00:25.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More
+The post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.]]></summary>
+        <author>
+            <name>Melissa Daimler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Negative Engineering?]]></title>
+        <id>https://future.a16z.com/?p=5997</id>
+        <link href="https://future.a16z.com/negative-engineering-and-the-art-of-failing-successfully/"/>
+        <updated>2022-05-19T14:00:47.000Z</updated>
+        <summary type="html"><![CDATA[It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More
+The post What Is Negative Engineering? appeared first on Future.]]></summary>
+        <author>
+            <name>Jeremiah Lowin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Startup’s Guide to Launching College Ambassador Programs]]></title>
+        <id>https://future.a16z.com/?p=5974</id>
+        <link href="https://future.a16z.com/college-ambassador-program-how-to-for-startups/"/>
+        <updated>2022-05-18T15:00:49.000Z</updated>
+        <summary type="html"><![CDATA[For new consumer startups targeting young people, one of the most popular marketing strategies is an on-campus student ambassador program. Household names like Tinder, Bumble, and Red Bull leveraged these programs successfully in the early days (and still today) to grow their brands across the country, and today’s generation of startups continue to build on... Read More
+The post A Startup’s Guide to Launching College Ambassador Programs appeared first on Future.]]></summary>
+        <author>
+            <name>Jacob Westphal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hopper CEO on Super-App Ambitions and Becoming an Everything Startup]]></title>
+        <id>https://future.a16z.com/?p=5909</id>
+        <link href="https://future.a16z.com/hoppers-big-bet-all-travelers-worry-but-not-about-the-same-thing/"/>
+        <updated>2022-05-16T15:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Hopper, which finds travelers low rates on flights, hotels, and rental cars, is most frequently described as a travel-booking app. It also qualifies as an online travel agency (or OTA), a term that applies to any company selling travel on the internet. OTA is a useful classification because numerous brands in the travel space, including... Read More
+The post Hopper CEO on Super-App Ambitions and Becoming an Everything Startup appeared first on Future.]]></summary>
+        <author>
+            <name>Frederic Lalonde and Theresa Fisher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Framework for Navigating Down Markets]]></title>
+        <id>https://future.a16z.com/?p=5891</id>
+        <link href="https://future.a16z.com/framework-valuation-navigating-down-markets/"/>
+        <updated>2022-05-13T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More
+The post A Framework for Navigating Down Markets appeared first on Future.]]></summary>
+        <author>
+            <name>Justin Kahl and David George</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Info Diet: Tandem CEO Rajiv Ayyangar]]></title>
+        <id>https://future.a16z.com/?p=5868</id>
+        <link href="https://future.a16z.com/info-diet-tandem-ceo-rajiv-ayyangar/"/>
+        <updated>2022-05-12T19:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More
+The post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.]]></summary>
+        <author>
+            <name>Rajiv Ayyangar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Talent Scouts Work for You]]></title>
+        <id>https://future.a16z.com/?p=5855</id>
+        <link href="https://future.a16z.com/how-to-make-talent-scouts-work-for-you/"/>
+        <updated>2022-05-11T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, co-author of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More
+The post How to Make Talent Scouts Work for You appeared first on Future.]]></summary>
+        <author>
+            <name>Tyler Cowen and Daniel Gross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB CTO: Why On-Prem Software Is Still Big Business]]></title>
+        <id>https://future.a16z.com/?p=5845</id>
+        <link href="https://future.a16z.com/mongodb-cto-cloud-providers-southeast-asia/"/>
+        <updated>2022-05-10T14:00:55.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB CTO Mark Porter has been on all sides of the technology industry. He was most recently CTO of core technology and transport at Grab, a super-app serving Southeast Asia, and prior to that held leadership roles at Amazon Web Services and Oracle, among other places. In this interview, he shares his views on the... Read More
+The post MongoDB CTO: Why On-Prem Software Is Still Big Business appeared first on Future.]]></summary>
+        <author>
+            <name>Mark Porter and Derrick Harris</name>
+        </author>
+    </entry>
 </feed>
