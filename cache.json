@@ -6,6 +6,21 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6216",
+          "author": "Michelle Kennedy",
+          "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Michelle Kennedy, founder and CEO of Peanut, an online community to... Read More\nThe post Info Diet: Peanut CEO Michelle Kennedy appeared first on Future.",
+          "link": "https://future.com/info-diet-peanut-ceo-michelle-kennedy/",
+          "publishedOn": "2022-06-03T14:52:59.000Z",
+          "wordCount": 1605,
+          "title": "Info Diet: Peanut CEO Michelle Kennedy",
+          "enclosure": {
+            "url": "https://chrt.fm/track/E341G/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/a85ab25a-bfbb-4746-ad98-aec5d9555eef.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/718-InfoDiet-with-Michelle-Kennedy-FB.jpg"
+        },
+        {
           "id": "https://future.com/?p=6201",
           "author": "Jeff Decker",
           "description": "Afghanistan. North Korea. Russia. The South China Sea. Open a newspaper these days and you’ll read about the numerous problems facing America’s military. Global threats and a dwindling technological advantage have caused the Pentagon to cozy up to Silicon Valley, a relationship from which Palantir and Anduril are but two successful outcomes. Yet, most dual-use... Read More\nThe post The Iron Man Model: How Startups and the Military Can Work Together appeared first on Future.",
@@ -31,7 +46,7 @@
           "description": "Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More\nThe post Building Trust and Assessing Integrity as You Interview appeared first on Future.",
           "link": "https://future.com/building-trust-and-assessing-integrity-as-you-interview/",
           "publishedOn": "2022-05-24T14:00:33.000Z",
-          "wordCount": 2149,
+          "wordCount": 2147,
           "title": "Building Trust and Assessing Integrity as You Interview",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/Hiring-for-Trust-FB-FINAL.jpg"
         },
@@ -41,7 +56,7 @@
           "description": "This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More\nThe post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.",
           "link": "https://future.com/practices-company-culture-design/",
           "publishedOn": "2022-05-20T15:00:25.000Z",
-          "wordCount": 3206,
+          "wordCount": 3204,
           "title": "How to Design (and Redesign) the Practices of Company Culture",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/ReCulturing-Practices-Book-Excerpt-Twitter-FINAL.jpg"
         },
@@ -91,19 +106,9 @@
           "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More\nThe post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.",
           "link": "https://future.com/info-diet-tandem-ceo-rajiv-ayyangar/",
           "publishedOn": "2022-05-12T19:03:55.000Z",
-          "wordCount": 1593,
+          "wordCount": 1591,
           "title": "Info Diet: Tandem CEO Rajiv Ayyangar",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/677-Info-Diet-Rajiv-Ayyangar-FB-FINAL.jpg"
-        },
-        {
-          "id": "https://future.com/?p=5855",
-          "author": "Tyler Cowen and Daniel Gross",
-          "description": "This is an excerpt from Talent: How to Identify Energizers, Creatives, and Winners Around the World by Tyler Cowen and Daniel Gross (St. Martin’s Publishing Group, May 2022).  Cowen is an economics professor at George Mason University, co-author of the Marginal Revolution blog, and co-founder of Marginal Revolution University. Gross is the founder of startup... Read More\nThe post How to Make Talent Scouts Work for You appeared first on Future.",
-          "link": "https://future.com/how-to-make-talent-scouts-work-for-you/",
-          "publishedOn": "2022-05-11T14:00:44.000Z",
-          "wordCount": 2065,
-          "title": "How to Make Talent Scouts Work for You",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/05/TalentBookExcerpt-LinkedIn.png"
         }
       ]
     }
