@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T13:23:46.536Z</id>
+    <id>urn:2022-06-03T14:05:23.416Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T13:23:46.536Z</updated>
+    <updated>2022-06-03T14:05:23.416Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Iron Man Model: How Startups and the Military Can Work Together]]></title>
+        <id>https://future.com/?p=6201</id>
+        <link href="https://future.com/the-iron-man-model-startups-military/"/>
+        <updated>2022-06-03T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Afghanistan. North Korea. Russia. The South China Sea. Open a newspaper these days and you’ll read about the numerous problems facing America’s military. Global threats and a dwindling technological advantage have caused the Pentagon to cozy up to Silicon Valley, a relationship from which Palantir and Anduril are but two successful outcomes. Yet, most dual-use... Read More
+The post The Iron Man Model: How Startups and the Military Can Work Together appeared first on Future.]]></summary>
+        <author>
+            <name>Jeff Decker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Techniques for Building Reliable AI Models]]></title>
         <id>https://future.com/?p=6009</id>
@@ -102,17 +113,6 @@ The post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.]]></summ
 The post How to Make Talent Scouts Work for You appeared first on Future.]]></summary>
         <author>
             <name>Tyler Cowen and Daniel Gross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB CTO: Why On-Prem Software Is Still Big Business]]></title>
-        <id>https://future.com/?p=5845</id>
-        <link href="https://future.com/mongodb-cto-cloud-providers-southeast-asia/"/>
-        <updated>2022-05-10T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB CTO Mark Porter has been on all sides of the technology industry. He was most recently CTO of core technology and transport at Grab, a super-app serving Southeast Asia, and prior to that held leadership roles at Amazon Web Services and Oracle, among other places. In this interview, he shares his views on the... Read More
-The post MongoDB CTO: Why On-Prem Software Is Still Big Business appeared first on Future.]]></summary>
-        <author>
-            <name>Mark Porter and Derrick Harris</name>
         </author>
     </entry>
 </feed>
