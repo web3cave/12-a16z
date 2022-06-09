@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T16:08:03.206Z</id>
+    <id>urn:2022-06-09T17:12:13.068Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-09T16:08:03.206Z</updated>
+    <updated>2022-06-09T17:12:13.068Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why the Software Supply Chain Needs More Security]]></title>
+        <id>https://future.com/?p=6252</id>
+        <link href="https://future.com/securing-the-software-supply-chain/"/>
+        <updated>2022-06-09T16:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Kim Lewandowski is co-founder and head of product at security startup Chainguard. Prior to Chainguard, she worked as a product manager at Google, most recently with a focus on securing the company’s development pipeline and the open source tools it used.  In this interview, she discusses the concept of a secure software supply chain and... Read More
+The post Why the Software Supply Chain Needs More Security appeared first on Future.]]></summary>
+        <author>
+            <name>Kim Lewandowski and Derrick Harris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Info Diet: Peanut CEO Michelle Kennedy]]></title>
         <id>https://future.com/?p=6216</id>
@@ -102,17 +113,6 @@ The post Hopper CEO on Super-App Ambitions and Becoming an Everything Startup ap
 The post A Framework for Navigating Down Markets appeared first on Future.]]></summary>
         <author>
             <name>Justin Kahl and David George</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Info Diet: Tandem CEO Rajiv Ayyangar]]></title>
-        <id>https://future.com/?p=5868</id>
-        <link href="https://future.com/info-diet-tandem-ceo-rajiv-ayyangar/"/>
-        <updated>2022-05-12T19:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More
-The post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.]]></summary>
-        <author>
-            <name>Rajiv Ayyangar</name>
         </author>
     </entry>
 </feed>

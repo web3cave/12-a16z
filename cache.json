@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6252",
+          "author": "Kim Lewandowski and Derrick Harris",
+          "description": "Kim Lewandowski is co-founder and head of product at security startup Chainguard. Prior to Chainguard, she worked as a product manager at Google, most recently with a focus on securing the company’s development pipeline and the open source tools it used.  In this interview, she discusses the concept of a secure software supply chain and... Read More\nThe post Why the Software Supply Chain Needs More Security appeared first on Future.",
+          "link": "https://future.com/securing-the-software-supply-chain/",
+          "publishedOn": "2022-06-09T16:30:27.000Z",
+          "wordCount": 3762,
+          "title": "Why the Software Supply Chain Needs More Security",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/744-Social-Share-Card-KimQA-Facebook.jpg"
+        },
+        {
           "id": "https://future.com/?p=6216",
           "author": "Michelle Kennedy",
           "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Michelle Kennedy, founder and CEO of Peanut, an online community to... Read More\nThe post Info Diet: Peanut CEO Michelle Kennedy appeared first on Future.",
@@ -66,7 +76,7 @@
           "description": "It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More\nThe post What Is Negative Engineering? appeared first on Future.",
           "link": "https://future.com/negative-engineering-and-the-art-of-failing-successfully/",
           "publishedOn": "2022-05-19T14:00:47.000Z",
-          "wordCount": 2638,
+          "wordCount": 2637,
           "title": "What Is Negative Engineering?",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/Negative-Engineering_LinkedIn.jpg"
         },
@@ -99,16 +109,6 @@
           "wordCount": 2127,
           "title": "A Framework for Navigating Down Markets",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/MarketISWas_Yoast_Facebook.jpeg"
-        },
-        {
-          "id": "https://future.com/?p=5868",
-          "author": "Rajiv Ayyangar",
-          "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Rajiv Ayyangar, cofounder and CEO of the virtual office app Tandem.... Read More\nThe post Info Diet: Tandem CEO Rajiv Ayyangar appeared first on Future.",
-          "link": "https://future.com/info-diet-tandem-ceo-rajiv-ayyangar/",
-          "publishedOn": "2022-05-12T19:03:55.000Z",
-          "wordCount": 1585,
-          "title": "Info Diet: Tandem CEO Rajiv Ayyangar",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/05/677-Info-Diet-Rajiv-Ayyangar-FB-FINAL.jpg"
         }
       ]
     }
