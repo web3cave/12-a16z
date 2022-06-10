@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T18:08:13.025Z</id>
+    <id>urn:2022-06-10T19:04:02.579Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T18:08:13.025Z</updated>
+    <updated>2022-06-10T19:04:02.579Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing?]]></title>
+        <id>https://future.com/?p=6270</id>
+        <link href="https://future.com/synbio-algae-carbon-neutral-biomanufacturing/"/>
+        <updated>2022-06-10T18:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Synthetic biology has long promised to make production of medicines, foods, chemicals and materials cheaper and more sustainable. Yet, while many products can now be made through synbio, the bio-based manufacturing revolution is still not here. A major bottleneck to realizing the opportunity of synbio is the production process: the existing options are tricky and... Read More
+The post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing? appeared first on Future.]]></summary>
+        <author>
+            <name>Nusqe Spanton and Nicole Neuman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why the Software Supply Chain Needs More Security]]></title>
         <id>https://future.com/?p=6252</id>
@@ -102,17 +113,6 @@ The post A Startup’s Guide to Launching College Ambassador Programs appeared f
 The post Hopper CEO on Super-App Ambitions and Becoming an Everything Startup appeared first on Future.]]></summary>
         <author>
             <name>Frederic Lalonde and Theresa Fisher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Framework for Navigating Down Markets]]></title>
-        <id>https://future.com/?p=5891</id>
-        <link href="https://future.com/framework-valuation-navigating-down-markets/"/>
-        <updated>2022-05-13T15:00:29.000Z</updated>
-        <summary type="html"><![CDATA[The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More
-The post A Framework for Navigating Down Markets appeared first on Future.]]></summary>
-        <author>
-            <name>Justin Kahl and David George</name>
         </author>
     </entry>
 </feed>

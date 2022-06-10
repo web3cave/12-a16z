@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6270",
+          "author": "Nusqe Spanton and Nicole Neuman",
+          "description": "Synthetic biology has long promised to make production of medicines, foods, chemicals and materials cheaper and more sustainable. Yet, while many products can now be made through synbio, the bio-based manufacturing revolution is still not here. A major bottleneck to realizing the opportunity of synbio is the production process: the existing options are tricky and... Read More\nThe post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing? appeared first on Future.",
+          "link": "https://future.com/synbio-algae-carbon-neutral-biomanufacturing/",
+          "publishedOn": "2022-06-10T18:52:52.000Z",
+          "wordCount": 3492,
+          "title": "Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing?",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/Stanton-QA-FINAL.jpg"
+        },
+        {
           "id": "https://future.com/?p=6252",
           "author": "Kim Lewandowski and Derrick Harris",
           "description": "Kim Lewandowski is co-founder and head of product at security startup Chainguard. Prior to Chainguard, she worked as a product manager at Google, most recently with a focus on securing the company’s development pipeline and the open source tools it used.  In this interview, she discusses the concept of a secure software supply chain and... Read More\nThe post Why the Software Supply Chain Needs More Security appeared first on Future.",
@@ -99,16 +109,6 @@
           "wordCount": 4199,
           "title": "Hopper CEO on Super-App Ambitions and Becoming an Everything Startup",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/687-QA-FredricLalonde-SocialShare-R1v1.jpeg"
-        },
-        {
-          "id": "https://future.com/?p=5891",
-          "author": "Justin Kahl and David George",
-          "description": "The market has taken a downturn, and every other blog or tweetstorm seems to offer the same general advice: conserve cash, extend runway, shift from focusing on growth to focusing on efficiency. We’ve advised many of our later stage growth companies through market ups and downs, and we’ve realized that, when the market dips, founders... Read More\nThe post A Framework for Navigating Down Markets appeared first on Future.",
-          "link": "https://future.com/framework-valuation-navigating-down-markets/",
-          "publishedOn": "2022-05-13T15:00:29.000Z",
-          "wordCount": 2126,
-          "title": "A Framework for Navigating Down Markets",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/05/MarketISWas_Yoast_Facebook.jpeg"
         }
       ]
     }
