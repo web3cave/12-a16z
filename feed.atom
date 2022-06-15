@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-15T13:27:29.986Z</id>
+    <id>urn:2022-06-15T14:04:37.692Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-15T13:27:29.986Z</updated>
+    <updated>2022-06-15T14:04:37.692Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All About Acquihires]]></title>
+        <id>https://future.com/?p=6282</id>
+        <link href="https://future.com/all-about-acquihires/"/>
+        <updated>2022-06-15T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[In today’s ever-competitive environment to drive growth, identifying and hiring key talent through a structured transaction — known as an “acquihire” — has become an increasingly popular and effective way for companies to address hiring needs and accelerate product innovation and development.  Often joining the acquiring company as a unit or existing team, employers also... Read More
+The post All About Acquihires appeared first on Future.]]></summary>
+        <author>
+            <name>Peter Blackwood and Tina Ferguson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing?]]></title>
         <id>https://future.com/?p=6270</id>
