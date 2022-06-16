@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6289",
+          "author": "Peter Yang",
+          "description": "In 2021, Chris Dixon wrote about how creators can use NFTs to monetize their “1,000 true fans.” Since then, NFT use-cases have multiplied. Case in point: The rise of NFT memberships, which require fans to hold a specific NFT to join a private community and enjoy its perks. NFT memberships give creators a way to... Read More\nThe post A Practical Guide to NFT Memberships for Creators appeared first on Future.",
+          "link": "https://future.com/a-practical-guide-to-nft-memberships-for-creators/",
+          "publishedOn": "2022-06-16T14:53:13.000Z",
+          "wordCount": 2050,
+          "title": "A Practical Guide to NFT Memberships for Creators",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/APracticalGuidetoNFTMembership-Facebook.jpg"
+        },
+        {
           "id": "https://future.com/?p=6282",
           "author": "Peter Blackwood and Tina Ferguson",
           "description": "In today’s ever-competitive environment to drive growth, identifying and hiring key talent through a structured transaction — known as an “acquihire” — has become an increasingly popular and effective way for companies to address hiring needs and accelerate product innovation and development.  Often joining the acquiring company as a unit or existing team, employers also... Read More\nThe post All About Acquihires appeared first on Future.",
@@ -99,16 +109,6 @@
           "wordCount": 2634,
           "title": "What Is Negative Engineering?",
           "imageUrl": "https://future.com/wp-content/uploads/2022/05/Negative-Engineering_LinkedIn.jpg"
-        },
-        {
-          "id": "https://future.com/?p=5974",
-          "author": "Jacob Westphal",
-          "description": "For new consumer startups targeting young people, one of the most popular marketing strategies is an on-campus student ambassador program. Household names like Tinder, Bumble, and Red Bull leveraged these programs successfully in the early days (and still today) to grow their brands across the country, and today’s generation of startups continue to build on... Read More\nThe post A Startup’s Guide to Launching College Ambassador Programs appeared first on Future.",
-          "link": "https://future.com/college-ambassador-program-how-to-for-startups/",
-          "publishedOn": "2022-05-18T15:00:49.000Z",
-          "wordCount": 4460,
-          "title": "A Startup’s Guide to Launching College Ambassador Programs",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/05/How-to-Build-and-Run-a-Successful-College-Ambassador-Program-LinkedIn.png"
         }
       ]
     }

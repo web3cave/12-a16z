@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T14:05:41.341Z</id>
+    <id>urn:2022-06-16T15:06:18.417Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T14:05:41.341Z</updated>
+    <updated>2022-06-16T15:06:18.417Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to NFT Memberships for Creators]]></title>
+        <id>https://future.com/?p=6289</id>
+        <link href="https://future.com/a-practical-guide-to-nft-memberships-for-creators/"/>
+        <updated>2022-06-16T14:53:13.000Z</updated>
+        <summary type="html"><![CDATA[In 2021, Chris Dixon wrote about how creators can use NFTs to monetize their “1,000 true fans.” Since then, NFT use-cases have multiplied. Case in point: The rise of NFT memberships, which require fans to hold a specific NFT to join a private community and enjoy its perks. NFT memberships give creators a way to... Read More
+The post A Practical Guide to NFT Memberships for Creators appeared first on Future.]]></summary>
+        <author>
+            <name>Peter Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All About Acquihires]]></title>
         <id>https://future.com/?p=6282</id>
@@ -102,17 +113,6 @@ The post How to Design (and Redesign) the Practices of Company Culture appeared 
 The post What Is Negative Engineering? appeared first on Future.]]></summary>
         <author>
             <name>Jeremiah Lowin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Startup’s Guide to Launching College Ambassador Programs]]></title>
-        <id>https://future.com/?p=5974</id>
-        <link href="https://future.com/college-ambassador-program-how-to-for-startups/"/>
-        <updated>2022-05-18T15:00:49.000Z</updated>
-        <summary type="html"><![CDATA[For new consumer startups targeting young people, one of the most popular marketing strategies is an on-campus student ambassador program. Household names like Tinder, Bumble, and Red Bull leveraged these programs successfully in the early days (and still today) to grow their brands across the country, and today’s generation of startups continue to build on... Read More
-The post A Startup’s Guide to Launching College Ambassador Programs appeared first on Future.]]></summary>
-        <author>
-            <name>Jacob Westphal</name>
         </author>
     </entry>
 </feed>
