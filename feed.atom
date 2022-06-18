@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T00:36:52.298Z</id>
+    <id>urn:2022-06-18T02:51:45.863Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-18T00:36:52.298Z</updated>
+    <updated>2022-06-18T02:51:45.863Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -102,17 +102,6 @@ The post Building Trust and Assessing Integrity as You Interview appeared first 
 The post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.]]></summary>
         <author>
             <name>Melissa Daimler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Negative Engineering?]]></title>
-        <id>https://future.com/?p=5997</id>
-        <link href="https://future.com/negative-engineering-and-the-art-of-failing-successfully/"/>
-        <updated>2022-05-19T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[It was the second game of a double-header, and the Washington Nationals had a problem. Not on the field, of course: The soon-to-be World Series champions were performing beautifully. But as they waited out a rain delay, something went awry behind the scenes. A task scheduler deep within the team’s analytics infrastructure stopped running. The... Read More
-The post What Is Negative Engineering? appeared first on Future.]]></summary>
-        <author>
-            <name>Jeremiah Lowin</name>
         </author>
     </entry>
 </feed>
