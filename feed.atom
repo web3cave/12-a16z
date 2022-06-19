@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-19T00:36:50.428Z</id>
+    <id>urn:2022-06-19T03:05:51.047Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-19T00:36:50.428Z</updated>
+    <updated>2022-06-19T03:05:51.047Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,17 +91,6 @@ The post 7 Techniques for Building Reliable AI Models appeared first on Future.]
 The post Building Trust and Assessing Integrity as You Interview appeared first on Future.]]></summary>
         <author>
             <name>Jeff Stump</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design (and Redesign) the Practices of Company Culture]]></title>
-        <id>https://future.com/?p=6003</id>
-        <link href="https://future.com/practices-company-culture-design/"/>
-        <updated>2022-05-20T15:00:25.000Z</updated>
-        <summary type="html"><![CDATA[This is an excerpt from ReCulturing: Design Your Company Culture to Connect with Strategy and Purpose for Lasting Success by Melissa Daimler (McGraw Hill, May 2022).  Daimler is currently the Chief Learning Officer at Udemy, and she previously was a leader at WeWork, Twitter, and Adobe, as well as running her own boutique advisory and... Read More
-The post How to Design (and Redesign) the Practices of Company Culture appeared first on Future.]]></summary>
-        <author>
-            <name>Melissa Daimler</name>
         </author>
     </entry>
 </feed>
