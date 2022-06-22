@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T20:07:01.007Z</id>
+    <id>urn:2022-06-22T21:05:55.159Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-22T20:07:01.007Z</updated>
+    <updated>2022-06-22T21:05:55.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Insitro CEO on Dropping the PI Mindset and What Two Things We’ll Need for the Next AlphaFold]]></title>
+        <id>https://future.com/?p=6342</id>
+        <link href="https://future.com/koller-insitro-drug-discovery-ai-alphafold/"/>
+        <updated>2022-06-22T20:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Daphne Koller is the founder and CEO or insitro. Prior to insitro, she served as Chief Computing Officer at Calico. She was also a Professor in the Computer Science department at Stanford University before making a mid-career transition to co-found Coursera.   In this interview, she shares some of the challenges with creating accurate machine learning... Read More
+The post Insitro CEO on Dropping the PI Mindset and What Two Things We’ll Need for the Next AlphaFold appeared first on Future.]]></summary>
+        <author>
+            <name>Daphne Koller and Nicole Neuman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Practical Guide to NFT Memberships for Creators]]></title>
         <id>https://future.com/?p=6289</id>
