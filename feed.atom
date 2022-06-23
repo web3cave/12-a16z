@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-23T00:31:50.297Z</id>
+    <id>urn:2022-06-23T03:00:32.585Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-23T00:31:50.297Z</updated>
+    <updated>2022-06-23T03:00:32.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,17 +91,6 @@ The post The Iron Man Model: How Startups and the Military Can Work Together app
 The post 7 Techniques for Building Reliable AI Models appeared first on Future.]]></summary>
         <author>
             <name>Beena Ammanath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Trust and Assessing Integrity as You Interview]]></title>
-        <id>https://future.com/?p=6029</id>
-        <link href="https://future.com/building-trust-and-assessing-integrity-as-you-interview/"/>
-        <updated>2022-05-24T14:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Establishing trustworthiness early is a fundamental part of the interview process. Nothing else matters if you don’t think you can trust someone. Hopefully, you’ll build trust by way of multiple interviews, references, working sessions, etc. — but how can you get comfortable with someone you are meeting for the first time in the interview process,... Read More
-The post Building Trust and Assessing Integrity as You Interview appeared first on Future.]]></summary>
-        <author>
-            <name>Jeff Stump</name>
         </author>
     </entry>
 </feed>
