@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6349",
+          "author": "Thomas Dimson",
+          "description": "In 2016, I led a small team at Instagram that designed and built one of the largest content distribution experiments in history: the introduction of a personalized ranking algorithm to the platform’s (then) 500 million users. Anticipating controversy, we spent the next several years scientifically measuring differences between people receiving this evolving “recommendation algorithm” (as... Read More\nThe post Forget “Open-Source” Algorithms — Focus on Experiments Instead appeared first on Future.",
+          "link": "https://future.com/forget-open-source-algorithms-focus-on-experiments-instead/",
+          "publishedOn": "2022-06-24T16:17:48.000Z",
+          "wordCount": 3873,
+          "title": "Forget “Open-Source” Algorithms — Focus on Experiments Instead",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/755-The-future-of-the-feed-FINAL-FB.png"
+        },
+        {
           "id": "https://future.com/?p=6371",
           "author": "James Gwertzman",
           "description": "You install that new Parkour game that everyone’s talking about, and instantly your avatar gains a new set of skills. After a few minutes in the tutorial level, running up walls and vaulting over obstacles, you’re ready for a bigger challenge. You teleport yourself into one of your favorite games, Grand Theft Auto: Metaverse, following... Read More\nThe post Unlocking the Metaverse: New Opportunities in Games Infrastructure appeared first on Future.",

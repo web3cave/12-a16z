@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T16:08:06.395Z</id>
+    <id>urn:2022-06-24T17:12:56.482Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-24T16:08:06.395Z</updated>
+    <updated>2022-06-24T17:12:56.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Forget “Open-Source” Algorithms — Focus on Experiments Instead]]></title>
+        <id>https://future.com/?p=6349</id>
+        <link href="https://future.com/forget-open-source-algorithms-focus-on-experiments-instead/"/>
+        <updated>2022-06-24T16:17:48.000Z</updated>
+        <summary type="html"><![CDATA[In 2016, I led a small team at Instagram that designed and built one of the largest content distribution experiments in history: the introduction of a personalized ranking algorithm to the platform’s (then) 500 million users. Anticipating controversy, we spent the next several years scientifically measuring differences between people receiving this evolving “recommendation algorithm” (as... Read More
+The post Forget “Open-Source” Algorithms — Focus on Experiments Instead appeared first on Future.]]></summary>
+        <author>
+            <name>Thomas Dimson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking the Metaverse: New Opportunities in Games Infrastructure]]></title>
         <id>https://future.com/?p=6371</id>
