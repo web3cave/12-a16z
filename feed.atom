@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T00:40:27.068Z</id>
+    <id>urn:2022-06-26T03:05:12.307Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-26T00:40:27.068Z</updated>
+    <updated>2022-06-26T03:05:12.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -102,17 +102,6 @@ The post Info Diet: Peanut CEO Michelle Kennedy appeared first on Future.]]></su
 The post The Iron Man Model: How Startups and the Military Can Work Together appeared first on Future.]]></summary>
         <author>
             <name>Jeff Decker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Techniques for Building Reliable AI Models]]></title>
-        <id>https://future.com/?p=6009</id>
-        <link href="https://future.com/7-techniques-for-building-reliable-ai-models/"/>
-        <updated>2022-05-27T14:00:44.000Z</updated>
-        <summary type="html"><![CDATA[This is an edited excerpt from Trustworthy AI: A Business Guide for Navigating Trust and Ethics in AI by Beena Ammanath (Wiley, March 2022). Ammanath is executive director of the Global Deloitte AI Institute and leads Trustworthy & Ethical Technology at Deloitte. She has held leadership positions in artificial intelligence and data science at multiple... Read More
-The post 7 Techniques for Building Reliable AI Models appeared first on Future.]]></summary>
-        <author>
-            <name>Beena Ammanath</name>
         </author>
     </entry>
 </feed>
