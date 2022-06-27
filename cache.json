@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6459",
+          "author": "Future Editorial",
+          "description": "The world of artificial intelligence and machine learning moves very fast. So fast, in fact, that it’s remarkable to think that it was only a decade ago when the AlexNet model dominated the ImageNet competition and kicked off the process that made deep learning a bona fide technology movement. Today, after years of headlines about... Read More\nThe post The Year in AI So Far: Massive Models and How to Use Them appeared first on Future.",
+          "link": "https://future.com/the-year-in-ai-so-far-massive-models-and-how-to-use-them/",
+          "publishedOn": "2022-06-27T14:00:19.000Z",
+          "wordCount": 1508,
+          "title": "The Year in AI So Far: Massive Models and How to Use Them",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/02/FoundationModels-Facebook-Final.jpg"
+        },
+        {
           "id": "https://future.com/?p=6349",
           "author": "Thomas Dimson",
           "description": "In 2016, I led a small team at Instagram that designed and built one of the largest content distribution experiments in history: the introduction of a personalized ranking algorithm to the platform’s (then) 500 million users. Anticipating controversy, we spent the next several years scientifically measuring differences between people receiving this evolving “recommendation algorithm” (as... Read More\nThe post Forget “Open-Source” Algorithms — Focus on Experiments Instead appeared first on Future.",
