@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T14:05:15.825Z</id>
+    <id>urn:2022-06-28T15:06:39.024Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-28T14:05:15.825Z</updated>
+    <updated>2022-06-28T15:06:39.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Recognizing the Next CRISPR-Level Tech for Biology]]></title>
+        <id>https://future.com/?p=6396</id>
+        <link href="https://future.com/doudna-next-crispr-technology-to-engineer-biology/"/>
+        <updated>2022-06-28T15:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Jennifer Doudna won the 2020 Nobel Prize in Chemistry for her co-discovery of CRISPR/Cas9, a versatile genome editing platform. In the decade since its discovery the toolbox of CRISPR technologies has exploded, acting like rocket fuel for curiosity-driven science. It is also increasingly a foundational technology for many biotech companies. In this conversation, Doudna chats... Read More
+The post Recognizing the Next CRISPR-Level Tech for Biology appeared first on Future.]]></summary>
+        <author>
+            <name>Jennifer Doudna and Vijay Pande</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Year in AI So Far: Massive Models and How to Use Them]]></title>
         <id>https://future.com/?p=6459</id>
@@ -102,17 +113,6 @@ The post Why the Software Supply Chain Needs More Security appeared first on Fut
 The post Info Diet: Peanut CEO Michelle Kennedy appeared first on Future.]]></summary>
         <author>
             <name>Michelle Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Iron Man Model: How Startups and the Military Can Work Together]]></title>
-        <id>https://future.com/?p=6201</id>
-        <link href="https://future.com/the-iron-man-model-startups-military/"/>
-        <updated>2022-06-03T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Afghanistan. North Korea. Russia. The South China Sea. Open a newspaper these days and you’ll read about the numerous problems facing America’s military. Global threats and a dwindling technological advantage have caused the Pentagon to cozy up to Silicon Valley, a relationship from which Palantir and Anduril are but two successful outcomes. Yet, most dual-use... Read More
-The post The Iron Man Model: How Startups and the Military Can Work Together appeared first on Future.]]></summary>
-        <author>
-            <name>Jeff Decker</name>
         </author>
     </entry>
 </feed>

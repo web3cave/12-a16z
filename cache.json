@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6396",
+          "author": "Jennifer Doudna and Vijay Pande",
+          "description": "Jennifer Doudna won the 2020 Nobel Prize in Chemistry for her co-discovery of CRISPR/Cas9, a versatile genome editing platform. In the decade since its discovery the toolbox of CRISPR technologies has exploded, acting like rocket fuel for curiosity-driven science. It is also increasingly a foundational technology for many biotech companies. In this conversation, Doudna chats... Read More\nThe post Recognizing the Next CRISPR-Level Tech for Biology appeared first on Future.",
+          "link": "https://future.com/doudna-next-crispr-technology-to-engineer-biology/",
+          "publishedOn": "2022-06-28T15:00:17.000Z",
+          "wordCount": 5711,
+          "title": "Recognizing the Next CRISPR-Level Tech for Biology",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/780-Social-Share-Doudna-Interview-Final-Facebook.jpg"
+        },
+        {
           "id": "https://future.com/?p=6459",
           "author": "Future Editorial",
           "description": "The world of artificial intelligence and machine learning moves very fast. So fast, in fact, that it’s remarkable to think that it was only a decade ago when the AlexNet model dominated the ImageNet competition and kicked off the process that made deep learning a bona fide technology movement. Today, after years of headlines about... Read More\nThe post The Year in AI So Far: Massive Models and How to Use Them appeared first on Future.",
@@ -71,7 +81,7 @@
           "description": "Synthetic biology has long promised to make production of medicines, foods, chemicals and materials cheaper and more sustainable. Yet, while many products can now be made through synbio, the bio-based manufacturing revolution is still not here. A major bottleneck to realizing the opportunity of synbio is the production process: the existing options are tricky and... Read More\nThe post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing? appeared first on Future.",
           "link": "https://future.com/synbio-algae-carbon-neutral-biomanufacturing/",
           "publishedOn": "2022-06-10T18:52:52.000Z",
-          "wordCount": 3822,
+          "wordCount": 3819,
           "title": "Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing?",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/Stanton-QA-FINAL.jpg"
         },
@@ -99,16 +109,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/718-InfoDiet-with-Michelle-Kennedy-FB.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6201",
-          "author": "Jeff Decker",
-          "description": "Afghanistan. North Korea. Russia. The South China Sea. Open a newspaper these days and you’ll read about the numerous problems facing America’s military. Global threats and a dwindling technological advantage have caused the Pentagon to cozy up to Silicon Valley, a relationship from which Palantir and Anduril are but two successful outcomes. Yet, most dual-use... Read More\nThe post The Iron Man Model: How Startups and the Military Can Work Together appeared first on Future.",
-          "link": "https://future.com/the-iron-man-model-startups-military/",
-          "publishedOn": "2022-06-03T14:00:59.000Z",
-          "wordCount": 3664,
-          "title": "The Iron Man Model: How Startups and the Military Can Work Together",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/685-IronMan-LinkedIn-Final.jpg"
         }
       ]
     }
