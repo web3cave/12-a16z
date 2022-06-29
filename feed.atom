@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T14:06:21.985Z</id>
+    <id>urn:2022-06-29T15:39:47.189Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-29T14:06:21.985Z</updated>
+    <updated>2022-06-29T15:39:47.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto/Web3 So Far in 2022]]></title>
+        <id>https://future.com/?p=6471</id>
+        <link href="https://future.com/crypto-web3-so-far-in-2022/"/>
+        <updated>2022-06-29T15:00:50.000Z</updated>
+        <summary type="html"><![CDATA[By the time you think you’ve got crypto figured out, something new emerges — or an old innovation comes back to the fore. Since the last Crypto Winter thawed, we’ve experienced a DeFi Summer, scaled the ramparts of an NFT revolution, and then logged onto Discord for a DAO resurgence. As enthusiasm over prices gives... Read More
+The post Crypto/Web3 So Far in 2022 appeared first on Future.]]></summary>
+        <author>
+            <name>Future Editorial</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recognizing the Next CRISPR-Level Tech for Biology]]></title>
         <id>https://future.com/?p=6396</id>
@@ -102,17 +113,6 @@ The post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturin
 The post Why the Software Supply Chain Needs More Security appeared first on Future.]]></summary>
         <author>
             <name>Kim Lewandowski and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Info Diet: Peanut CEO Michelle Kennedy]]></title>
-        <id>https://future.com/?p=6216</id>
-        <link href="https://future.com/info-diet-peanut-ceo-michelle-kennedy/"/>
-        <updated>2022-06-03T14:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Michelle Kennedy, founder and CEO of Peanut, an online community to... Read More
-The post Info Diet: Peanut CEO Michelle Kennedy appeared first on Future.]]></summary>
-        <author>
-            <name>Michelle Kennedy</name>
         </author>
     </entry>
 </feed>
