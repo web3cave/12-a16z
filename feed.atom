@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T14:06:03.023Z</id>
+    <id>urn:2022-06-30T15:07:04.203Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-30T14:06:03.023Z</updated>
+    <updated>2022-06-30T15:07:04.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mid-year Recap: Web3 and Science Collide]]></title>
+        <id>https://future.com/?p=6415</id>
+        <link href="https://future.com/first-half-2022-web3-decentralized-science-desci/"/>
+        <updated>2022-06-30T15:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Scientists have acknowledged for years that there are large structural problems in science: the funding system is dysfunctional, results are frequently unreproducible, and scientific knowledge is siloed. Recently, a small but passionate group of technologists, scientists, and entrepreneurs have envisioned web3 and blockchain-based tools as potentially breaking these structural logjams. This has become the decentralized... Read More
+The post Mid-year Recap: Web3 and Science Collide appeared first on Future.]]></summary>
+        <author>
+            <name>Nicole Neuman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto/Web3 So Far in 2022]]></title>
         <id>https://future.com/?p=6471</id>
@@ -102,17 +113,6 @@ The post The Complete Guide to Acquihires appeared first on Future.]]></summary>
 The post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing? appeared first on Future.]]></summary>
         <author>
             <name>Nusqe Spanton and Nicole Neuman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Software Supply Chain Needs More Security]]></title>
-        <id>https://future.com/?p=6252</id>
-        <link href="https://future.com/securing-the-software-supply-chain/"/>
-        <updated>2022-06-09T16:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Kim Lewandowski is co-founder and head of product at security startup Chainguard. Prior to Chainguard, she worked as a product manager at Google, most recently with a focus on securing the company’s development pipeline and the open source tools it used.  In this interview, she discusses the concept of a secure software supply chain and... Read More
-The post Why the Software Supply Chain Needs More Security appeared first on Future.]]></summary>
-        <author>
-            <name>Kim Lewandowski and Derrick Harris</name>
         </author>
     </entry>
 </feed>
