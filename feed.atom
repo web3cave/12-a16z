@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T13:29:04.996Z</id>
+    <id>urn:2022-07-04T14:09:53.775Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T13:29:04.996Z</updated>
+    <updated>2022-07-04T14:09:53.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware, Cyber-Savviness, and the Public-Private Security Connection]]></title>
+        <id>https://future.com/?p=6435</id>
+        <link href="https://future.com/cisa-deputy-director-cybersecurity-ransomware/"/>
+        <updated>2022-07-04T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More
+The post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.]]></summary>
+        <author>
+            <name>Nitin Natarajan and Joel de la Garza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mid-year Recap: Web3 and Science Collide]]></title>
         <id>https://future.com/?p=6415</id>
@@ -102,17 +113,6 @@ The post A Practical Guide to NFT Memberships for Creators appeared first on Fut
 The post The Complete Guide to Acquihires appeared first on Future.]]></summary>
         <author>
             <name>Peter Blackwood and Tina Ferguson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing?]]></title>
-        <id>https://future.com/?p=6270</id>
-        <link href="https://future.com/synbio-algae-carbon-neutral-biomanufacturing/"/>
-        <updated>2022-06-10T18:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Synthetic biology has long promised to make production of medicines, foods, chemicals and materials cheaper and more sustainable. Yet, while many products can now be made through synbio, the bio-based manufacturing revolution is still not here. A major bottleneck to realizing the opportunity of synbio is the production process: the existing options are tricky and... Read More
-The post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing? appeared first on Future.]]></summary>
-        <author>
-            <name>Nusqe Spanton and Nicole Neuman</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6435",
+          "author": "Nitin Natarajan and Joel de la Garza",
+          "description": "Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More\nThe post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.",
+          "link": "https://future.com/cisa-deputy-director-cybersecurity-ransomware/",
+          "publishedOn": "2022-07-04T14:00:02.000Z",
+          "wordCount": 3948,
+          "title": "Ransomware, Cyber-Savviness, and the Public-Private Security Connection",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/07/783-NitinNatarajan-SocialShare-R1v2.png"
+        },
+        {
           "id": "https://future.com/?p=6415",
           "author": "Nicole Neuman",
           "description": "Scientists have acknowledged for years that there are large structural problems in science: the funding system is dysfunctional, results are frequently unreproducible, and scientific knowledge is siloed. Recently, a small but passionate group of technologists, scientists, and entrepreneurs have envisioned web3 and blockchain-based tools as potentially breaking these structural logjams. This has become the decentralized... Read More\nThe post Mid-year Recap: Web3 and Science Collide appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 5678,
           "title": "The Complete Guide to Acquihires",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/AcquihireGuide-Facebook.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6270",
-          "author": "Nusqe Spanton and Nicole Neuman",
-          "description": "Synthetic biology has long promised to make production of medicines, foods, chemicals and materials cheaper and more sustainable. Yet, while many products can now be made through synbio, the bio-based manufacturing revolution is still not here. A major bottleneck to realizing the opportunity of synbio is the production process: the existing options are tricky and... Read More\nThe post Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing? appeared first on Future.",
-          "link": "https://future.com/synbio-algae-carbon-neutral-biomanufacturing/",
-          "publishedOn": "2022-06-10T18:52:52.000Z",
-          "wordCount": 3817,
-          "title": "Can Synthetic Biology and Pond Scum Deliver Carbon-Neutral Manufacturing?",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/Stanton-QA-FINAL.jpg"
         }
       ]
     }
