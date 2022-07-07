@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6410",
+          "author": "Peter Donnelly, Vineeta Agarwala and Lauren Richardson",
+          "description": "Peter Donnelly is a professor of statistical science at the University of Oxford and the CEO of Genomics PLC, which uses large-scale human genetic data to inform healthcare and drug discovery. In this interview he, Lauren Richardson, and a16z general partner Vineeta Agarwala discuss the concept of polygenic risk scores with and how this lets... Read More\nThe post Quantifying Disease Risk Using Genomics: the New Paradigm appeared first on Future.",
+          "link": "https://future.com/polygenic-risk-score-disease-genomics/",
+          "publishedOn": "2022-07-07T15:00:17.000Z",
+          "wordCount": 6258,
+          "title": "Quantifying Disease Risk Using Genomics: the New Paradigm",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/07/781-PeterDonnellyQA-SocialShare-FaceBook.png"
+        },
+        {
           "id": "https://future.com/?p=6435",
           "author": "Nitin Natarajan and Joel de la Garza",
           "description": "Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More\nThe post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.",
@@ -21,7 +31,7 @@
           "description": "Scientists have acknowledged for years that there are large structural problems in science: the funding system is dysfunctional, results are frequently unreproducible, and scientific knowledge is siloed. Recently, a small but passionate group of technologists, scientists, and entrepreneurs have envisioned web3 and blockchain-based tools as potentially breaking these structural logjams. This has become the decentralized... Read More\nThe post Mid-year Recap: Web3 and Science Collide appeared first on Future.",
           "link": "https://future.com/first-half-2022-web3-decentralized-science-desci/",
           "publishedOn": "2022-06-30T15:00:55.000Z",
-          "wordCount": 1420,
+          "wordCount": 1422,
           "title": "Mid-year Recap: Web3 and Science Collide",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/V3_GenericTopic_BioBeyond.png"
         },
@@ -41,7 +51,7 @@
           "description": "Jennifer Doudna won the 2020 Nobel Prize in Chemistry for her co-discovery of CRISPR/Cas9, a versatile genome editing platform. In the decade since its discovery the toolbox of CRISPR technologies has exploded, acting like rocket fuel for curiosity-driven science. It is also increasingly a foundational technology for many biotech companies. In this conversation, Doudna chats... Read More\nThe post Recognizing the Next CRISPR-Level Tech for Biology appeared first on Future.",
           "link": "https://future.com/doudna-next-crispr-technology-to-engineer-biology/",
           "publishedOn": "2022-06-28T15:00:17.000Z",
-          "wordCount": 5722,
+          "wordCount": 5724,
           "title": "Recognizing the Next CRISPR-Level Tech for Biology",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/780-Social-Share-Doudna-Interview-Final-Facebook.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Daphne Koller is the founder and CEO of insitro. Prior to insitro, she served as Chief Computing Officer at Calico. She was also a Professor in the Computer Science department at Stanford University before making a mid-career transition to co-found Coursera.   In this interview, she shares some of the challenges with creating accurate machine learning... Read More\nThe post The Two Things We’ll Need for the Next AlphaFold appeared first on Future.",
           "link": "https://future.com/koller-insitro-drug-discovery-ai-alphafold/",
           "publishedOn": "2022-06-22T20:50:34.000Z",
-          "wordCount": 3606,
+          "wordCount": 3608,
           "title": "The Two Things We’ll Need for the Next AlphaFold",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/768-SocialShare-Koller-QA-Facebook.jpg"
         },
@@ -94,16 +104,6 @@
           "wordCount": 2382,
           "title": "A Practical Guide to NFT Memberships for Creators",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/APracticalGuidetoNFTMembership-Facebook.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6282",
-          "author": "Peter Blackwood and Tina Ferguson",
-          "description": "In today’s ever-competitive environment to drive growth, identifying and hiring key talent through a structured transaction — known as an “acquihire” — has become an increasingly popular and effective way for companies to address hiring needs and accelerate product innovation and development.  Often joining the acquiring company as a unit or existing team, employers also... Read More\nThe post The Complete Guide to Acquihires appeared first on Future.",
-          "link": "https://future.com/all-about-acquihires/",
-          "publishedOn": "2022-06-15T14:00:34.000Z",
-          "wordCount": 5694,
-          "title": "The Complete Guide to Acquihires",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/AcquihireGuide-Facebook.jpg"
         }
       ]
     }

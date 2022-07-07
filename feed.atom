@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T14:07:47.432Z</id>
+    <id>urn:2022-07-07T15:06:35.949Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-07T14:07:47.432Z</updated>
+    <updated>2022-07-07T15:06:35.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantifying Disease Risk Using Genomics: the New Paradigm]]></title>
+        <id>https://future.com/?p=6410</id>
+        <link href="https://future.com/polygenic-risk-score-disease-genomics/"/>
+        <updated>2022-07-07T15:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Peter Donnelly is a professor of statistical science at the University of Oxford and the CEO of Genomics PLC, which uses large-scale human genetic data to inform healthcare and drug discovery. In this interview he, Lauren Richardson, and a16z general partner Vineeta Agarwala discuss the concept of polygenic risk scores with and how this lets... Read More
+The post Quantifying Disease Risk Using Genomics: the New Paradigm appeared first on Future.]]></summary>
+        <author>
+            <name>Peter Donnelly, Vineeta Agarwala and Lauren Richardson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ransomware, Cyber-Savviness, and the Public-Private Security Connection]]></title>
         <id>https://future.com/?p=6435</id>
@@ -102,17 +113,6 @@ The post The Two Things We’ll Need for the Next AlphaFold appeared first on Fu
 The post A Practical Guide to NFT Memberships for Creators appeared first on Future.]]></summary>
         <author>
             <name>Peter Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to Acquihires]]></title>
-        <id>https://future.com/?p=6282</id>
-        <link href="https://future.com/all-about-acquihires/"/>
-        <updated>2022-06-15T14:00:34.000Z</updated>
-        <summary type="html"><![CDATA[In today’s ever-competitive environment to drive growth, identifying and hiring key talent through a structured transaction — known as an “acquihire” — has become an increasingly popular and effective way for companies to address hiring needs and accelerate product innovation and development.  Often joining the acquiring company as a unit or existing team, employers also... Read More
-The post The Complete Guide to Acquihires appeared first on Future.]]></summary>
-        <author>
-            <name>Peter Blackwood and Tina Ferguson</name>
         </author>
     </entry>
 </feed>
