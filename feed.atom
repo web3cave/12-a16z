@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T15:06:29.525Z</id>
+    <id>urn:2022-07-11T16:09:12.521Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-11T15:06:29.525Z</updated>
+    <updated>2022-07-11T16:09:12.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -35,7 +35,7 @@ The post Ransomware, Cyber-Savviness, and the Public-Private Security Connection
         <summary type="html"><![CDATA[Scientists have acknowledged for years that there are large structural problems in science: the funding system is dysfunctional, results are frequently unreproducible, and scientific knowledge is siloed. Recently, a small but passionate group of technologists, scientists, and entrepreneurs have envisioned web3 and blockchain-based tools as potentially breaking these structural logjams. This has become the decentralized... Read More
 The post Mid-year Recap: Web3 and Science Collide appeared first on Future.]]></summary>
         <author>
-            <name>Nicole Neuman</name>
+            <name>Future Editorial</name>
         </author>
     </entry>
     <entry>
