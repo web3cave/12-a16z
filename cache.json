@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6354",
+          "author": "Vassilis Tziokas",
+          "description": "Sales enablement —the strategic use of people, processes, and technology to improve sales productivity and increase revenue — is the (usually) missing key for sales organizations that want to evolve beyond a handful of overachievers and into a well-oiled, agile, and high-performing commercial machine. Along with go-to-market — how an organization engages with customers to... Read More\nThe post Sales Enablement: The Underrated Cog of Enterprise Commercial Engines appeared first on Future.",
+          "link": "https://future.com/sales-enablement-the-underrated-cog-of-enterprise-commercial-engines/",
+          "publishedOn": "2022-07-12T14:00:12.000Z",
+          "wordCount": 3509,
+          "title": "Sales Enablement: The Underrated Cog of Enterprise Commercial Engines",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/04/V3_GenericTopic_MetricsMindsets-1.png"
+        },
+        {
           "id": "https://future.com/?p=6410",
           "author": "Peter Donnelly, Vineeta Agarwala and Lauren Richardson",
           "description": "Peter Donnelly is a professor of statistical science at the University of Oxford and the CEO of Genomics PLC, which uses large-scale human genetic data to inform healthcare and drug discovery. In this interview he, Lauren Richardson, and a16z general partner Vineeta Agarwala discuss the concept of polygenic risk scores with and how this lets... Read More\nThe post Quantifying Disease Risk Using Genomics: the New Paradigm appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3624,
           "title": "The Two Things We’ll Need for the Next AlphaFold",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/768-SocialShare-Koller-QA-Facebook.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6289",
-          "author": "Peter Yang",
-          "description": "In 2021, Chris Dixon wrote about how creators can use NFTs to monetize their “1,000 true fans.” Since then, NFT use-cases have multiplied. Case in point: The rise of NFT memberships, which require fans to hold a specific NFT to join a private community and enjoy its perks. NFT memberships give creators a way to... Read More\nThe post A Practical Guide to NFT Memberships for Creators appeared first on Future.",
-          "link": "https://future.com/a-practical-guide-to-nft-memberships-for-creators/",
-          "publishedOn": "2022-06-16T14:53:13.000Z",
-          "wordCount": 2397,
-          "title": "A Practical Guide to NFT Memberships for Creators",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/APracticalGuidetoNFTMembership-Facebook.jpg"
         }
       ]
     }
