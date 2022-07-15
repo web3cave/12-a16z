@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6488",
+          "author": "Rick Young, Jorge Conde and Hanne Winarsky",
+          "description": "Rick Young is a professor of biology at MIT who studies RNA that is transcribed from the part of the genome that does not code for proteins, known as non-coding DNA. This part of the genome was once referred to as ‘junk DNA,’ which gives you a sense of what many thought of its value.... Read More\nThe post The Glittering Treasure in Your Genome’s Junk appeared first on Future.",
+          "link": "https://future.com/the-glittering-treasure-in-your-genomes-junk/",
+          "publishedOn": "2022-07-15T15:06:16.000Z",
+          "wordCount": 4833,
+          "title": "The Glittering Treasure in Your Genome’s Junk",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/06/V3_GenericTopic_BioBeyond.png"
+        },
+        {
           "id": "https://future.com/?p=6354",
           "author": "Vassilis Tziokas",
           "description": "Sales enablement —the strategic use of people, processes, and technology to improve sales productivity and increase revenue — is the (usually) missing key for sales organizations that want to evolve beyond a handful of overachievers and into a well-oiled, agile, and high-performing commercial machine. Along with go-to-market — how an organization engages with customers to... Read More\nThe post Sales Enablement: The Underrated Cog of Enterprise Commercial Engines appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 8232,
           "title": "Unlocking the Metaverse: New Opportunities in Games Infrastructure",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/Infrastructure-for-the-Metaverse-Twitter-FINAL.png"
-        },
-        {
-          "id": "https://future.com/?p=6342",
-          "author": "Daphne Koller and Nicole Neuman",
-          "description": "Daphne Koller is the founder and CEO of insitro. Prior to insitro, she served as Chief Computing Officer at Calico. She was also a Professor in the Computer Science department at Stanford University before making a mid-career transition to co-found Coursera.   In this interview, she shares some of the challenges with creating accurate machine learning... Read More\nThe post The Two Things We’ll Need for the Next AlphaFold appeared first on Future.",
-          "link": "https://future.com/koller-insitro-drug-discovery-ai-alphafold/",
-          "publishedOn": "2022-06-22T20:50:34.000Z",
-          "wordCount": 3624,
-          "title": "The Two Things We’ll Need for the Next AlphaFold",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/768-SocialShare-Koller-QA-Facebook.jpg"
         }
       ]
     }
