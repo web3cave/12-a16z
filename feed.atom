@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T15:06:43.412Z</id>
+    <id>urn:2022-07-15T16:09:03.136Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T15:06:43.412Z</updated>
+    <updated>2022-07-15T16:09:03.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Info Diet: a16z Crypto’s Elena Burger]]></title>
+        <id>https://future.com/?p=6502</id>
+        <link href="https://future.com/info-diet-a16z-crypto-elena-burger/"/>
+        <updated>2022-07-15T16:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Elena Burger, a deal partner on the a16z crypto team, where... Read More
+The post Info Diet: a16z Crypto’s Elena Burger appeared first on Future.]]></summary>
+        <author>
+            <name>Elena Burger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Glittering Treasure in Your Genome’s Junk]]></title>
         <id>https://future.com/?p=6488</id>
@@ -102,17 +113,6 @@ The post The Year in AI So Far: Massive Models and How to Use Them appeared firs
 The post Forget “Open-Source” Algorithms — Focus on Experiments Instead appeared first on Future.]]></summary>
         <author>
             <name>Thomas Dimson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking the Metaverse: New Opportunities in Games Infrastructure]]></title>
-        <id>https://future.com/?p=6371</id>
-        <link href="https://future.com/metaverse-infrastructure-technology-games/"/>
-        <updated>2022-06-23T16:13:31.000Z</updated>
-        <summary type="html"><![CDATA[You install that new Parkour game that everyone’s talking about, and instantly your avatar gains a new set of skills. After a few minutes in the tutorial level, running up walls and vaulting over obstacles, you’re ready for a bigger challenge. You teleport yourself into one of your favorite games, Grand Theft Auto: Metaverse, following... Read More
-The post Unlocking the Metaverse: New Opportunities in Games Infrastructure appeared first on Future.]]></summary>
-        <author>
-            <name>James Gwertzman</name>
         </author>
     </entry>
 </feed>
