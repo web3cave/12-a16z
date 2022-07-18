@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T14:21:17.743Z</id>
+    <id>urn:2022-07-18T15:13:16.014Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T14:21:17.743Z</updated>
+    <updated>2022-07-18T15:13:16.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When to Expand Your Marketplace Business, According to 14 Operators]]></title>
+        <id>https://future.com/?p=6498</id>
+        <link href="https://future.com/when-where-how-to-expand-marketplace-businesses/"/>
+        <updated>2022-07-18T15:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Most of the world’s leading consumer marketplaces looked like completely different businesses at their inception. Amazon was famously an online bookseller, while Uber started as a black car service. DoorDash launched as “Palo Alto Delivery” (reflecting its narrow geographic range), while Booking.com exclusively helped travelers find hotels in the Netherlands.  This type of focused launch... Read More
+The post When to Expand Your Marketplace Business, According to 14 Operators appeared first on Future.]]></summary>
+        <author>
+            <name>Justine Moore and John Koelliker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Info Diet: a16z Crypto’s Elena Burger]]></title>
         <id>https://future.com/?p=6502</id>
@@ -102,17 +113,6 @@ The post Recognizing the Next CRISPR-Level Tech for Biology appeared first on Fu
 The post The Year in AI So Far: Massive Models and How to Use Them appeared first on Future.]]></summary>
         <author>
             <name>Future Editorial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget “Open-Source” Algorithms — Focus on Experiments Instead]]></title>
-        <id>https://future.com/?p=6349</id>
-        <link href="https://future.com/forget-open-source-algorithms-focus-on-experiments-instead/"/>
-        <updated>2022-06-24T16:17:48.000Z</updated>
-        <summary type="html"><![CDATA[In 2016, I led a small team at Instagram that designed and built one of the largest content distribution experiments in history: the introduction of a personalized ranking algorithm to the platform’s (then) 500 million users. Anticipating controversy, we spent the next several years scientifically measuring differences between people receiving this evolving “recommendation algorithm” (as... Read More
-The post Forget “Open-Source” Algorithms — Focus on Experiments Instead appeared first on Future.]]></summary>
-        <author>
-            <name>Thomas Dimson</name>
         </author>
     </entry>
 </feed>

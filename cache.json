@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6498",
+          "author": "Justine Moore and John Koelliker",
+          "description": "Most of the world’s leading consumer marketplaces looked like completely different businesses at their inception. Amazon was famously an online bookseller, while Uber started as a black car service. DoorDash launched as “Palo Alto Delivery” (reflecting its narrow geographic range), while Booking.com exclusively helped travelers find hotels in the Netherlands.  This type of focused launch... Read More\nThe post When to Expand Your Marketplace Business, According to 14 Operators appeared first on Future.",
+          "link": "https://future.com/when-where-how-to-expand-marketplace-businesses/",
+          "publishedOn": "2022-07-18T15:00:28.000Z",
+          "wordCount": 2897,
+          "title": "When to Expand Your Marketplace Business, According to 14 Operators",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/07/Marketplace-Expansion-When-Where-and-How.png"
+        },
+        {
           "id": "https://future.com/?p=6502",
           "author": "Elena Burger",
           "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Elena Burger, a deal partner on the a16z crypto team, where... Read More\nThe post Info Diet: a16z Crypto’s Elena Burger appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 1537,
           "title": "The Year in AI So Far: Massive Models and How to Use Them",
           "imageUrl": "https://future.com/wp-content/uploads/2022/02/FoundationModels-Facebook-Final.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6349",
-          "author": "Thomas Dimson",
-          "description": "In 2016, I led a small team at Instagram that designed and built one of the largest content distribution experiments in history: the introduction of a personalized ranking algorithm to the platform’s (then) 500 million users. Anticipating controversy, we spent the next several years scientifically measuring differences between people receiving this evolving “recommendation algorithm” (as... Read More\nThe post Forget “Open-Source” Algorithms — Focus on Experiments Instead appeared first on Future.",
-          "link": "https://future.com/forget-open-source-algorithms-focus-on-experiments-instead/",
-          "publishedOn": "2022-06-24T16:17:48.000Z",
-          "wordCount": 3893,
-          "title": "Forget “Open-Source” Algorithms — Focus on Experiments Instead",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/755-The-future-of-the-feed-FINAL-FB.png"
         }
       ]
     }
