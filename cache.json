@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6537",
+          "author": "Jeremy Howard and Derrick Harris",
+          "description": "Jeremy Howard is and artificial intelligence researcher and the co-founder of fast.ai, a platform for non-experts to learn artificial intelligence and machine learning. Prior to starting fast.ai, he founded multiple companies — including FastMail and Enlitic, a pioneer in applying deep learning to the medical field — and was president and chief scientist of machine-learning... Read More\nThe post The Rise of Domain Experts in Deep Learning appeared first on Future.",
+          "link": "https://future.com/the-rise-of-domain-experts-in-deep-learning/",
+          "publishedOn": "2022-07-21T14:00:43.000Z",
+          "wordCount": 4236,
+          "title": "The Rise of Domain Experts in Deep Learning",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-JeremyHowardQA-Facebook.png"
+        },
+        {
           "id": "https://future.com/?p=6498",
           "author": "Justine Moore and John Koelliker",
           "description": "Most of the world’s leading consumer marketplaces looked like completely different businesses at their inception. Amazon was famously an online bookseller, while Uber started as a black car service. DoorDash launched as “Palo Alto Delivery” (reflecting its narrow geographic range), while Booking.com exclusively helped travelers find hotels in the Netherlands.  This type of focused launch... Read More\nThe post When to Expand Your Marketplace Business, According to 14 Operators appeared first on Future.",
@@ -61,7 +71,7 @@
           "description": "Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More\nThe post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.",
           "link": "https://future.com/cisa-deputy-director-cybersecurity-ransomware/",
           "publishedOn": "2022-07-04T14:00:02.000Z",
-          "wordCount": 3976,
+          "wordCount": 3979,
           "title": "Ransomware, Cyber-Savviness, and the Public-Private Security Connection",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/783-NitinNatarajan-SocialShare-R1v2.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 5744,
           "title": "Recognizing the Next CRISPR-Level Tech for Biology",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/780-Social-Share-Doudna-Interview-Final-Facebook.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6459",
-          "author": "Future Editorial",
-          "description": "The world of artificial intelligence and machine learning moves very fast. So fast, in fact, that it’s remarkable to think that it was only a decade ago when the AlexNet model dominated the ImageNet competition and kicked off the process that made deep learning a bona fide technology movement. Today, after years of headlines about... Read More\nThe post The Year in AI So Far: Massive Models and How to Use Them appeared first on Future.",
-          "link": "https://future.com/the-year-in-ai-so-far-massive-models-and-how-to-use-them/",
-          "publishedOn": "2022-06-27T14:00:19.000Z",
-          "wordCount": 1533,
-          "title": "The Year in AI So Far: Massive Models and How to Use Them",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/02/FoundationModels-Facebook-Final.jpg"
         }
       ]
     }
