@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T14:06:40.930Z</id>
+    <id>urn:2022-07-26T15:07:24.229Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-26T14:06:40.930Z</updated>
+    <updated>2022-07-26T15:07:24.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,7 +21,7 @@ The post Kubernetes, Networking, and Finding the VMware of Cloud Native appeared
         <id>https://future.com/?p=6537</id>
         <link href="https://future.com/the-rise-of-domain-experts-in-deep-learning/"/>
         <updated>2022-07-21T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Jeremy Howard is and artificial intelligence researcher and the co-founder of fast.ai, a platform for non-experts to learn artificial intelligence and machine learning. Prior to starting fast.ai, he founded multiple companies — including FastMail and Enlitic, a pioneer in applying deep learning to the medical field — and was president and chief scientist of machine-learning... Read More
+        <summary type="html"><![CDATA[Jeremy Howard is an artificial intelligence researcher and the co-founder of fast.ai, a platform for non-experts to learn artificial intelligence and machine learning. Prior to starting fast.ai, he founded multiple companies — including FastMail and Enlitic, a pioneer in applying deep learning to the medical field — and was president and chief scientist of machine-learning... Read More
 The post The Rise of Domain Experts in Deep Learning appeared first on Future.]]></summary>
         <author>
             <name>Jeremy Howard and Derrick Harris</name>
