@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6564",
+          "author": "Thomas Graf and Derrick Harris",
+          "description": "Thomas Graf is the co-founder and CTO of Isovalent, and creator of a popular open source (and cloud native) networking technology called Cilium. Cilium is built atop a kernel-level Linux technology called eBPF. In this interview, Graf discusses the roles that Cilium and eBPF play in the growing cloud-native networking ecosystem, as well some broader... Read More\nThe post Kubernetes, Networking, and Finding the VMware of Cloud Native appeared first on Future.",
+          "link": "https://future.com/kubernetes-networking-and-finding-the-vmware-of-cloud-native/",
+          "publishedOn": "2022-07-26T14:00:04.000Z",
+          "wordCount": 3775,
+          "title": "Kubernetes, Networking, and Finding the VMware of Cloud Native",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-ThomasGrafQA-Facebook.png"
+        },
+        {
           "id": "https://future.com/?p=6537",
           "author": "Jeremy Howard and Derrick Harris",
           "description": "Jeremy Howard is and artificial intelligence researcher and the co-founder of fast.ai, a platform for non-experts to learn artificial intelligence and machine learning. Prior to starting fast.ai, he founded multiple companies — including FastMail and Enlitic, a pioneer in applying deep learning to the medical field — and was president and chief scientist of machine-learning... Read More\nThe post The Rise of Domain Experts in Deep Learning appeared first on Future.",
@@ -71,7 +81,7 @@
           "description": "Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More\nThe post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.",
           "link": "https://future.com/cisa-deputy-director-cybersecurity-ransomware/",
           "publishedOn": "2022-07-04T14:00:02.000Z",
-          "wordCount": 3979,
+          "wordCount": 3975,
           "title": "Ransomware, Cyber-Savviness, and the Public-Private Security Connection",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/783-NitinNatarajan-SocialShare-R1v2.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 1474,
           "title": "Crypto/Web3 So Far in 2022",
           "imageUrl": "https://future.com/wp-content/uploads/2022/04/V7_GenericTopic_Crypto.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6396",
-          "author": "Jennifer Doudna and Vijay Pande",
-          "description": "Jennifer Doudna won the 2020 Nobel Prize in Chemistry for her co-discovery of CRISPR/Cas9, a versatile genome editing platform. In the decade since its discovery the toolbox of CRISPR technologies has exploded, acting like rocket fuel for curiosity-driven science. It is also increasingly a foundational technology for many biotech companies. In this conversation, Doudna chats... Read More\nThe post Recognizing the Next CRISPR-Level Tech for Biology appeared first on Future.",
-          "link": "https://future.com/doudna-next-crispr-technology-to-engineer-biology/",
-          "publishedOn": "2022-06-28T15:00:17.000Z",
-          "wordCount": 5744,
-          "title": "Recognizing the Next CRISPR-Level Tech for Biology",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/780-Social-Share-Doudna-Interview-Final-Facebook.jpg"
         }
       ]
     }
