@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T15:07:14.892Z</id>
+    <id>urn:2022-07-27T16:09:34.185Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-27T15:07:14.892Z</updated>
+    <updated>2022-07-27T16:09:34.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the Merge Will Impact Future Ethereum Upgrades]]></title>
+        <id>https://future.com/?p=6596</id>
+        <link href="https://future.com/how-the-merge-will-impact-future-ethereum-upgrades/"/>
+        <updated>2022-07-27T15:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s biggest-ever upgrade — the move to a proof-of-stake consensus mechanism — is right around the corner. But while the Merge should add security and sustainability, it doesn’t include sharding, the long-anticipated method of scaling the network.  In Part I of our conversation with Ethereum Foundation (EF) researcher Danny Ryan, who’s helped coordinate the upgrade... Read More
+The post How the Merge Will Impact Future Ethereum Upgrades appeared first on Future.]]></summary>
+        <author>
+            <name>Danny Ryan and Jeff Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Merge Means for Ethereum, With Danny Ryan]]></title>
+        <id>https://future.com/?p=6585</id>
+        <link href="https://future.com/what-the-merge-means-for-ethereum-with-danny-ryan/"/>
+        <updated>2022-07-27T15:16:58.000Z</updated>
+        <summary type="html"><![CDATA[After years of research, development and testing, Ethereum will transition from proof of work to proof of stake in the coming months. Instead of “miners” using computational energy to process transactions, “validators” will lock up, or stake, their assets in the network in return for ETH rewards. The upshot is increased security and a much... Read More
+The post What the Merge Means for Ethereum, With Danny Ryan appeared first on Future.]]></summary>
+        <author>
+            <name>Danny Ryan and Jeff Benson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes, Networking, and Finding the VMware of Cloud Native]]></title>
         <id>https://future.com/?p=6564</id>
@@ -91,28 +113,6 @@ The post Quantifying Disease Risk Using Genomics: the New Paradigm appeared firs
 The post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.]]></summary>
         <author>
             <name>Nitin Natarajan and Joel de la Garza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid-year Recap: Web3 and Science Collide]]></title>
-        <id>https://future.com/?p=6415</id>
-        <link href="https://future.com/first-half-2022-web3-decentralized-science-desci/"/>
-        <updated>2022-06-30T15:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have acknowledged for years that there are large structural problems in science: the funding system is dysfunctional, results are frequently unreproducible, and scientific knowledge is siloed. Recently, a small but passionate group of technologists, scientists, and entrepreneurs have envisioned web3 and blockchain-based tools as potentially breaking these structural logjams. This has become the decentralized... Read More
-The post Mid-year Recap: Web3 and Science Collide appeared first on Future.]]></summary>
-        <author>
-            <name>Future Editorial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto/Web3 So Far in 2022]]></title>
-        <id>https://future.com/?p=6471</id>
-        <link href="https://future.com/crypto-web3-so-far-in-2022/"/>
-        <updated>2022-06-29T15:00:50.000Z</updated>
-        <summary type="html"><![CDATA[By the time you think you’ve got crypto figured out, something new emerges — or an old innovation comes back to the fore. Since the last Crypto Winter thawed, we’ve experienced a DeFi Summer, scaled the ramparts of an NFT revolution, and then logged onto Discord for a DAO resurgence. As enthusiasm over prices gives... Read More
-The post Crypto/Web3 So Far in 2022 appeared first on Future.]]></summary>
-        <author>
-            <name>Future Editorial</name>
         </author>
     </entry>
 </feed>
