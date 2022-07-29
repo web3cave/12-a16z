@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T21:05:36.219Z</id>
+    <id>urn:2022-07-29T22:07:48.763Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-29T21:05:36.219Z</updated>
+    <updated>2022-07-29T22:07:48.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Future of Ethereum Upgrades, Post-Merge [Part 2]]]></title>
+        <title type="html"><![CDATA[What’s After Proof of Stake for Ethereum?]]></title>
         <id>https://future.com/?p=6596</id>
         <link href="https://future.com/how-the-merge-will-impact-future-ethereum-upgrades/"/>
         <updated>2022-07-27T15:31:48.000Z</updated>
         <summary type="html"><![CDATA[Ethereum’s biggest-ever upgrade — the move to a proof-of-stake consensus mechanism — is right around the corner. But while the Merge should add security and sustainability, it doesn’t include sharding, the long-anticipated method of scaling the network.  In Part I of our conversation with Ethereum Foundation (EF) researcher Danny Ryan, who’s helped coordinate the upgrade... Read More
-The post The Future of Ethereum Upgrades, Post-Merge [Part 2] appeared first on Future.]]></summary>
+The post What’s After Proof of Stake for Ethereum? appeared first on Future.]]></summary>
         <author>
             <name>Danny Ryan and Jeff Benson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What the Merge Means for Ethereum Today [Part 1]]]></title>
+        <title type="html"><![CDATA[What the Merge Means for Ethereum]]></title>
         <id>https://future.com/?p=6585</id>
         <link href="https://future.com/what-the-merge-means-for-ethereum-with-danny-ryan/"/>
         <updated>2022-07-27T15:16:58.000Z</updated>
         <summary type="html"><![CDATA[After years of research, development and testing, Ethereum will transition from proof of work to proof of stake in the coming months. Instead of “miners” using computational energy to process transactions, “validators” will lock up, or stake, their assets in the network in return for ETH rewards. The upshot is increased security and a much... Read More
-The post What the Merge Means for Ethereum Today [Part 1] appeared first on Future.]]></summary>
+The post What the Merge Means for Ethereum appeared first on Future.]]></summary>
         <author>
             <name>Danny Ryan and Jeff Benson</name>
         </author>
