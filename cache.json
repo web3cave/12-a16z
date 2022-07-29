@@ -28,11 +28,11 @@
         {
           "id": "https://future.com/?p=6564",
           "author": "Thomas Graf and Derrick Harris",
-          "description": "Thomas Graf is the co-founder and CTO of Isovalent, and creator of a popular open source (and cloud native) networking technology called Cilium. Cilium is built atop a kernel-level Linux technology called eBPF. In this interview, Graf discusses the roles that Cilium and eBPF play in the growing cloud-native networking ecosystem, as well some broader... Read More\nThe post Kubernetes, Networking, and Finding the VMware of Cloud Native appeared first on Future.",
+          "description": "Thomas Graf is the co-founder and CTO of Isovalent, and creator of a popular open source (and cloud native) networking technology called Cilium. Cilium is built atop a kernel-level Linux technology called eBPF. In this interview, Graf discusses the roles that Cilium and eBPF play in the growing cloud-native networking ecosystem, as well some broader... Read More\nThe post Cilium, Service Meshes, and the Future of Enterprise Networking appeared first on Future.",
           "link": "https://future.com/kubernetes-networking-and-finding-the-vmware-of-cloud-native/",
           "publishedOn": "2022-07-26T14:00:04.000Z",
           "wordCount": 3843,
-          "title": "Kubernetes, Networking, and Finding the VMware of Cloud Native",
+          "title": "Cilium, Service Meshes, and the Future of Enterprise Networking",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-ThomasGrafQA-Facebook.png"
         },
         {

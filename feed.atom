@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T20:07:14.123Z</id>
+    <id>urn:2022-07-29T21:05:36.219Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-29T20:07:14.123Z</updated>
+    <updated>2022-07-29T21:05:36.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,12 +28,12 @@ The post What the Merge Means for Ethereum Today [Part 1] appeared first on Futu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes, Networking, and Finding the VMware of Cloud Native]]></title>
+        <title type="html"><![CDATA[Cilium, Service Meshes, and the Future of Enterprise Networking]]></title>
         <id>https://future.com/?p=6564</id>
         <link href="https://future.com/kubernetes-networking-and-finding-the-vmware-of-cloud-native/"/>
         <updated>2022-07-26T14:00:04.000Z</updated>
         <summary type="html"><![CDATA[Thomas Graf is the co-founder and CTO of Isovalent, and creator of a popular open source (and cloud native) networking technology called Cilium. Cilium is built atop a kernel-level Linux technology called eBPF. In this interview, Graf discusses the roles that Cilium and eBPF play in the growing cloud-native networking ecosystem, as well some broader... Read More
-The post Kubernetes, Networking, and Finding the VMware of Cloud Native appeared first on Future.]]></summary>
+The post Cilium, Service Meshes, and the Future of Enterprise Networking appeared first on Future.]]></summary>
         <author>
             <name>Thomas Graf and Derrick Harris</name>
         </author>
