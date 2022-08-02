@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T13:31:41.223Z</id>
+    <id>urn:2022-08-02T14:07:11.164Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T13:31:41.223Z</updated>
+    <updated>2022-08-02T14:07:11.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder]]></title>
+        <id>https://future.com/?p=6658</id>
+        <link href="https://future.com/planetscale-cloud-prem-engineering-management/"/>
+        <updated>2022-08-02T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Sam Lambert is CEO of PlanetScale, a MySQL-compatiable serverless database provider. Prior to joining PlanetScale (then as chief product officer), he was VP of engineering at GitHub. In this interview, Lambert discusses a number of topics related to cloud native software-delivery models, including what good serverless looks like, who should run Kubernetes, and the emergence... Read More
+The post PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder appeared first on Future.]]></summary>
+        <author>
+            <name>Sam Lambert and Derrick Harris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s After Proof of Stake for Ethereum?]]></title>
         <id>https://future.com/?p=6596</id>
@@ -102,17 +113,6 @@ The post Sales Enablement: The Underrated Cog of Enterprise Commercial Engines a
 The post Quantifying Disease Risk Using Genomics: the New Paradigm appeared first on Future.]]></summary>
         <author>
             <name>Peter Donnelly, Vineeta Agarwala and Lauren Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware, Cyber-Savviness, and the Public-Private Security Connection]]></title>
-        <id>https://future.com/?p=6435</id>
-        <link href="https://future.com/cisa-deputy-director-cybersecurity-ransomware/"/>
-        <updated>2022-07-04T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More
-The post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.]]></summary>
-        <author>
-            <name>Nitin Natarajan and Joel de la Garza</name>
         </author>
     </entry>
 </feed>

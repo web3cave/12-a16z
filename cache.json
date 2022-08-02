@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6658",
+          "author": "Sam Lambert and Derrick Harris",
+          "description": "Sam Lambert is CEO of PlanetScale, a MySQL-compatiable serverless database provider. Prior to joining PlanetScale (then as chief product officer), he was VP of engineering at GitHub. In this interview, Lambert discusses a number of topics related to cloud native software-delivery models, including what good serverless looks like, who should run Kubernetes, and the emergence... Read More\nThe post PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder appeared first on Future.",
+          "link": "https://future.com/planetscale-cloud-prem-engineering-management/",
+          "publishedOn": "2022-08-02T14:00:01.000Z",
+          "wordCount": 3777,
+          "title": "PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/SocialShare-SamLambertQA-Facebook.png"
+        },
+        {
           "id": "https://future.com/?p=6596",
           "author": "Danny Ryan and Jeff Benson",
           "description": "Ethereum’s biggest-ever upgrade — the move to a proof-of-stake consensus mechanism — is right around the corner. But while the Merge should add security and sustainability, it doesn’t include sharding, the long-anticipated method of scaling the network.  In Part I of our conversation with Ethereum Foundation (EF) researcher Danny Ryan, who’s helped coordinate the upgrade... Read More\nThe post What’s After Proof of Stake for Ethereum? appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 6261,
           "title": "Quantifying Disease Risk Using Genomics: the New Paradigm",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/781-PeterDonnellyQA-SocialShare-FaceBook.png"
-        },
-        {
-          "id": "https://future.com/?p=6435",
-          "author": "Nitin Natarajan and Joel de la Garza",
-          "description": "Nitin Natarajan is the deputy director of CISA (Cybersecurity and Infrastructure Security Agency), and has extensive experience in the cybersecurity space, including overseeing critical infrastructure for the U.S. National Security Council and the U.S. Department of Health and Human Services.  In this discussion with a16z general partner Joel de la Garza (who was previously chief... Read More\nThe post Ransomware, Cyber-Savviness, and the Public-Private Security Connection appeared first on Future.",
-          "link": "https://future.com/cisa-deputy-director-cybersecurity-ransomware/",
-          "publishedOn": "2022-07-04T14:00:02.000Z",
-          "wordCount": 3960,
-          "title": "Ransomware, Cyber-Savviness, and the Public-Private Security Connection",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/783-NitinNatarajan-SocialShare-R1v2.png"
         }
       ]
     }
