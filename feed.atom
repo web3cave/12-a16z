@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T14:06:42.368Z</id>
+    <id>urn:2022-08-03T15:07:24.882Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T14:06:42.368Z</updated>
+    <updated>2022-08-03T15:07:24.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How AI Copywriters Are Changing SEO]]></title>
+        <id>https://future.com/?p=6671</id>
+        <link href="https://future.com/will-gpt-3-ai-change-seo/"/>
+        <updated>2022-08-03T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Since the beginning of search engines, writers and companies have chased SEO — the slippery science of getting your results high up in Google’s search rankings to improve web traffic. More recently, however, the advent of cheap, easy-to-use AI copywriting tools enabled by GPT-3 has changed the game entirely. While AI-based copywriting has been steadily... Read More
+The post How AI Copywriters Are Changing SEO appeared first on Future.]]></summary>
+        <author>
+            <name>Chris Tweten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder]]></title>
         <id>https://future.com/?p=6658</id>
@@ -102,17 +113,6 @@ The post The Glittering Treasure in Your Genome’s Junk appeared first on Futur
 The post Sales Enablement: The Underrated Cog of Enterprise Commercial Engines appeared first on Future.]]></summary>
         <author>
             <name>Vassilis Tziokas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantifying Disease Risk Using Genomics: the New Paradigm]]></title>
-        <id>https://future.com/?p=6410</id>
-        <link href="https://future.com/polygenic-risk-score-disease-genomics/"/>
-        <updated>2022-07-07T15:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Peter Donnelly is a professor of statistical science at the University of Oxford and the CEO of Genomics PLC, which uses large-scale human genetic data to inform healthcare and drug discovery. In this interview he, Lauren Richardson, and a16z general partner Vineeta Agarwala discuss the concept of polygenic risk scores with and how this lets... Read More
-The post Quantifying Disease Risk Using Genomics: the New Paradigm appeared first on Future.]]></summary>
-        <author>
-            <name>Peter Donnelly, Vineeta Agarwala and Lauren Richardson</name>
         </author>
     </entry>
 </feed>

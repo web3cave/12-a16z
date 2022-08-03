@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6671",
+          "author": "Chris Tweten",
+          "description": "Since the beginning of search engines, writers and companies have chased SEO — the slippery science of getting your results high up in Google’s search rankings to improve web traffic. More recently, however, the advent of cheap, easy-to-use AI copywriting tools enabled by GPT-3 has changed the game entirely. While AI-based copywriting has been steadily... Read More\nThe post How AI Copywriters Are Changing SEO appeared first on Future.",
+          "link": "https://future.com/will-gpt-3-ai-change-seo/",
+          "publishedOn": "2022-08-03T15:00:54.000Z",
+          "wordCount": 2442,
+          "title": "How AI Copywriters Are Changing SEO",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/How-AI-Copywriters-are-Affecting-SEO-final-FB-1.png"
+        },
+        {
           "id": "https://future.com/?p=6658",
           "author": "Sam Lambert and Derrick Harris",
           "description": "Sam Lambert is CEO of PlanetScale, a MySQL-compatiable serverless database provider. Prior to joining PlanetScale (then as chief product officer), he was VP of engineering at GitHub. In this interview, Lambert discusses a number of topics related to cloud native software-delivery models, including what good serverless looks like, who should run Kubernetes, and the emergence... Read More\nThe post PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3495,
           "title": "Sales Enablement: The Underrated Cog of Enterprise Commercial Engines",
           "imageUrl": "https://future.com/wp-content/uploads/2022/04/V3_GenericTopic_MetricsMindsets-1.png"
-        },
-        {
-          "id": "https://future.com/?p=6410",
-          "author": "Peter Donnelly, Vineeta Agarwala and Lauren Richardson",
-          "description": "Peter Donnelly is a professor of statistical science at the University of Oxford and the CEO of Genomics PLC, which uses large-scale human genetic data to inform healthcare and drug discovery. In this interview he, Lauren Richardson, and a16z general partner Vineeta Agarwala discuss the concept of polygenic risk scores with and how this lets... Read More\nThe post Quantifying Disease Risk Using Genomics: the New Paradigm appeared first on Future.",
-          "link": "https://future.com/polygenic-risk-score-disease-genomics/",
-          "publishedOn": "2022-07-07T15:00:17.000Z",
-          "wordCount": 6261,
-          "title": "Quantifying Disease Risk Using Genomics: the New Paradigm",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/781-PeterDonnellyQA-SocialShare-FaceBook.png"
         }
       ]
     }
