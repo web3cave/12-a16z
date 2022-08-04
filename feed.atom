@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-04T14:05:23.589Z</id>
+    <id>urn:2022-08-04T15:07:18.581Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-04T14:05:23.589Z</updated>
+    <updated>2022-08-04T15:07:18.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI is Modeling the Brain to Help Us See, Hear, and Create]]></title>
+        <id>https://future.com/?p=6704</id>
+        <link href="https://future.com/applications-ai-models-of-the-brain-aka-neuroai/"/>
+        <updated>2022-08-04T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[This is an edited version of a post that originally ran here. Neuroscience and AI have a long, intertwined history. Artificial intelligence pioneers looked to the principles of the organization of the brain as inspiration to make intelligent machines. In a surprising reversal, AI is now helping us understand its very source of inspiration: the... Read More
+The post AI is Modeling the Brain to Help Us See, Hear, and Create appeared first on Future.]]></summary>
+        <author>
+            <name>Patrick Mineault</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI Copywriters Are Changing SEO]]></title>
         <id>https://future.com/?p=6671</id>
@@ -17,12 +28,12 @@ The post How AI Copywriters Are Changing SEO appeared first on Future.]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder]]></title>
+        <title type="html"><![CDATA[How to Build Cloud-Prem Software and Climb the Engineering Ladder]]></title>
         <id>https://future.com/?p=6658</id>
         <link href="https://future.com/planetscale-cloud-prem-engineering-management/"/>
         <updated>2022-08-02T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[Sam Lambert is CEO of PlanetScale, a MySQL-compatiable serverless database provider. Prior to joining PlanetScale (then as chief product officer), he was VP of engineering at GitHub. In this interview, Lambert discusses a number of topics related to cloud native software-delivery models, including what good serverless looks like, who should run Kubernetes, and the emergence... Read More
-The post PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder appeared first on Future.]]></summary>
+The post How to Build Cloud-Prem Software and Climb the Engineering Ladder appeared first on Future.]]></summary>
         <author>
             <name>Sam Lambert and Derrick Harris</name>
         </author>
@@ -102,17 +113,6 @@ The post Info Diet: a16z Crypto’s Elena Burger appeared first on Future.]]></s
 The post The Glittering Treasure in Your Genome’s Junk appeared first on Future.]]></summary>
         <author>
             <name>Rick Young, Jorge Conde and Hanne Winarsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sales Enablement: The Underrated Cog of Enterprise Commercial Engines]]></title>
-        <id>https://future.com/?p=6354</id>
-        <link href="https://future.com/sales-enablement-the-underrated-cog-of-enterprise-commercial-engines/"/>
-        <updated>2022-07-12T14:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Sales enablement —the strategic use of people, processes, and technology to improve sales productivity and increase revenue — is the (usually) missing key for sales organizations that want to evolve beyond a handful of overachievers and into a well-oiled, agile, and high-performing commercial machine. Along with go-to-market — how an organization engages with customers to... Read More
-The post Sales Enablement: The Underrated Cog of Enterprise Commercial Engines appeared first on Future.]]></summary>
-        <author>
-            <name>Vassilis Tziokas</name>
         </author>
     </entry>
 </feed>

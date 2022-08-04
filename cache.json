@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6704",
+          "author": "Patrick Mineault",
+          "description": "This is an edited version of a post that originally ran here. Neuroscience and AI have a long, intertwined history. Artificial intelligence pioneers looked to the principles of the organization of the brain as inspiration to make intelligent machines. In a surprising reversal, AI is now helping us understand its very source of inspiration: the... Read More\nThe post AI is Modeling the Brain to Help Us See, Hear, and Create appeared first on Future.",
+          "link": "https://future.com/applications-ai-models-of-the-brain-aka-neuroai/",
+          "publishedOn": "2022-08-04T15:00:19.000Z",
+          "wordCount": 4922,
+          "title": "AI is Modeling the Brain to Help Us See, Hear, and Create",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/WhatAICanDo-Facebook.jpg"
+        },
+        {
           "id": "https://future.com/?p=6671",
           "author": "Chris Tweten",
           "description": "Since the beginning of search engines, writers and companies have chased SEO — the slippery science of getting your results high up in Google’s search rankings to improve web traffic. More recently, however, the advent of cheap, easy-to-use AI copywriting tools enabled by GPT-3 has changed the game entirely. While AI-based copywriting has been steadily... Read More\nThe post How AI Copywriters Are Changing SEO appeared first on Future.",
@@ -18,11 +28,11 @@
         {
           "id": "https://future.com/?p=6658",
           "author": "Sam Lambert and Derrick Harris",
-          "description": "Sam Lambert is CEO of PlanetScale, a MySQL-compatiable serverless database provider. Prior to joining PlanetScale (then as chief product officer), he was VP of engineering at GitHub. In this interview, Lambert discusses a number of topics related to cloud native software-delivery models, including what good serverless looks like, who should run Kubernetes, and the emergence... Read More\nThe post PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder appeared first on Future.",
+          "description": "Sam Lambert is CEO of PlanetScale, a MySQL-compatiable serverless database provider. Prior to joining PlanetScale (then as chief product officer), he was VP of engineering at GitHub. In this interview, Lambert discusses a number of topics related to cloud native software-delivery models, including what good serverless looks like, who should run Kubernetes, and the emergence... Read More\nThe post How to Build Cloud-Prem Software and Climb the Engineering Ladder appeared first on Future.",
           "link": "https://future.com/planetscale-cloud-prem-engineering-management/",
           "publishedOn": "2022-08-02T14:00:01.000Z",
-          "wordCount": 4151,
-          "title": "PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder",
+          "wordCount": 4156,
+          "title": "How to Build Cloud-Prem Software and Climb the Engineering Ladder",
           "imageUrl": "https://future.com/wp-content/uploads/2022/08/SocialShare-SamLambertQA-Facebook.png"
         },
         {
@@ -51,7 +61,7 @@
           "description": "Thomas Graf is the co-founder and CTO of Isovalent, and creator of a popular open source (and cloud native) networking technology called Cilium. Cilium is built atop a kernel-level Linux technology called eBPF. In this interview, Graf discusses the roles that Cilium and eBPF play in the growing cloud-native networking ecosystem, as well some broader... Read More\nThe post Cilium, Service Meshes, and the Future of Enterprise Networking appeared first on Future.",
           "link": "https://future.com/kubernetes-networking-and-finding-the-vmware-of-cloud-native/",
           "publishedOn": "2022-07-26T14:00:04.000Z",
-          "wordCount": 3806,
+          "wordCount": 3807,
           "title": "Cilium, Service Meshes, and the Future of Enterprise Networking",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-ThomasGrafQA-Facebook.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 4813,
           "title": "The Glittering Treasure in Your Genome’s Junk",
           "imageUrl": "https://future.com/wp-content/uploads/2022/06/V3_GenericTopic_BioBeyond.png"
-        },
-        {
-          "id": "https://future.com/?p=6354",
-          "author": "Vassilis Tziokas",
-          "description": "Sales enablement —the strategic use of people, processes, and technology to improve sales productivity and increase revenue — is the (usually) missing key for sales organizations that want to evolve beyond a handful of overachievers and into a well-oiled, agile, and high-performing commercial machine. Along with go-to-market — how an organization engages with customers to... Read More\nThe post Sales Enablement: The Underrated Cog of Enterprise Commercial Engines appeared first on Future.",
-          "link": "https://future.com/sales-enablement-the-underrated-cog-of-enterprise-commercial-engines/",
-          "publishedOn": "2022-07-12T14:00:12.000Z",
-          "wordCount": 3492,
-          "title": "Sales Enablement: The Underrated Cog of Enterprise Commercial Engines",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/04/V3_GenericTopic_MetricsMindsets-1.png"
         }
       ]
     }
