@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-06T23:06:49.788Z</id>
+    <id>urn:2022-08-07T00:42:05.320Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-06T23:06:49.788Z</updated>
+    <updated>2022-08-07T00:42:05.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[AI Is Modeling the Brain to Help Us See, Hear, and Create]]></title>
+        <title type="html"><![CDATA[AI’s next frontier: brains on demand]]></title>
         <id>https://future.com/?p=6704</id>
         <link href="https://future.com/applications-ai-models-of-the-brain-aka-neuroai/"/>
         <updated>2022-08-04T15:00:19.000Z</updated>
         <summary type="html"><![CDATA[This is an edited version of a post that originally ran here. Neuroscience and AI have a long, intertwined history. Artificial intelligence pioneers looked to the principles of the organization of the brain as inspiration to make intelligent machines. In a surprising reversal, AI is now helping us understand its very source of inspiration: the... Read More
-The post AI Is Modeling the Brain to Help Us See, Hear, and Create appeared first on Future.]]></summary>
+The post AI’s next frontier: brains on demand appeared first on Future.]]></summary>
         <author>
             <name>Patrick Mineault</name>
         </author>
