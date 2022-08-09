@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T13:37:55.720Z</id>
+    <id>urn:2022-08-09T14:12:18.964Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-09T13:37:55.720Z</updated>
+    <updated>2022-08-09T14:12:18.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Developers Are Building So Many Side Projects]]></title>
+        <id>https://future.com/?p=6737</id>
+        <link href="https://future.com/developers-side-projects/"/>
+        <updated>2022-08-09T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Over the last two years, I’ve built and launched eight tiny internet projects. From apps to websites, most of them have flopped — but together, my ragtag group of projects might be considered ramen profitable. My last project, Paper Website, lets you start a blog using pen and paper. It was a weird idea, but... Read More
+The post Why Developers Are Building So Many Side Projects appeared first on Future.]]></summary>
+        <author>
+            <name>Ben Stokes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI’s Next Frontier: Brains on Demand]]></title>
         <id>https://future.com/?p=6704</id>
@@ -102,17 +113,6 @@ The post When to Expand Your Marketplace Business, According to 14 Operators app
 The post Info Diet: a16z Crypto’s Elena Burger appeared first on Future.]]></summary>
         <author>
             <name>Elena Burger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Glittering Treasure in Your Genome’s Junk]]></title>
-        <id>https://future.com/?p=6488</id>
-        <link href="https://future.com/the-glittering-treasure-in-your-genomes-junk/"/>
-        <updated>2022-07-15T15:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Rick Young is a professor of biology at MIT who studies RNA that is transcribed from the part of the genome that does not code for proteins, known as non-coding DNA. This part of the genome was once referred to as ‘junk DNA,’ which gives you a sense of what many thought of its value.... Read More
-The post The Glittering Treasure in Your Genome’s Junk appeared first on Future.]]></summary>
-        <author>
-            <name>Rick Young, Jorge Conde and Hanne Winarsky</name>
         </author>
     </entry>
 </feed>

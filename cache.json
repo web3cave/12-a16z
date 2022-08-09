@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com/",
       "articles": [
         {
+          "id": "https://future.com/?p=6737",
+          "author": "Ben Stokes",
+          "description": "Over the last two years, I’ve built and launched eight tiny internet projects. From apps to websites, most of them have flopped — but together, my ragtag group of projects might be considered ramen profitable. My last project, Paper Website, lets you start a blog using pen and paper. It was a weird idea, but... Read More\nThe post Why Developers Are Building So Many Side Projects appeared first on Future.",
+          "link": "https://future.com/developers-side-projects/",
+          "publishedOn": "2022-08-09T14:00:43.000Z",
+          "wordCount": 2796,
+          "title": "Why Developers Are Building So Many Side Projects",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/841-Tiny-Projects-Social-Share-Facebook-FINAL.jpg"
+        },
+        {
           "id": "https://future.com/?p=6704",
           "author": "Patrick Mineault",
           "description": "This is an edited version of a post that originally ran here. Neuroscience and AI have a long, intertwined history. Artificial intelligence pioneers looked to the principles of the organization of the brain as inspiration to make intelligent machines. In a surprising reversal, AI is now helping us understand its very source of inspiration: the... Read More\nThe post AI’s Next Frontier: Brains on Demand appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 2745,
           "title": "Info Diet: a16z Crypto’s Elena Burger",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/801-Info-Diet-Elena-Burger-Facebook-R2.png"
-        },
-        {
-          "id": "https://future.com/?p=6488",
-          "author": "Rick Young, Jorge Conde and Hanne Winarsky",
-          "description": "Rick Young is a professor of biology at MIT who studies RNA that is transcribed from the part of the genome that does not code for proteins, known as non-coding DNA. This part of the genome was once referred to as ‘junk DNA,’ which gives you a sense of what many thought of its value.... Read More\nThe post The Glittering Treasure in Your Genome’s Junk appeared first on Future.",
-          "link": "https://future.com/the-glittering-treasure-in-your-genomes-junk/",
-          "publishedOn": "2022-07-15T15:06:16.000Z",
-          "wordCount": 4830,
-          "title": "The Glittering Treasure in Your Genome’s Junk",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/06/V3_GenericTopic_BioBeyond.png"
         }
       ]
     }
