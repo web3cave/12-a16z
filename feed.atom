@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T13:32:18.615Z</id>
+    <id>urn:2022-08-11T14:05:51.579Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T13:32:18.615Z</updated>
+    <updated>2022-08-11T14:05:51.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Headless Commerce Will Change How and Where We Buy]]></title>
+        <id>https://future.com/?p=6768</id>
+        <link href="https://future.com/headless-commerce-change-how-we-buy/"/>
+        <updated>2022-08-11T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Dirk Hoerig is the co-founder and CEO of Commercetools, and a veteran of the ecommerce space spanning two decades. In this interview, he explains “headless commerce” and why this API-centric architecture (often built atop cloud infrastructure and microservices) is especially important in the world of online retail and digital transactions, overall. He also shares his... Read More
+The post How Headless Commerce Will Change How and Where We Buy appeared first on Future.]]></summary>
+        <author>
+            <name>Dirk Hoerig and Derrick Harris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Developers Are Building So Many Side Projects]]></title>
         <id>https://future.com/?p=6737</id>
@@ -102,17 +113,6 @@ The post The Rise of Domain Experts in Deep Learning appeared first on Future.]]
 The post When to Expand Your Marketplace Business, According to 14 Operators appeared first on Future.]]></summary>
         <author>
             <name>Justine Moore and John Koelliker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Info Diet: a16z Crypto’s Elena Burger]]></title>
-        <id>https://future.com/?p=6502</id>
-        <link href="https://future.com/info-diet-a16z-crypto-elena-burger/"/>
-        <updated>2022-07-15T16:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Elena Burger, a deal partner on the a16z crypto team, where... Read More
-The post Info Diet: a16z Crypto’s Elena Burger appeared first on Future.]]></summary>
-        <author>
-            <name>Elena Burger</name>
         </author>
     </entry>
 </feed>

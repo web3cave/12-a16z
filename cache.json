@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com/",
       "articles": [
         {
+          "id": "https://future.com/?p=6768",
+          "author": "Dirk Hoerig and Derrick Harris",
+          "description": "Dirk Hoerig is the co-founder and CEO of Commercetools, and a veteran of the ecommerce space spanning two decades. In this interview, he explains “headless commerce” and why this API-centric architecture (often built atop cloud infrastructure and microservices) is especially important in the world of online retail and digital transactions, overall. He also shares his... Read More\nThe post How Headless Commerce Will Change How and Where We Buy appeared first on Future.",
+          "link": "https://future.com/headless-commerce-change-how-we-buy/",
+          "publishedOn": "2022-08-11T14:00:44.000Z",
+          "wordCount": 3878,
+          "title": "How Headless Commerce Will Change How and Where We Buy",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/SocialShareCard-HeadlessCommerceQA-FB.png"
+        },
+        {
           "id": "https://future.com/?p=6737",
           "author": "Ben Stokes",
           "description": "Over the last two years, I’ve built and launched eight tiny internet projects. From apps to websites, most of them have flopped — but together, my ragtag group of projects might be considered ramen profitable. My last project, Paper Website, lets you start a blog using pen and paper. It was a weird idea, but... Read More\nThe post Why Developers Are Building So Many Side Projects appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 2892,
           "title": "When to Expand Your Marketplace Business, According to 14 Operators",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/Marketplace-Expansion-When-Where-and-How.png"
-        },
-        {
-          "id": "https://future.com/?p=6502",
-          "author": "Elena Burger",
-          "description": "Info Diet offers a peek into the personally curated feeds and media habits of the people shaping the future. In each installment, a different builder spends two days chronicling all the content they consume in order to stay ahead of the curve. This time: Elena Burger, a deal partner on the a16z crypto team, where... Read More\nThe post Info Diet: a16z Crypto’s Elena Burger appeared first on Future.",
-          "link": "https://future.com/info-diet-a16z-crypto-elena-burger/",
-          "publishedOn": "2022-07-15T16:08:44.000Z",
-          "wordCount": 2746,
-          "title": "Info Diet: a16z Crypto’s Elena Burger",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/801-Info-Diet-Elena-Burger-Facebook-R2.png"
         }
       ]
     }
