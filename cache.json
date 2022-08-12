@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com/",
       "articles": [
         {
+          "id": "https://future.com/?p=6809",
+          "author": "Jon Radoff",
+          "description": "Who are you when you’re online? This question is all the more important as we spend more and more of our lives there. In the past decade, online usage has more than doubled; for GenZ, it’s even greater. How we spend that time has also changed as the early, transactional web has expanded to a... Read More\nThe post Unbundling Digital Identity Unlocks New Ways to Play and Build appeared first on Future.",
+          "link": "https://future.com/unbundling-digital-identity-unlocks-new-ways-to-play-and-build/",
+          "publishedOn": "2022-08-12T15:00:42.000Z",
+          "wordCount": 3833,
+          "title": "Unbundling Digital Identity Unlocks New Ways to Play and Build",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/830-The-Unbundling-and-Rebundling-of-Digital-Identity-Twitter-FINAL.jpg"
+        },
+        {
           "id": "https://future.com/?p=6768",
           "author": "Dirk Hoerig and Derrick Harris",
           "description": "Dirk Hoerig is the co-founder and CEO of Commercetools, and a veteran of the ecommerce space spanning two decades. In this interview, he explains “headless commerce” and why this API-centric architecture (often built atop cloud infrastructure and microservices) is especially important in the world of online retail and digital transactions, overall. He also shares his... Read More\nThe post How Headless Commerce Will Change How and Where We Buy appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 4234,
           "title": "The Rise of Domain Experts in Deep Learning",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-JeremyHowardQA-Facebook.png"
-        },
-        {
-          "id": "https://future.com/?p=6498",
-          "author": "Justine Moore and John Koelliker",
-          "description": "Most of the world’s leading consumer marketplaces looked like completely different businesses at their inception. Amazon was famously an online bookseller, while Uber started as a black car service. DoorDash launched as “Palo Alto Delivery” (reflecting its narrow geographic range), while Booking.com exclusively helped travelers find hotels in the Netherlands.  This type of focused launch... Read More\nThe post When to Expand Your Marketplace Business, According to 14 Operators appeared first on Future.",
-          "link": "https://future.com/when-where-how-to-expand-marketplace-businesses/",
-          "publishedOn": "2022-07-18T15:00:28.000Z",
-          "wordCount": 2892,
-          "title": "When to Expand Your Marketplace Business, According to 14 Operators",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/Marketplace-Expansion-When-Where-and-How.png"
         }
       ]
     }
