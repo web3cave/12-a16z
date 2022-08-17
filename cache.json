@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com/",
       "articles": [
         {
+          "id": "https://future.com/?p=6827",
+          "author": "Jason Feifer",
+          "description": "This is an excerpt from Build for Tomorrow by Jason Feifer (Harmony Books, September 2022). Amy Orben wanted to answer a very modern question: How do digital connections compare with other forms of connection?  It’s the kind of thing only a wonky, hyperanalytic person would think to ask. Orben is that person. She received a... Read More\nThe post How to Break the Cycle of Technology Panics appeared first on Future.",
+          "link": "https://future.com/cycle-of-tech-panics-build-for-tomorrow/",
+          "publishedOn": "2022-08-17T14:00:14.000Z",
+          "wordCount": 2271,
+          "title": "How to Break the Cycle of Technology Panics",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/879-Social-Share-Card-How-to-Break-the-Cycle-of-Technology-Panics-FB-FINAL.jpg"
+        },
+        {
           "id": "https://future.com/?p=6809",
           "author": "Jon Radoff",
           "description": "Who are you when you’re online? This question is all the more important as we spend more and more of our lives there. In the past decade, online usage has more than doubled; for GenZ, it’s even greater. How we spend that time has also changed as the early, transactional web has expanded to a... Read More\nThe post Unbundling Digital Identity Unlocks New Ways to Play and Build appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3820,
           "title": "Cilium, Service Meshes, and the Future of Enterprise Networking",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-ThomasGrafQA-Facebook.png"
-        },
-        {
-          "id": "https://future.com/?p=6537",
-          "author": "Jeremy Howard and Derrick Harris",
-          "description": "Jeremy Howard is an artificial intelligence researcher and the co-founder of fast.ai, a platform for non-experts to learn artificial intelligence and machine learning. Prior to starting fast.ai, he founded multiple companies — including FastMail and Enlitic, a pioneer in applying deep learning to the medical field — and was president and chief scientist of machine-learning... Read More\nThe post The Rise of Domain Experts in Deep Learning appeared first on Future.",
-          "link": "https://future.com/the-rise-of-domain-experts-in-deep-learning/",
-          "publishedOn": "2022-07-21T14:00:43.000Z",
-          "wordCount": 4233,
-          "title": "The Rise of Domain Experts in Deep Learning",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-JeremyHowardQA-Facebook.png"
         }
       ]
     }

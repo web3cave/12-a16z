@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-17T13:38:21.805Z</id>
+    <id>urn:2022-08-17T14:13:32.231Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-17T13:38:21.805Z</updated>
+    <updated>2022-08-17T14:13:32.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Break the Cycle of Technology Panics]]></title>
+        <id>https://future.com/?p=6827</id>
+        <link href="https://future.com/cycle-of-tech-panics-build-for-tomorrow/"/>
+        <updated>2022-08-17T14:00:14.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from Build for Tomorrow by Jason Feifer (Harmony Books, September 2022). Amy Orben wanted to answer a very modern question: How do digital connections compare with other forms of connection?  It’s the kind of thing only a wonky, hyperanalytic person would think to ask. Orben is that person. She received a... Read More
+The post How to Break the Cycle of Technology Panics appeared first on Future.]]></summary>
+        <author>
+            <name>Jason Feifer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unbundling Digital Identity Unlocks New Ways to Play and Build]]></title>
         <id>https://future.com/?p=6809</id>
@@ -102,17 +113,6 @@ The post What the Merge Means for Ethereum appeared first on Future.]]></summary
 The post Cilium, Service Meshes, and the Future of Enterprise Networking appeared first on Future.]]></summary>
         <author>
             <name>Thomas Graf and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of Domain Experts in Deep Learning]]></title>
-        <id>https://future.com/?p=6537</id>
-        <link href="https://future.com/the-rise-of-domain-experts-in-deep-learning/"/>
-        <updated>2022-07-21T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Jeremy Howard is an artificial intelligence researcher and the co-founder of fast.ai, a platform for non-experts to learn artificial intelligence and machine learning. Prior to starting fast.ai, he founded multiple companies — including FastMail and Enlitic, a pioneer in applying deep learning to the medical field — and was president and chief scientist of machine-learning... Read More
-The post The Rise of Domain Experts in Deep Learning appeared first on Future.]]></summary>
-        <author>
-            <name>Jeremy Howard and Derrick Harris</name>
         </author>
     </entry>
 </feed>
