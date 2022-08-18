@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com/",
       "articles": [
         {
+          "id": "https://future.com/?p=6859",
+          "author": "Josh Nicholson",
+          "description": "Want to create an image of velociraptors working on a skyscraper, in the style of “Lunch Atop A Skyscraper” of 1932? Use DALL-E. Want to create an imaginary standup comedy show by Peter Thiel, Elon Musk, and Larry Page? Use GPT-3. Want to deeply understand COVID-19 research and answer your questions based on evidence? Learn... Read More\nThe post How to Build a GPT-3 for Science appeared first on Future.",
+          "link": "https://future.com/how-to-build-gpt-3-for-science/",
+          "publishedOn": "2022-08-18T15:00:00.000Z",
+          "wordCount": 2851,
+          "title": "How to Build a GPT-3 for Science",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/812-DALL-EScienceResearch-Facebook-Final-1.jpg"
+        },
+        {
           "id": "https://future.com/?p=6827",
           "author": "Jason Feifer",
           "description": "This is an excerpt from Build for Tomorrow by Jason Feifer (Harmony Books, September 2022). Amy Orben wanted to answer a very modern question: How do digital connections compare with other forms of connection?  It’s the kind of thing only a wonky, hyperanalytic person would think to ask. Orben is that person. She received a... Read More\nThe post How to Break the Cycle of Technology Panics appeared first on Future.",
@@ -51,7 +61,7 @@
           "description": "This is an edited version of a post that originally ran here. Neuroscience and AI have a long, intertwined history. Artificial intelligence pioneers looked to the principles of the organization of the brain as inspiration to make intelligent machines. In a surprising reversal, AI is now helping us understand its very source of inspiration: the... Read More\nThe post AI’s Next Frontier: Brains on Demand appeared first on Future.",
           "link": "https://future.com/applications-ai-models-of-the-brain-aka-neuroai/",
           "publishedOn": "2022-08-04T15:00:19.000Z",
-          "wordCount": 4904,
+          "wordCount": 4900,
           "title": "AI’s Next Frontier: Brains on Demand",
           "imageUrl": "https://future.com/wp-content/uploads/2022/08/WhatAICanDo-Facebook.jpg"
         },
@@ -94,16 +104,6 @@
           "wordCount": 4116,
           "title": "What the Merge Means for Ethereum",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/Danny_Ryan_QA_1_LinkedIn.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6564",
-          "author": "Thomas Graf and Derrick Harris",
-          "description": "Thomas Graf is the co-founder and CTO of Isovalent, and creator of a popular open source (and cloud native) networking technology called Cilium. Cilium is built atop a kernel-level Linux technology called eBPF. In this interview, Graf discusses the roles that Cilium and eBPF play in the growing cloud-native networking ecosystem, as well some broader... Read More\nThe post Cilium, Service Meshes, and the Future of Enterprise Networking appeared first on Future.",
-          "link": "https://future.com/kubernetes-networking-and-finding-the-vmware-of-cloud-native/",
-          "publishedOn": "2022-07-26T14:00:04.000Z",
-          "wordCount": 3820,
-          "title": "Cilium, Service Meshes, and the Future of Enterprise Networking",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/SocialShare-ThomasGrafQA-Facebook.png"
         }
       ]
     }
