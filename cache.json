@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com/",
       "articles": [
         {
+          "id": "https://future.com/?p=6869",
+          "author": "Chris Herd",
+          "description": "The ease and speed with which you can now buy nearly anything — truly, anything — online is often taken for granted: not just food, but cars, homes, blue-chip art, even a college education. In the past 30 years, we have grown to trust the internet in a way we could never have imagined in... Read More\nThe post Remote Startups Will Win the War for Top Talent appeared first on Future.",
+          "link": "https://future.com/remote-startups-hire-top-talent/",
+          "publishedOn": "2022-08-23T14:00:40.000Z",
+          "wordCount": 1564,
+          "title": "Remote Startups Will Win the War for Top Talent",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/Office-As-Albatross-FB.png"
+        },
+        {
           "id": "https://future.com/?p=6859",
           "author": "Josh Nicholson",
           "description": "Want to create an image of velociraptors working on a skyscraper, in the style of “Lunch Atop A Skyscraper” of 1932? Use DALL-E. Want to create an imaginary standup comedy show by Peter Thiel, Elon Musk, and Larry Page? Use GPT-3. Want to deeply understand COVID-19 research and answer your questions based on evidence? Learn... Read More\nThe post How to Build a GPT-3 for Science appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3715,
           "title": "What’s After Proof of Stake for Ethereum?",
           "imageUrl": "https://future.com/wp-content/uploads/2022/07/Danny_Ryan_QA_2_LinkedIn.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6585",
-          "author": "Danny Ryan and Jeff Benson",
-          "description": "After years of research, development and testing, Ethereum will transition from proof of work to proof of stake in the coming months. Instead of “miners” using computational energy to process transactions, “validators” will lock up, or stake, their assets in the network in return for ETH rewards. The upshot is increased security and a much... Read More\nThe post What the Merge Means for Ethereum appeared first on Future.",
-          "link": "https://future.com/what-the-merge-means-for-ethereum-with-danny-ryan/",
-          "publishedOn": "2022-07-27T15:16:58.000Z",
-          "wordCount": 4084,
-          "title": "What the Merge Means for Ethereum",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/Danny_Ryan_QA_1_LinkedIn.jpg"
         }
       ]
     }
