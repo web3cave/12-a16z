@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T14:07:43.058Z</id>
+    <id>urn:2022-08-25T15:08:51.208Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-25T14:07:43.058Z</updated>
+    <updated>2022-08-25T15:08:51.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Insider’s Guide to Data Rooms: What to Know Before You Raise]]></title>
+        <id>https://future.com/?p=6886</id>
+        <link href="https://future.com/insiders-guide-to-data-rooms-fundraising/"/>
+        <updated>2022-08-25T14:10:10.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for your startup to fundraise. You prepare a deck, practice your pitch, and start reaching out to investors. If a first meeting goes well, it often ends with a request to share your “data room.” But what is a data room, and what should be included in it? What is a data room?... Read More
+The post The Insider’s Guide to Data Rooms: What to Know Before You Raise appeared first on Future.]]></summary>
+        <author>
+            <name>Justine Moore</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remote Startups Will Win the War for Top Talent]]></title>
         <id>https://future.com/?p=6869</id>
@@ -102,17 +113,6 @@ The post How AI Copywriters Are Changing SEO appeared first on Future.]]></summa
 The post PlanetScale CEO on Cloud-Prem and Climbing the Engineering Ladder appeared first on Future.]]></summary>
         <author>
             <name>Sam Lambert and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s After Proof of Stake for Ethereum?]]></title>
-        <id>https://future.com/?p=6596</id>
-        <link href="https://future.com/how-the-merge-will-impact-future-ethereum-upgrades/"/>
-        <updated>2022-07-27T15:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s biggest-ever upgrade — the move to a proof-of-stake consensus mechanism — is right around the corner. But while the Merge should add security and sustainability, it doesn’t include sharding, the long-anticipated method of scaling the network.  In Part I of our conversation with Ethereum Foundation (EF) researcher Danny Ryan, who’s helped coordinate the upgrade... Read More
-The post What’s After Proof of Stake for Ethereum? appeared first on Future.]]></summary>
-        <author>
-            <name>Danny Ryan and Jeff Benson</name>
         </author>
     </entry>
 </feed>
