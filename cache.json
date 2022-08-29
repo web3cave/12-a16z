@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=6947",
+          "author": "Jason Fried and Lauren Murrow",
+          "description": "Compared with many startups, 37signals cofounder Jason Fried’s views around workplace culture, structure, and strategy could be considered subversive. He’d call them “honest,” a word he uses often when describing his leadership style. The outspoken maker of Basecamp and HEY has cultivated a reputation as a tech industry contrarian over the past two decades with... Read More\nThe post Jason Fried on Why He Doesn’t Do Planning or Politics at Work appeared first on Future.",
+          "link": "https://future.com/jason-fried-basecamp-hey-interview/",
+          "publishedOn": "2022-08-29T15:00:53.000Z",
+          "wordCount": 4185,
+          "title": "Jason Fried on Why He Doesn’t Do Planning or Politics at Work",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/ShortTermThinking-Facebook.jpg"
+        },
+        {
           "id": "https://future.com/?p=6924",
           "author": "Chase Chapman, Nuzayra Haque-Shah, Austin Hurwitz and Jeff Benson",
           "description": "Welcome to Web3 Water Cooler, a moderated Slack chat about a trending topic in crypto. This week’s participants are Orca Protocol’s Chase Chapman, Austin Hurwitz of Venice Music, and IP lawyer Nuzayra Haque-Shah. NFTs are a web3 innovation, but the intellectual property frameworks surrounding them have been borrowed from a web2 world. This leaves web3... Read More\nThe post Thinking Through CC0 and IP for NFT Communities appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 4865,
           "title": "AI’s Next Frontier: Brains on Demand",
           "imageUrl": "https://future.com/wp-content/uploads/2022/08/WhatAICanDo-Facebook.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6671",
-          "author": "Chris Tweten",
-          "description": "Since the beginning of search engines, writers and companies have chased SEO — the slippery science of getting your results high up in Google’s search rankings to improve web traffic. More recently, however, the advent of cheap, easy-to-use AI copywriting tools enabled by GPT-3 has changed the game entirely. While AI-based copywriting has been steadily... Read More\nThe post How AI Copywriters Are Changing SEO appeared first on Future.",
-          "link": "https://future.com/will-gpt-3-ai-change-seo/",
-          "publishedOn": "2022-08-03T15:00:54.000Z",
-          "wordCount": 2431,
-          "title": "How AI Copywriters Are Changing SEO",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/08/How-AI-Copywriters-are-Affecting-SEO-final-FB-1.png"
         }
       ]
     }

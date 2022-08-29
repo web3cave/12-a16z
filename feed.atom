@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T14:11:17.555Z</id>
+    <id>urn:2022-08-29T15:07:51.045Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-29T14:11:17.555Z</updated>
+    <updated>2022-08-29T15:07:51.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jason Fried on Why He Doesn’t Do Planning or Politics at Work]]></title>
+        <id>https://future.com/?p=6947</id>
+        <link href="https://future.com/jason-fried-basecamp-hey-interview/"/>
+        <updated>2022-08-29T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Compared with many startups, 37signals cofounder Jason Fried’s views around workplace culture, structure, and strategy could be considered subversive. He’d call them “honest,” a word he uses often when describing his leadership style. The outspoken maker of Basecamp and HEY has cultivated a reputation as a tech industry contrarian over the past two decades with... Read More
+The post Jason Fried on Why He Doesn’t Do Planning or Politics at Work appeared first on Future.]]></summary>
+        <author>
+            <name>Jason Fried and Lauren Murrow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thinking Through CC0 and IP for NFT Communities]]></title>
         <id>https://future.com/?p=6924</id>
@@ -102,17 +113,6 @@ The post Why Developers Are Building So Many Side Projects appeared first on Fut
 The post AI’s Next Frontier: Brains on Demand appeared first on Future.]]></summary>
         <author>
             <name>Patrick Mineault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Copywriters Are Changing SEO]]></title>
-        <id>https://future.com/?p=6671</id>
-        <link href="https://future.com/will-gpt-3-ai-change-seo/"/>
-        <updated>2022-08-03T15:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Since the beginning of search engines, writers and companies have chased SEO — the slippery science of getting your results high up in Google’s search rankings to improve web traffic. More recently, however, the advent of cheap, easy-to-use AI copywriting tools enabled by GPT-3 has changed the game entirely. While AI-based copywriting has been steadily... Read More
-The post How AI Copywriters Are Changing SEO appeared first on Future.]]></summary>
-        <author>
-            <name>Chris Tweten</name>
         </author>
     </entry>
 </feed>
