@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T18:08:55.462Z</id>
+    <id>urn:2022-08-31T19:05:46.325Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-31T18:08:55.462Z</updated>
+    <updated>2022-08-31T19:05:46.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grow or Die: A Framework for Turning Your Company Around Fast]]></title>
+        <id>https://future.com/?p=7009</id>
+        <link href="https://future.com/grow-or-die-supergoals/"/>
+        <updated>2022-08-31T18:22:46.000Z</updated>
+        <summary type="html"><![CDATA[This post originally ran here. Most great teams would agree, there’s nothing more powerful for executing on big ambitions than a clearly defined and well-communicated goal. But sometimes the stakes are much higher than usual. In these instances, a goal requires even more focus, execution, and clarity. All of these can be achieved through a... Read More
+The post Grow or Die: A Framework for Turning Your Company Around Fast appeared first on Future.]]></summary>
+        <author>
+            <name>Michael Mignano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Synthetic Embryos Can and Can’t Do, Now and in the Future]]></title>
         <id>https://future.com/?p=6979</id>
@@ -102,17 +113,6 @@ The post Unbundling Digital Identity Unlocks New Ways to Play and Build appeared
 The post How Headless Commerce Will Change How and Where We Buy appeared first on Future.]]></summary>
         <author>
             <name>Dirk Hoerig and Derrick Harris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Developers Are Building So Many Side Projects]]></title>
-        <id>https://future.com/?p=6737</id>
-        <link href="https://future.com/developers-side-projects/"/>
-        <updated>2022-08-09T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Over the last two years, I’ve built and launched eight tiny internet projects. From apps to websites, most of them have flopped — but together, my ragtag group of projects might be considered ramen profitable. My last project, Paper Website, lets you start a blog using pen and paper. It was a weird idea, but... Read More
-The post Why Developers Are Building So Many Side Projects appeared first on Future.]]></summary>
-        <author>
-            <name>Ben Stokes</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=7009",
+          "author": "Michael Mignano",
+          "description": "This post originally ran here. Most great teams would agree, there’s nothing more powerful for executing on big ambitions than a clearly defined and well-communicated goal. But sometimes the stakes are much higher than usual. In these instances, a goal requires even more focus, execution, and clarity. All of these can be achieved through a... Read More\nThe post Grow or Die: A Framework for Turning Your Company Around Fast appeared first on Future.",
+          "link": "https://future.com/grow-or-die-supergoals/",
+          "publishedOn": "2022-08-31T18:22:46.000Z",
+          "wordCount": 4572,
+          "title": "Grow or Die: A Framework for Turning Your Company Around Fast",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/Existential_Cliff_Facebook-1.jpg"
+        },
+        {
           "id": "https://future.com/?p=6979",
           "author": "Magda Zernicka-Goetz and Nicole Neuman",
           "description": "Magdalena Zernicka-Goetz is the Bren Professor of Biology and Biological Engineering at the California Institute of Technology and a Professor of Stem Cell Biology and Development at the University of Cambridge. In this interview, we discuss recent advances in technologies that allow us to use stem cells to create embryo-like structures with a brain and... Read More\nThe post What Synthetic Embryos Can and Can’t Do, Now and in the Future appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3860,
           "title": "How Headless Commerce Will Change How and Where We Buy",
           "imageUrl": "https://future.com/wp-content/uploads/2022/08/SocialShareCard-HeadlessCommerceQA-FB.png"
-        },
-        {
-          "id": "https://future.com/?p=6737",
-          "author": "Ben Stokes",
-          "description": "Over the last two years, I’ve built and launched eight tiny internet projects. From apps to websites, most of them have flopped — but together, my ragtag group of projects might be considered ramen profitable. My last project, Paper Website, lets you start a blog using pen and paper. It was a weird idea, but... Read More\nThe post Why Developers Are Building So Many Side Projects appeared first on Future.",
-          "link": "https://future.com/developers-side-projects/",
-          "publishedOn": "2022-08-09T14:00:43.000Z",
-          "wordCount": 2766,
-          "title": "Why Developers Are Building So Many Side Projects",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/08/841-Tiny-Projects-Social-Share-Facebook-FINAL.jpg"
         }
       ]
     }
