@@ -6,6 +6,16 @@
       "siteUrl": "https://future.com",
       "articles": [
         {
+          "id": "https://future.com/?p=7011",
+          "author": "Ryan Glasgow",
+          "description": "Far too many products still fail because there’s simply no demand for them. How does that happen? Or, how do so many startups launch entire businesses without realizing users didn’t need their products?  By overlooking user research.  Every tech company has to build and ship new products to continue growing. And, whether there are 10... Read More\nThe post Research Twice, Build Once: How to Know Your Users as You Grow appeared first on Future.",
+          "link": "https://future.com/user-research-as-you-grow/",
+          "publishedOn": "2022-09-01T14:00:09.000Z",
+          "wordCount": 3803,
+          "title": "Research Twice, Build Once: How to Know Your Users as You Grow",
+          "imageUrl": "https://future.com/wp-content/uploads/2022/08/SocialShareCard-UserResearch-Facebook.png"
+        },
+        {
           "id": "https://future.com/?p=7009",
           "author": "Michael Mignano",
           "description": "This post originally ran here. Most great teams would agree, there’s nothing more powerful for executing on big ambitions than a clearly defined and well-communicated goal. But sometimes the stakes are much higher than usual. In these instances, a goal requires even more focus, execution, and clarity. All of these can be achieved through a... Read More\nThe post Grow or Die: A Framework for Turning Your Company Around Fast appeared first on Future.",
@@ -94,16 +104,6 @@
           "wordCount": 3815,
           "title": "Unbundling Digital Identity Unlocks New Ways to Play and Build",
           "imageUrl": "https://future.com/wp-content/uploads/2022/08/830-The-Unbundling-and-Rebundling-of-Digital-Identity-Twitter-FINAL.jpg"
-        },
-        {
-          "id": "https://future.com/?p=6768",
-          "author": "Dirk Hoerig and Derrick Harris",
-          "description": "Dirk Hoerig is the co-founder and CEO of Commercetools, and a veteran of the ecommerce space spanning two decades. In this interview, he explains “headless commerce” and why this API-centric architecture (often built atop cloud infrastructure and microservices) is especially important in the world of online retail and digital transactions, overall. He also shares his... Read More\nThe post How Headless Commerce Will Change How and Where We Buy appeared first on Future.",
-          "link": "https://future.com/headless-commerce-change-how-we-buy/",
-          "publishedOn": "2022-08-11T14:00:44.000Z",
-          "wordCount": 3860,
-          "title": "How Headless Commerce Will Change How and Where We Buy",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/08/SocialShareCard-HeadlessCommerceQA-FB.png"
         }
       ]
     }

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T13:28:54.044Z</id>
+    <id>urn:2022-09-01T14:06:57.733Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T13:28:54.044Z</updated>
+    <updated>2022-09-01T14:06:57.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Research Twice, Build Once: How to Know Your Users as You Grow]]></title>
+        <id>https://future.com/?p=7011</id>
+        <link href="https://future.com/user-research-as-you-grow/"/>
+        <updated>2022-09-01T14:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Far too many products still fail because there’s simply no demand for them. How does that happen? Or, how do so many startups launch entire businesses without realizing users didn’t need their products?  By overlooking user research.  Every tech company has to build and ship new products to continue growing. And, whether there are 10... Read More
+The post Research Twice, Build Once: How to Know Your Users as You Grow appeared first on Future.]]></summary>
+        <author>
+            <name>Ryan Glasgow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grow or Die: A Framework for Turning Your Company Around Fast]]></title>
         <id>https://future.com/?p=7009</id>
@@ -102,17 +113,6 @@ The post Tech Fear-Mongering Isn’t New—But It’s Time to Break the Cycle ap
 The post Unbundling Digital Identity Unlocks New Ways to Play and Build appeared first on Future.]]></summary>
         <author>
             <name>Jon Radoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Headless Commerce Will Change How and Where We Buy]]></title>
-        <id>https://future.com/?p=6768</id>
-        <link href="https://future.com/headless-commerce-change-how-we-buy/"/>
-        <updated>2022-08-11T14:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Dirk Hoerig is the co-founder and CEO of Commercetools, and a veteran of the ecommerce space spanning two decades. In this interview, he explains “headless commerce” and why this API-centric architecture (often built atop cloud infrastructure and microservices) is especially important in the world of online retail and digital transactions, overall. He also shares his... Read More
-The post How Headless Commerce Will Change How and Where We Buy appeared first on Future.]]></summary>
-        <author>
-            <name>Dirk Hoerig and Derrick Harris</name>
         </author>
     </entry>
 </feed>
