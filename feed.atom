@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-17T00:39:08.205Z</id>
+    <id>urn:2022-09-17T03:20:34.161Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-17T00:39:08.205Z</updated>
+    <updated>2022-09-17T03:20:34.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,17 +91,6 @@ The post The Insider’s Guide to Data Rooms: What to Know Before You Raise appe
 The post Remote Startups Will Win the War for Top Talent appeared first on Future.]]></summary>
         <author>
             <name>Chris Herd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GPT-3 for Science]]></title>
-        <id>https://future.com/?p=6859</id>
-        <link href="https://future.com/how-to-build-gpt-3-for-science/"/>
-        <updated>2022-08-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to create an image of velociraptors working on a skyscraper, in the style of “Lunch Atop A Skyscraper” of 1932? Use DALL-E. Want to create an imaginary standup comedy show by Peter Thiel, Elon Musk, and Larry Page? Use GPT-3. Want to deeply understand COVID-19 research and answer your questions based on evidence? Learn... Read More
-The post How to Build a GPT-3 for Science appeared first on Future.]]></summary>
-        <author>
-            <name>Josh Nicholson</name>
         </author>
     </entry>
 </feed>
