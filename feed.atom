@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T00:42:33.661Z</id>
+    <id>urn:2022-09-22T03:29:16.846Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T00:42:33.661Z</updated>
+    <updated>2022-09-22T03:29:16.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -80,17 +80,6 @@ The post Thinking Through CC0 and IP for NFT Communities appeared first on Futur
 The post The Insider’s Guide to Data Rooms: What to Know Before You Raise appeared first on Future.]]></summary>
         <author>
             <name>Justine Moore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Startups Will Win the War for Top Talent]]></title>
-        <id>https://future.com/?p=6869</id>
-        <link href="https://future.com/remote-startups-hire-top-talent/"/>
-        <updated>2022-08-23T14:00:40.000Z</updated>
-        <summary type="html"><![CDATA[The ease and speed with which you can now buy nearly anything — truly, anything — online is often taken for granted: not just food, but cars, homes, blue-chip art, even a college education. In the past 30 years, we have grown to trust the internet in a way we could never have imagined in... Read More
-The post Remote Startups Will Win the War for Top Talent appeared first on Future.]]></summary>
-        <author>
-            <name>Chris Herd</name>
         </author>
     </entry>
 </feed>
