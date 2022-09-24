@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-24T00:47:09.480Z</id>
+    <id>urn:2022-09-24T03:35:46.794Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-24T00:47:09.480Z</updated>
+    <updated>2022-09-24T03:35:46.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,17 +69,6 @@ The post Jason Fried on Why He Doesn’t Do Planning or Politics at Work appeare
 The post Thinking Through CC0 and IP for NFT Communities appeared first on Future.]]></summary>
         <author>
             <name>Chase Chapman, Nuzayra Haque-Shah, Austin Hurwitz and Jeff Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Insider’s Guide to Data Rooms: What to Know Before You Raise]]></title>
-        <id>https://future.com/?p=6886</id>
-        <link href="https://future.com/insiders-guide-to-data-rooms-fundraising/"/>
-        <updated>2022-08-25T14:10:10.000Z</updated>
-        <summary type="html"><![CDATA[It’s time for your startup to fundraise. You prepare a deck, practice your pitch, and start reaching out to investors. If a first meeting goes well, it often ends with a request to share your “data room.” But what is a data room, and what should be included in it? What is a data room?... Read More
-The post The Insider’s Guide to Data Rooms: What to Know Before You Raise appeared first on Future.]]></summary>
-        <author>
-            <name>Justine Moore</name>
         </author>
     </entry>
 </feed>
