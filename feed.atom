@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-25T00:41:35.449Z</id>
+    <id>urn:2022-09-25T03:31:07.197Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-25T00:41:35.449Z</updated>
+    <updated>2022-09-25T03:31:07.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -58,17 +58,6 @@ The post What Synthetic Embryos Can and Can’t Do, Now and in the Future appear
 The post Jason Fried on Why He Doesn’t Do Planning or Politics at Work appeared first on Future.]]></summary>
         <author>
             <name>Jason Fried and Lauren Murrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Through CC0 and IP for NFT Communities]]></title>
-        <id>https://future.com/?p=6924</id>
-        <link href="https://future.com/thinking-through-cc0-and-ip-for-nfts/"/>
-        <updated>2022-08-26T15:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Web3 Water Cooler, a moderated Slack chat about a trending topic in crypto. This week’s participants are Orca Protocol’s Chase Chapman, Austin Hurwitz of Venice Music, and IP lawyer Nuzayra Haque-Shah. NFTs are a web3 innovation, but the intellectual property frameworks surrounding them have been borrowed from a web2 world. This leaves web3... Read More
-The post Thinking Through CC0 and IP for NFT Communities appeared first on Future.]]></summary>
-        <author>
-            <name>Chase Chapman, Nuzayra Haque-Shah, Austin Hurwitz and Jeff Benson</name>
         </author>
     </entry>
 </feed>
