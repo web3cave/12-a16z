@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T00:52:12.363Z</id>
+    <id>urn:2022-09-28T03:32:19.340Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T00:52:12.363Z</updated>
+    <updated>2022-09-28T03:32:19.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -58,17 +58,6 @@ The post Grow or Die: A Framework for Turning Your Company Around Fast appeared 
 The post What Synthetic Embryos Can and Can’t Do, Now and in the Future appeared first on Future.]]></summary>
         <author>
             <name>Magda Zernicka-Goetz and Nicole Neuman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jason Fried on Why He Doesn’t Do Planning or Politics at Work]]></title>
-        <id>https://future.com/?p=6947</id>
-        <link href="https://future.com/jason-fried-basecamp-hey-interview/"/>
-        <updated>2022-08-29T15:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Compared with many startups, 37signals cofounder Jason Fried’s views around workplace culture, structure, and strategy could be considered subversive. He’d call them “honest,” a word he uses often when describing his leadership style. The outspoken maker of Basecamp and HEY has cultivated a reputation as a tech industry contrarian over the past two decades with... Read More
-The post Jason Fried on Why He Doesn’t Do Planning or Politics at Work appeared first on Future.]]></summary>
-        <author>
-            <name>Jason Fried and Lauren Murrow</name>
         </author>
     </entry>
 </feed>
