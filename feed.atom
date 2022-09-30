@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T06:03:19.782Z</id>
+    <id>urn:2022-09-30T07:31:16.575Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T06:03:19.782Z</updated>
+    <updated>2022-09-30T07:31:16.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,17 +36,6 @@ The post Our Cities Have an API Problem. Startups Can Fix It. appeared first on 
 The post Research Twice, Build Once: How to Know Your Users as You Grow appeared first on Future.]]></summary>
         <author>
             <name>Ryan Glasgow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grow or Die: A Framework for Turning Your Company Around Fast]]></title>
-        <id>https://future.com/?p=7009</id>
-        <link href="https://future.com/grow-or-die-supergoals/"/>
-        <updated>2022-08-31T18:22:46.000Z</updated>
-        <summary type="html"><![CDATA[This post originally ran here. Most great teams would agree, there’s nothing more powerful for executing on big ambitions than a clearly defined and well-communicated goal. But sometimes the stakes are much higher than usual. In these instances, a goal requires even more focus, execution, and clarity. All of these can be achieved through a... Read More
-The post Grow or Die: A Framework for Turning Your Company Around Fast appeared first on Future.]]></summary>
-        <author>
-            <name>Michael Mignano</name>
         </author>
     </entry>
 </feed>
