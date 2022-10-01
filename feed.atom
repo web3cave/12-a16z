@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-01T01:01:27.301Z</id>
+    <id>urn:2022-10-01T04:19:48.915Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-01T01:01:27.301Z</updated>
+    <updated>2022-10-01T04:19:48.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,17 +25,6 @@ The post Did We Overeat on Software? appeared first on Future.]]></summary>
 The post Our Cities Have an API Problem. Startups Can Fix It. appeared first on Future.]]></summary>
         <author>
             <name>Zach Caceres</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Twice, Build Once: How to Know Your Users as You Grow]]></title>
-        <id>https://future.com/?p=7011</id>
-        <link href="https://future.com/user-research-as-you-grow/"/>
-        <updated>2022-09-01T14:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Far too many products still fail because there’s simply no demand for them. How does that happen? Or, how do so many startups launch entire businesses without realizing users didn’t need their products?  By overlooking user research.  Every tech company has to build and ship new products to continue growing. And, whether there are 10... Read More
-The post Research Twice, Build Once: How to Know Your Users as You Grow appeared first on Future.]]></summary>
-        <author>
-            <name>Ryan Glasgow</name>
         </author>
     </entry>
 </feed>
