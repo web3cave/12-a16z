@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T00:51:37.617Z</id>
+    <id>urn:2022-10-13T03:29:31.663Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T00:51:37.617Z</updated>
+    <updated>2022-10-13T03:29:31.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,17 +25,6 @@ The post Why Applying Machine Learning to Biology is Hard – But Worth It appea
 The post Did We Overeat on Software? appeared first on Future.]]></summary>
         <author>
             <name>Andrej Safundzic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Cities Have an API Problem. Startups Can Fix It.]]></title>
-        <id>https://future.com/?p=7073</id>
-        <link href="https://future.com/cities-broken-api/"/>
-        <updated>2022-09-13T15:00:28.000Z</updated>
-        <summary type="html"><![CDATA[“Cities are technological artifacts,” Kevin Kelly once wrote, “the largest technology we make.” What if we looked at America’s cities not metaphorically as tech, but literally as a technological system? Rather than fighting about politics, we’d ask our cities the mundane questions that engineers and entrepreneurs ask about any other technology: “Is it expensive to... Read More
-The post Our Cities Have an API Problem. Startups Can Fix It. appeared first on Future.]]></summary>
-        <author>
-            <name>Zach Caceres</name>
         </author>
     </entry>
 </feed>
